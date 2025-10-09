@@ -1,1 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WTW Cinemas//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WTW Cinema Film Releases
+X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:Tron: Ares @ WTW St Austell
+DESCRIPTION:Tron: Ares (119 min)
 
+A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.
+
+🎬 Film release at WTW Cinemas St Austell
+🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/tron-ares/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Gabby’s Dollhouse: The Movie @ WTW St Austell
+DESCRIPTION:Gabby’s Dollhouse: The Movie (98 min)
+
+Gabby heads out on a road trip with her Grandma Gigi to the urban wonderland of Cat Francisco. But when Gabby's dollhouse, her most prized possession, ends up in the hands of an eccentric cat lady named Vera, Gabby sets off on an adventure through the real world to get the Gabby Cats back together and save the dollhouse before it's too late.
+
+🎬 Film release at WTW Cinemas St Austell
+🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/gabbys-dollhouse-the-movie/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Wicked: For Good @ WTW St Austell
+DESCRIPTION:Wicked: For Good
+
+As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.
+
+🎬 Film release at WTW Cinemas St Austell
+🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/wicked-for-good/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Avatar: Fire And Ash @ WTW St Austell
+DESCRIPTION:Avatar: Fire And Ash
+
+In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.
+
+🎬 Film release at WTW Cinemas St Austell
+🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/avatar-fire-and-ash/?screen=st-austell
+END:VEVENT
+END:VCALENDAR
