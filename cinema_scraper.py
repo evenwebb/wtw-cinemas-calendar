@@ -27,17 +27,17 @@ CINEMAS = {
         'url': 'https://wtwcinemas.co.uk/st-austell/coming-soon/'
     },
     'newquay': {
-        'enabled': True,
+        'enabled': False,
         'name': 'Newquay',
         'url': 'https://wtwcinemas.co.uk/newquay/coming-soon/'
     },
     'wadebridge': {
-        'enabled': True,
+        'enabled': False,
         'name': 'Wadebridge',
         'url': 'https://wtwcinemas.co.uk/wadebridge/coming-soon/'
     },
     'truro': {
-        'enabled': True,
+        'enabled': False,
         'name': 'Truro',
         'url': 'https://wtwcinemas.co.uk/truro/coming-soon/'
     }
