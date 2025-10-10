@@ -27,17 +27,17 @@ CINEMAS = {
         'url': 'https://wtwcinemas.co.uk/st-austell/coming-soon/'
     },
     'newquay': {
-        'enabled': False,
+        'enabled': True,
         'name': 'Newquay',
         'url': 'https://wtwcinemas.co.uk/newquay/coming-soon/'
     },
     'wadebridge': {
-        'enabled': False,
+        'enabled': True,
         'name': 'Wadebridge',
         'url': 'https://wtwcinemas.co.uk/wadebridge/coming-soon/'
     },
     'truro': {
-        'enabled': False,
+        'enabled': True,
         'name': 'Truro',
         'url': 'https://wtwcinemas.co.uk/truro/coming-soon/'
     }
@@ -361,6 +361,44 @@ def extract_films(url: str, cinema_name: str, cache: dict) -> list[tuple[datetim
     return films
 
 
+def escape_and_fold_ical_text(text: str, prefix: str = "") -> str:
+    """Escape and fold text for iCalendar format per RFC 5545.
+
+    Args:
+        text: The text to escape and fold
+        prefix: Optional prefix for the first line (e.g., "DESCRIPTION:")
+
+    Returns:
+        Properly escaped and folded text for iCalendar format
+    """
+    # Escape special characters per RFC 5545:
+    # - Backslash must be escaped as \\
+    # - Semicolons and commas should be escaped but not critical for DESCRIPTION
+    # - Newlines must be replaced with literal \n
+    escaped = text.replace('\\', '\\\\')  # Escape backslashes first
+    escaped = escaped.replace('\n', '\\n')  # Replace newlines with literal \n
+
+    # Add the prefix to create the full line
+    full_line = prefix + escaped
+
+    # Fold lines at 75 characters (RFC 5545 recommends 75 octets)
+    # Continuation lines must start with a single space
+    if len(full_line) <= 75:
+        return full_line
+
+    # Split into chunks of 75 characters (first line) and 74 characters (continuation lines)
+    result = []
+    result.append(full_line[:75])
+    remaining = full_line[75:]
+
+    while remaining:
+        # Continuation lines start with space, leaving 74 chars for content
+        result.append(' ' + remaining[:74])
+        remaining = remaining[74:]
+
+    return '\n'.join(result)
+
+
 def generate_alarm(alarm_config: dict, release_date: datetime.date) -> str:
     """Generate a VALARM component for iCalendar based on configuration.
 
@@ -454,8 +492,8 @@ def make_ics_event(release_date: datetime.date, film_title: str, cinema_name: st
         f"DTSTART;VALUE=DATE:{release_date.strftime('%Y%m%d')}\n"
         f"DTEND;VALUE=DATE:{dtend.strftime('%Y%m%d')}\n"
         f"SUMMARY:{summary}\n"
-        f"DESCRIPTION:{description}\n"
-        f"LOCATION:WTW Cinemas {cinema_name}\n"
+        + escape_and_fold_ical_text(description, "DESCRIPTION:") + "\n"
+        + f"LOCATION:WTW Cinemas {cinema_name}\n"
     )
 
     # Add URL if available (for booking tickets)
