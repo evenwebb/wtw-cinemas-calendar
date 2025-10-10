@@ -27,17 +27,17 @@ CINEMAS = {
         'url': 'https://wtwcinemas.co.uk/st-austell/coming-soon/'
     },
     'newquay': {
-        'enabled': False,
+        'enabled': True,
         'name': 'Newquay',
         'url': 'https://wtwcinemas.co.uk/newquay/coming-soon/'
     },
     'wadebridge': {
-        'enabled': False,
+        'enabled': True,
         'name': 'Wadebridge',
         'url': 'https://wtwcinemas.co.uk/wadebridge/coming-soon/'
     },
     'truro': {
-        'enabled': False,
+        'enabled': True,
         'name': 'Truro',
         'url': 'https://wtwcinemas.co.uk/truro/coming-soon/'
     }
@@ -314,13 +314,18 @@ def extract_films(url: str, cinema_name: str, cache: dict) -> list[tuple[datetim
 
     films: list[tuple[datetime.date, str, str, str, dict]] = []
 
-    # Find all film entries - they are in div elements with class "content"
-    # The structure is: div.content > h2 (title) + p (date) + a.button (link)
-    content_divs = soup.find_all("div", class_="content")
+    # Find all film entries - they are in div.times elements
+    # Structure: li > a (with URL) + figcaption > h2 (title) + div.times > p (date)
+    times_divs = soup.find_all("div", class_="times")
 
-    for div in content_divs:
-        # Extract film title from h2
-        title_elem = div.find("h2")
+    for times_div in times_divs:
+        # Get parent li element
+        parent_li = times_div.parent
+        if not parent_li:
+            continue
+
+        # Extract film title from h2 (inside figcaption)
+        title_elem = parent_li.find("h2")
         if not title_elem:
             continue
 
@@ -329,17 +334,17 @@ def extract_films(url: str, cinema_name: str, cache: dict) -> list[tuple[datetim
         # Remove "(TBC)" or similar suffixes from title
         title = re.sub(r"\s*\([^)]*\)$", "", title)
 
-        # Extract expected date from p tag
-        date_elem = div.find("p")
+        # Extract expected date from p tag inside div.times
+        date_elem = times_div.find("p")
         if not date_elem:
             continue
 
         date_text = date_elem.get_text(strip=True)
         release_date = parse_date(date_text)
 
-        # Extract the film URL from the button link inside this div
+        # Extract the film URL from the a tag in parent li
         film_url = ""
-        link_elem = div.find("a", href=re.compile(r'/film/'))
+        link_elem = parent_li.find("a", href=re.compile(r'/film/'))
         if link_elem:
             film_url = link_elem.get('href', '')
 
