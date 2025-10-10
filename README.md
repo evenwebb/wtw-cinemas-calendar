@@ -1,6 +1,6 @@
-# WTW Cinema Scraper
+# WTW Cinema's Movie Schedule Scraper
 
-This repository contains a Python script that scrapes upcoming film releases from WTW Cinemas across multiple locations (St Austell, Newquay, Wadebridge, and Truro) and converts them into a ready-to-import iCalendar (`.ics`) file.
+This repository contains a Python script that scrapes upcoming film releases from the Cornwall cinema chain, WTW Cinemas, across multiple locations (St Austell, Newquay, Wadebridge, and Truro) and converts them into a ready-to-import iCalendar (`.ics`) file. The script can be run for free using GitHub Actions. Clone the repository, edit the configuration, and enable actions to push changes to the repository in repository settings.
 
 Running the scraper generates `wtw_cinema.ics` which can be added to Google Calendar, Outlook, Apple Calendar or any other iCalendar compatible application.
 
@@ -16,7 +16,7 @@ Running the scraper generates `wtw_cinema.ics` which can be added to Google Cale
 * Event titles show both film name and cinema location (e.g., "Tron: Ares @ WTW St Austell")
 * Handles multiple date formats used on the website
 * Deduplicates entries to avoid duplicate calendar events
-* Writes a standards compliant `.ics` file and logs any parsing errors to `cinema_log.txt`
+* Writes a standards-compliant `.ics` file and logs any parsing errors to `cinema_log.txt`
 
 ## Requirements
 
