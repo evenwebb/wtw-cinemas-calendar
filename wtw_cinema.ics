@@ -37,10 +37,10 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
 SUMMARY:Good Fortune @ WTW St Austell
-DESCRIPTION:Good Fortune\n\nA well-meaning but rather inept angel named Gab
- riel meddles in the lives of a struggling gig worker and a wealthy capital
- ist.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book
-  tickets
+DESCRIPTION:Good Fortune (97 min)\n\nA well-meaning but rather inept angel 
+ named Gabriel meddles in the lives of a struggling gig worker and a wealth
+ y capitalist.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the UR
+ L to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/good-fortune/?screen=st-austell
 END:VEVENT
