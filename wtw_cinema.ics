@@ -53,6 +53,26 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/pets-on-a-train/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251026
+DTEND;VALUE=DATE:20251027
+SUMMARY:LOVE+WAR @ WTW St Austell
+DESCRIPTION:LOVE+WAR (96 min)\n\nPulitzer Prize-winning Lynsey Addario has 
+ risked her life to capture the stark realities of war — from the Middle Ea
+ st and Afghanistan to Ukraine. From National Geographic Documentary Films 
+ and Academy Award®-winning filmmakers Chai Vasarhelyi and Jimmy Chin,  Lov
+ e+War  chronicles Addario's ascent in the male-dominated world of conflict
+  photography. But her work is dangerous. She's been kidnapped twice while 
+ on assignment in war zones — a cost she must wrestle with each time she le
+ aves her husband and two sons to go on assignment. Behind the camera, Adda
+ rio is torn between her unwavering commitment to the essential work of jou
+ rnalism and the powerful, competing demands of motherhood, grappling with 
+ what it truly means to follow your calling when it threatens everything yo
+ u love.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to b
+ ook tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/lovewar/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Predator: Badlands @ WTW St Austell
@@ -87,6 +107,21 @@ DESCRIPTION:The Choral (113 min)\n\nYorkshire, 1916. A choral society's mal
  release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-choral/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251109
+DTEND;VALUE=DATE:20251110
+SUMMARY:The Golden Spurtle @ WTW St Austell
+DESCRIPTION:The Golden Spurtle (75 min)\n\nIn a quaint Scottish village in 
+ the Highlands, contenders from around the globe gather to compete for the 
+ title of World Porridge Champion armed only with oats, salt and water. As 
+ the ailing Porridge Chieftain's tenure ends, he embarks on a mission to fi
+ nd a successor. Amidst intense rivalries and the charm of eccentric locals
+ , this documentary delves into the legacy of the village and unveils a cap
+ tivating culinary spectacle.\n\n🎬 Film release at WTW Cinemas St Austell\n
+ 🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-golden-spurtle/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
