@@ -1,18 +1,49 @@
-import re
+"""WTW Cinemas Calendar Scraper.
+
+Scrapes upcoming film releases from WTW Cinemas and generates an iCalendar file.
+"""
 import datetime
-import logging
 import json
+import logging
 import os
+import re
+import time
+from itertools import groupby
 from pathlib import Path
+from typing import Dict, List, Optional, Tuple
 
 import requests
 from bs4 import BeautifulSoup
-import time
 
+# ============================================================================
+# CONSTANTS
+# ============================================================================
+# HTTP Request Settings
+HTTP_TIMEOUT = 60
+HTTP_RETRIES = 3
+HTTP_RETRY_DELAY = 1
+HTTP_RETRY_MULTIPLIER = 2
+USER_AGENT = (
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+    'AppleWebKit/537.36 (KHTML, like Gecko) '
+    'Chrome/119.0.0.0 Safari/537.36'
+)
+
+# iCalendar Settings
+ICAL_LINE_LENGTH = 75
+ICAL_OUTPUT_FILE = "wtw_cinema.ics"
+
+# Synopsis Extraction Settings
+MIN_SYNOPSIS_LENGTH = 50
+MAX_SYNOPSIS_LENGTH = 500
+SYNOPSIS_SKIP_TERMS = ['cookie', 'privacy', 'terms', 'wheelchair', 'audio description']
+
+# Logging
+LOG_FILE = "cinema_log.txt"
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-error_handler = logging.FileHandler("cinema_log.txt")
+error_handler = logging.FileHandler(LOG_FILE)
 error_handler.setLevel(logging.ERROR)
 logger.addHandler(error_handler)
 
@@ -129,8 +160,16 @@ def get_base_film_url(url: str) -> str:
     return url
 
 
-def load_cache() -> dict:
-    """Load the film details cache from disk."""
+def load_cache() -> Dict[str, dict]:
+    """Load the film details cache from disk.
+
+    Loads cached film details from CACHE_FILE and removes expired entries.
+    Expired entries are older than CACHE_EXPIRY_DAYS.
+
+    Returns:
+        Dictionary mapping film URLs to cached film details.
+        Returns empty dict if cache file doesn't exist or on error.
+    """
     if not os.path.exists(CACHE_FILE):
         return {}
 
@@ -144,27 +183,54 @@ def load_cache() -> dict:
 
         logger.info("Loaded cache with %d entries", len(cache))
         return cache
+    except json.JSONDecodeError as e:
+        logger.warning("Cache file is corrupted, starting fresh: %s", e)
+        return {}
+    except (OSError, IOError) as e:
+        logger.warning("Failed to read cache file: %s", e)
+        return {}
     except Exception as e:
-        logger.warning("Failed to load cache: %s", e)
+        logger.warning("Unexpected error loading cache: %s", e)
         return {}
 
 
-def save_cache(cache: dict) -> None:
-    """Save the film details cache to disk."""
+def save_cache(cache: Dict[str, dict]) -> None:
+    """Save the film details cache to disk.
+
+    Args:
+        cache: Dictionary mapping film URLs to film details to be saved
+    """
     try:
         with open(CACHE_FILE, 'w', encoding='utf-8') as f:
             json.dump(cache, f, indent=2, ensure_ascii=False)
         logger.info("Saved cache with %d entries", len(cache))
+    except (OSError, IOError) as e:
+        logger.error("Failed to write cache file: %s", e)
     except Exception as e:
-        logger.warning("Failed to save cache: %s", e)
+        logger.error("Unexpected error saving cache: %s", e)
 
 
-def fetch_with_retries(url: str, retries: int = 3, timeout: int = 60) -> requests.Response:
-    """Return HTTP response, retrying with exponential backoff on errors."""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
-    }
-    delay = 1
+def fetch_with_retries(
+    url: str,
+    retries: int = HTTP_RETRIES,
+    timeout: int = HTTP_TIMEOUT
+) -> requests.Response:
+    """Return HTTP response, retrying with exponential backoff on errors.
+
+    Args:
+        url: The URL to fetch
+        retries: Number of retry attempts
+        timeout: Request timeout in seconds
+
+    Returns:
+        HTTP response object
+
+    Raises:
+        requests.RequestException: If all retry attempts fail
+    """
+    headers = {'User-Agent': USER_AGENT}
+    delay = HTTP_RETRY_DELAY
+
     for attempt in range(retries):
         try:
             response = requests.get(url, headers=headers, timeout=timeout)
@@ -175,11 +241,24 @@ def fetch_with_retries(url: str, retries: int = 3, timeout: int = 60) -> request
             if attempt == retries - 1:
                 raise
             time.sleep(delay)
-            delay *= 2
+            delay *= HTTP_RETRY_MULTIPLIER
 
 
-def parse_date(text: str) -> datetime.date | None:
-    """Parse date from various formats found on the cinema website."""
+def parse_date(text: str) -> Optional[datetime.date]:
+    """Parse date from various formats found on the cinema website.
+
+    Supports two formats:
+    1. "Expected: DD Month YYYY" (e.g., "Expected: 10 October 2025")
+    2. "Expected at WTW Cinemas from the DDth Month" (e.g., "Expected at WTW Cinemas from the 10th October")
+
+    For format 2, assumes current year or next year if the date is in the past.
+
+    Args:
+        text: Text containing a date string
+
+    Returns:
+        Parsed date object, or None if parsing fails
+    """
     # Try the primary format: "Expected: 10 October 2025"
     match = DATE_PATTERN.search(text)
     if match:
@@ -214,7 +293,7 @@ def parse_date(text: str) -> datetime.date | None:
         return None
 
 
-def fetch_film_details(film_url: str, cache: dict) -> dict:
+def fetch_film_details(film_url: str, cache: Dict[str, dict]) -> Dict[str, str]:
     """Fetch detailed information about a film from its individual page.
 
     Args:
@@ -271,8 +350,9 @@ def fetch_film_details(film_url: str, cache: dict) -> dict:
         # Usually in a div or section describing the film
         for p in soup.find_all('p'):
             text = p.get_text(strip=True)
-            # Synopsis is usually longer than 50 characters
-            if len(text) > 50 and not any(skip in text.lower() for skip in ['cookie', 'privacy', 'terms', 'wheelchair', 'audio description']):
+            # Synopsis is usually longer than MIN_SYNOPSIS_LENGTH characters
+            if (len(text) > MIN_SYNOPSIS_LENGTH and
+                not any(skip in text.lower() for skip in SYNOPSIS_SKIP_TERMS)):
                 details['synopsis'] = text
                 break
 
@@ -280,7 +360,8 @@ def fetch_film_details(film_url: str, cache: dict) -> dict:
         if not details['synopsis']:
             for div in soup.find_all('div'):
                 text = div.get_text(strip=True)
-                if 50 < len(text) < 500 and not any(skip in text.lower() for skip in ['cookie', 'privacy', 'terms']):
+                if (MIN_SYNOPSIS_LENGTH < len(text) < MAX_SYNOPSIS_LENGTH and
+                    not any(skip in text.lower() for skip in SYNOPSIS_SKIP_TERMS)):
                     details['synopsis'] = text
                     break
 
@@ -291,13 +372,19 @@ def fetch_film_details(film_url: str, cache: dict) -> dict:
         cache[base_url] = details.copy()
         cache[base_url]['cached_at'] = datetime.datetime.now().isoformat()
 
+    except requests.RequestException as e:
+        logger.warning("Network error fetching film details from %s: %s", film_url, e)
     except Exception as e:
-        logger.warning("Failed to fetch film details from %s: %s", film_url, e)
+        logger.warning("Unexpected error fetching film details from %s: %s", film_url, e)
 
     return details
 
 
-def extract_films(url: str, cinema_name: str, cache: dict) -> list[tuple[datetime.date, str, str, str, dict]]:
+def extract_films(
+    url: str,
+    cinema_name: str,
+    cache: Dict[str, dict]
+) -> List[Tuple[datetime.date, str, str, str, Dict[str, str]]]:
     """Extract film releases from the cinema website.
 
     Args:
@@ -312,7 +399,7 @@ def extract_films(url: str, cinema_name: str, cache: dict) -> list[tuple[datetim
     response = fetch_with_retries(url)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    films: list[tuple[datetime.date, str, str, str, dict]] = []
+    films: List[Tuple[datetime.date, str, str, str, Dict[str, str]]] = []
 
     # Find all film entries - they are in div.times elements
     # Structure: li > a (with URL) + figcaption > h2 (title) + div.times > p (date)
@@ -381,25 +468,25 @@ def escape_and_fold_ical_text(text: str, prefix: str = "") -> str:
     # Add the prefix to create the full line
     full_line = prefix + escaped
 
-    # Fold lines at 75 characters (RFC 5545 recommends 75 octets)
+    # Fold lines at ICAL_LINE_LENGTH characters (RFC 5545 recommends 75 octets)
     # Continuation lines must start with a single space
-    if len(full_line) <= 75:
+    if len(full_line) <= ICAL_LINE_LENGTH:
         return full_line
 
-    # Split into chunks of 75 characters (first line) and 74 characters (continuation lines)
+    # Split into chunks of ICAL_LINE_LENGTH (first line) and ICAL_LINE_LENGTH-1 (continuation)
     result = []
-    result.append(full_line[:75])
-    remaining = full_line[75:]
+    result.append(full_line[:ICAL_LINE_LENGTH])
+    remaining = full_line[ICAL_LINE_LENGTH:]
 
     while remaining:
-        # Continuation lines start with space, leaving 74 chars for content
-        result.append(' ' + remaining[:74])
-        remaining = remaining[74:]
+        # Continuation lines start with space, leaving ICAL_LINE_LENGTH-1 chars for content
+        result.append(' ' + remaining[:ICAL_LINE_LENGTH - 1])
+        remaining = remaining[ICAL_LINE_LENGTH - 1:]
 
     return '\n'.join(result)
 
 
-def generate_alarm(alarm_config: dict, release_date: datetime.date) -> str:
+def generate_alarm(alarm_config: Dict[str, any], release_date: datetime.date) -> str:
     """Generate a VALARM component for iCalendar based on configuration.
 
     Args:
@@ -452,8 +539,28 @@ def generate_alarm(alarm_config: dict, release_date: datetime.date) -> str:
     )
 
 
-def make_ics_event(release_date: datetime.date, film_title: str, cinema_name: str, film_url: str = "", film_details: dict = None) -> str:
-    """Return an iCalendar VEVENT string for a film release."""
+def make_ics_event(
+    release_date: datetime.date,
+    film_title: str,
+    cinema_name: str,
+    film_url: str = "",
+    film_details: Optional[Dict[str, str]] = None
+) -> str:
+    """Return an iCalendar VEVENT string for a film release.
+
+    Creates an all-day event with rich metadata including runtime, cast, synopsis,
+    and optional booking URL. Includes notifications if configured.
+
+    Args:
+        release_date: The date the film is released
+        film_title: Title of the film
+        cinema_name: Name of the cinema
+        film_url: Optional URL for booking tickets
+        film_details: Optional dict with 'runtime', 'cast', 'synopsis' keys
+
+    Returns:
+        iCalendar VEVENT string formatted per RFC 5545
+    """
     # Cinema releases are all-day events
     # iCal DTEND should be the day after the event for all-day events
     dtend = release_date + datetime.timedelta(days=1)
@@ -510,9 +617,71 @@ def make_ics_event(release_date: datetime.date, film_title: str, cinema_name: st
     return event
 
 
+def validate_configuration() -> None:
+    """Validate the configuration settings.
+
+    Raises:
+        ValueError: If configuration is invalid
+    """
+    # Validate notification time format
+    if NOTIFICATIONS.get('enabled', False):
+        time_pattern = re.compile(r'^([0-1]?[0-9]|2[0-3]):[0-5][0-9]$')
+        if not time_pattern.match(NOTIFICATION_TIME):
+            raise ValueError(
+                f"Invalid NOTIFICATION_TIME: '{NOTIFICATION_TIME}'. "
+                f"Must be in HH:MM format (e.g., '09:00')"
+            )
+
+        # Validate individual alarm times
+        for alarm in NOTIFICATIONS.get('alarms', []):
+            if 'time' in alarm:
+                if not time_pattern.match(alarm['time']):
+                    raise ValueError(
+                        f"Invalid alarm time: '{alarm['time']}'. "
+                        f"Must be in HH:MM format (e.g., '18:00')"
+                    )
+
+            # Validate alarm has required fields
+            if 'days_before' not in alarm and 'hours_before' not in alarm:
+                raise ValueError(
+                    "Each alarm must have either 'days_before' or 'hours_before'"
+                )
+
+    # Validate cache expiry days
+    if CACHE_EXPIRY_DAYS < 1:
+        raise ValueError(
+            f"CACHE_EXPIRY_DAYS must be at least 1, got {CACHE_EXPIRY_DAYS}"
+        )
+
+    # Validate at least one cinema is enabled
+    if not any(cinema['enabled'] for cinema in CINEMAS.values()):
+        raise ValueError(
+            "At least one cinema must be enabled in CINEMAS configuration"
+        )
+
+
 def main() -> None:
-    """Main function to scrape films and generate iCal file."""
-    all_films: list[tuple[datetime.date, str, str, str, dict]] = []
+    """Main function to scrape films and generate iCal file.
+
+    Orchestrates the entire scraping workflow:
+    1. Loads film details cache
+    2. Scrapes enabled cinemas for film releases
+    3. Fetches detailed film information (with caching)
+    4. Generates iCalendar file with all events
+    5. Saves updated cache
+    6. Displays summary of found films
+
+    Exits early if no cinemas are enabled or no films are found.
+    """
+    # Validate configuration first
+    try:
+        validate_configuration()
+    except ValueError as e:
+        logger.error("Configuration error: %s", e)
+        print(f"Configuration Error: {e}")
+        return
+
+    all_films: List[Tuple[datetime.date, str, str, str, Dict[str, str]]] = []
 
     # Load cache
     cache = load_cache()
@@ -552,7 +721,7 @@ def main() -> None:
     all_films.sort(key=lambda x: (x[0], x[2]))
 
     # Generate iCal events
-    events: list[str] = []
+    events: List[str] = []
     for release_date, title, cinema_name, film_url, film_details in all_films:
         events.append(make_ics_event(release_date, title, cinema_name, film_url, film_details))
 
@@ -571,14 +740,12 @@ def main() -> None:
         + "END:VCALENDAR\n"
     )
 
-    output_file = "wtw_cinema.ics"
-    with open(output_file, "w", encoding="utf-8") as f:
+    with open(ICAL_OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(ical)
 
-    print(f"\n✓ Created {output_file} with {len(all_films)} film release(s)\n")
+    print(f"\n✓ Created {ICAL_OUTPUT_FILE} with {len(all_films)} film release(s)\n")
 
     # Group films by date for display
-    from itertools import groupby
     for release_date, date_group in groupby(all_films, key=lambda x: x[0]):
         films_on_date = list(date_group)
         print(f"{release_date.strftime('%d %B %Y')}:")
