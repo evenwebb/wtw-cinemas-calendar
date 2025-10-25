@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DTEND;VALUE=DATE:20251025
-SUMMARY:Springsteen: Deliver Me From Nowhere @ WTW St Austell
-DESCRIPTION:Springsteen: Deliver Me From Nowhere (119 min)\n\nBruce Springs
- teen, a young musician on the cusp of global superstardom, struggles to re
- concile the pressures of success with the ghosts of his past.\n\n🎬 Film re
- lease at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/springsteen-deliver-me-from-nowhere/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DTEND;VALUE=DATE:20251025
-SUMMARY:Pets On A Train @ WTW St Austell
-DESCRIPTION:Pets On A Train (87 min)\n\nWhen a train unexpectedly starts up
- , taking only pets with it, the animals discover that Hans, a badger with 
- a grudge is behind it all. While the crash seems inevitable, the animals c
- an count on Falcon, a roguish Raccoon who will do anything to save them.\n
- \n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book ticke
- ts
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/pets-on-a-train/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Predator: Badlands @ WTW St Austell
@@ -38,19 +14,6 @@ DESCRIPTION:Predator: Badlands\n\nIn the future on a remote planet, a young
   release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/predator-badlands/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:The Running Man @ WTW St Austell
-DESCRIPTION:The Running Man\n\nDesperate to save his sick daughter, a worki
- ng-class dad joins a deadly spectator sport where the longer he stays aliv
- e, the bigger the payout. Between the assassins chasing him and the showru
- nners betting against him, he's about to find out there's much more at sta
- ke than the prize money.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ C
- lick the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/the-running-man/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
@@ -76,6 +39,19 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/now-you-see-me-now-you-dont/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:The Running Man @ WTW St Austell
+DESCRIPTION:The Running Man\n\nDesperate to save his sick daughter, a worki
+ ng-class dad joins a deadly spectator sport where the longer he stays aliv
+ e, the bigger the payout. Between the assassins chasing him and the showru
+ nners betting against him, he's about to find out there's much more at sta
+ ke than the prize money.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ C
+ lick the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-running-man/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Wicked: For Good @ WTW St Austell
@@ -98,6 +74,20 @@ DESCRIPTION:Zootopia 2\n\nDetectives Judy Hopps and Nick Wilde find themsel
  mas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/zootopia-2/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery @ WTW St Austell
+DESCRIPTION:Wake Up Dead Man: A Knives Out Mystery\n\nWhen young priest Jud
+  Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wi
+ cks, it's clear that all is not well in the pews. After a sudden and seemi
+ ngly impossible murder rocks the town, the lack of an obvious suspect prom
+ pts local police chief Geraldine Scott to join forces with renowned detect
+ ive Benoit Blanc to unravel a mystery that defies all logic.\n\n🎬 Film rel
+ ease at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/wake-up-dead-man-a-knives-out-mystery/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251205
@@ -141,6 +131,18 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-spongebob-movie-search-for-squarepants/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:Anaconda @ WTW St Austell
+DESCRIPTION:Anaconda\n\nA group of friends facing mid-life crises head to t
+ he rainforest with the intention of remaking their favourite movie from th
+ eir youth, only to find themselves in a fight for their lives against natu
+ ral disasters, giant snakes and violent criminals.\n\n🎬 Film release at WT
+ W Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/anaconda/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:Song Sung Blue @ WTW St Austell
@@ -150,6 +152,16 @@ DESCRIPTION:Song Sung Blue\n\nTwo down-on-their-luck musicians form a Neil
  he URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/song-sung-blue/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Hamnet @ WTW St Austell
+DESCRIPTION:Hamnet\n\nThe powerful story of love and loss that inspired the
+  creation of Shakespeare's timeless masterpiece, Hamlet.\n\n🎬 Film release
+  at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/hamnet/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260116
@@ -162,6 +174,17 @@ DESCRIPTION:28 Years Later: The Bone Temple\n\nDr. Kelson finds himself in
  ick the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/28-years-later-the-bone-temple/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Wuthering Heights @ WTW St Austell
+DESCRIPTION:Wuthering Heights\n\nA passionate and tumultuous love story set
+  against the backdrop of the Yorkshire moors. exploring the intense and de
+ structive relationship between Heathcliff and Catherine Earnshaw.\n\n🎬 Fil
+ m release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/wuthering-heights/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
@@ -219,6 +242,19 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/michael/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:The Devil Wears Prada 2 @ WTW St Austell
+DESCRIPTION:The Devil Wears Prada 2\n\nMiranda Priestley navigates her care
+ er amid the decline of traditional magazine publishing. She faces off agai
+ nst Emily Charlton, her one-time assistant, now a high-powered executive f
+ or a luxury group, with advertising dollars that Priestly desperately need
+ s.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book t
+ ickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW St Austell
@@ -263,6 +299,17 @@ DESCRIPTION:Minions 3\n\nThe third installment in the Minions spin-off seri
   release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/minions-3/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Moana @ WTW St Austell
+DESCRIPTION:Moana\n\nIn Ancient Polynesia, when a terrible curse incurred b
+ y Maui reaches the island of an impetuous Chieftain, his willful daughter 
+ answers the Ocean's call to seek out the demigod to set things right.\n\n🎬
+  Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/moana/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260717
