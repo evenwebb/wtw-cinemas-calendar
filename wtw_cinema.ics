@@ -7,6 +7,18 @@ X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
+SUMMARY:Dragonfly @ WTW St Austell
+DESCRIPTION:Dragonfly (98 min)\n\nNeglected pensioner Elsie finds an unexpe
+ cted ally in her younger neighbour Colleen. Over time, a friendship grows 
+ but Elsie’s resentful, guilt-ridden son stirs up tensions that bring shock
+ ing consequences.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click th
+ e URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/dragonfly-2/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
 SUMMARY:Predator: Badlands @ WTW St Austell
 DESCRIPTION:Predator: Badlands\n\nIn the future on a remote planet, a young
   Predator, outcast from his clan, finds an unlikely ally in Thia and embar
@@ -143,6 +155,18 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/anaconda/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:The Housemaid @ WTW St Austell
+DESCRIPTION:The Housemaid\n\nMillie is a struggling woman who is relieved t
+ o get a fresh start as a housemaid to Nina and Andrew, an upscale, wealthy
+  couple. She soon learns that the family’s secrets are far more dangerous 
+ than her own.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the UR
+ L to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-housemaid/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:Song Sung Blue @ WTW St Austell
@@ -176,6 +200,43 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/28-years-later-the-bone-temple/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:The History Of Sound @ WTW St Austell
+DESCRIPTION:The History Of Sound\n\nn 1917, two young music students attend
+ ing the Boston Conservatory bond over their mutual love of folk music. The
+ y reconnect a few years later, embarking on a song collecting trip in the 
+ backwaters of Maine.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click
+  the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-history-of-sound/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Is This Thing On @ WTW St Austell
+DESCRIPTION:Is This Thing On\n\nAs their marriage quietly unravels, Alex fa
+ ces middle age and an impending divorce, seeking new purpose in the New Yo
+ rk comedy scene while Tess confronts the sacrifices she made for their fam
+ ily—forcing them to navigate co-parenting, identity, and whether love can 
+ take a new form.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the
+  URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/is-this-thing-on/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Send Help @ WTW St Austell
+DESCRIPTION:Send Help\n\nTwo colleagues become stranded on a deserted islan
+ d, the only survivors of a plane crash. On the island, they must overcome 
+ past grievances and work together to survive, but ultimately, it's a battl
+ e of wills and wits to make it out alive.\n\n🎬 Film release at WTW Cinemas
+  St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/send-help/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Wuthering Heights @ WTW St Austell
@@ -189,18 +250,29 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
-SUMMARY:The Cat in the Hat @ WTW St Austell
-DESCRIPTION:The Cat in the Hat\n\nDoing what he does best, the Cat spreads 
- joy to kids in his hilarious, signature, and singularly irreverent way, tr
- ansporting them and audiences on a fantastical journey through a world the
- y've never seen before. Our hero takes on his toughest assignment yet for 
- the I.I.I.I (Institute for the Institution of Imagination and Inspiration,
-  LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to mo
- ve to a new town. Known for taking things too far, this could be this agen
- t of chaos's last chance to prove himself... or lose his magical hat!\n\n🎬
-  Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW St Austell
+DESCRIPTION:Dr Seuss’ The Cat in the Hat\n\nDoing what he does best, the Ca
+ t spreads joy to kids in his hilarious, signature, and singularly irrevere
+ nt way, transporting them and audiences on a fantastical journey through a
+  world they've never seen before. Our hero takes on his toughest assignmen
+ t yet for the I.I.I.I (Institute for the Institution of Imagination and In
+ spiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings strugg
+ ling to move to a new town. Known for taking things too far, this could be
+  this agent of chaos's last chance to prove himself... or lose his magical
+  hat!\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to boo
+ k tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Scream 7 @ WTW St Austell
+DESCRIPTION:Scream 7\n\nThe seventh installment in the 'Scream' franchise. 
+ Plot TBA.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to
+  book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/scream-7/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
@@ -213,6 +285,21 @@ DESCRIPTION:Hoppers\n\nAnimal lover Mabel uses clever new technology design
  🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/hoppers/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Project Hail Mary @ WTW St Austell
+DESCRIPTION:Project Hail Mary\n\nScience teacher Ryland Grace wakes up on a
+  spaceship light years from home with no recollection of who he is or how 
+ he got there. As his memory returns, he begins to uncover his mission: sol
+ ve the riddle of the mysterious substance causing the sun to die out. He m
+ ust call on his scientific knowledge and unorthodox ideas to save everythi
+ ng on Earth from extinction… but an unexpected friendship means he may not
+  have to do it alone.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Clic
+ k the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/project-hail-mary/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
@@ -333,15 +420,5 @@ DESCRIPTION:Spider-Man: Brand New Day\n\nThe fourth instalment in the Spide
  s
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:Avengers: Doomsday @ WTW St Austell
-DESCRIPTION:Avengers: Doomsday\n\nThe Avengers, Wakandans, Fantastic Four, 
- Thunderbolts, and X-Men all fight against Doctor Doom.\n\n🎬 Film release a
- t WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=st-austell
 END:VEVENT
 END:VCALENDAR
