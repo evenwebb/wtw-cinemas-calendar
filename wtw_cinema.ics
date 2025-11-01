@@ -10,23 +10,11 @@ DTEND;VALUE=DATE:20251108
 SUMMARY:Dragonfly @ WTW St Austell
 DESCRIPTION:Dragonfly (98 min)\n\nNeglected pensioner Elsie finds an unexpe
  cted ally in her younger neighbour Colleen. Over time, a friendship grows 
- but Elsie’s resentful, guilt-ridden son stirs up tensions that bring shock
+ but Elsie's resentful, guilt-ridden son stirs up tensions that bring shock
  ing consequences.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click th
  e URL to book tickets
 LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/dragonfly-2/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:Predator: Badlands @ WTW St Austell
-DESCRIPTION:Predator: Badlands (107 min)\n\nIn the future on a remote plane
- t, a young Predator, outcast from his clan, finds an unlikely ally in Thia
-  and embarks on a treacherous journey in search of the ultimate adversary.
- \n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tic
- kets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/predator-badlands/?screen=st-austell
+URL:https://wtwcinemas.co.uk/film/dragonfly/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
@@ -41,6 +29,32 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-choral/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:Predator: Badlands @ WTW St Austell
+DESCRIPTION:Predator: Badlands (107 min)\n\nCast out from his clan, a young
+  Predator finds an unlikely ally in a damaged android and embarks on a tre
+ acherous journey in search of the ultimate adversary.\n\n🎬 Film release at
+  WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/predator-badlands-2/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:The Running Man @ WTW St Austell
+DESCRIPTION:The Running Man (133 min)\n\nDesperate to save his sick daughte
+ r, working-class Ben Richards is convinced by The Running Man's charming b
+ ut ruthless producer to enter the deadly competition game as a last resort
+ . But Ben's defiance, instincts, and grit turn him into an unexpected fab 
+ favorite - and a threat to the entire system. As ratings skyrocket, so doe
+ s the danger, and Ben must outwit not just the Hunters, but a nation addic
+ ted to watching him fall.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ 
+ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-running-man-2/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Now You See Me: Now You Don’t @ WTW St Austell
@@ -50,20 +64,7 @@ DESCRIPTION:Now You See Me: Now You Don’t (113 min)\n\nThe Four Horsemen re
  n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tick
  ets
 LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/now-you-see-me-now-you-dont/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DTEND;VALUE=DATE:20251115
-SUMMARY:The Running Man @ WTW St Austell
-DESCRIPTION:The Running Man (133 min)\n\nDesperate to save his sick daughte
- r, a working-class dad joins a deadly spectator sport where the longer he 
- stays alive, the bigger the payout. Between the assassins chasing him and 
- the showrunners betting against him, he's about to find out there's much m
- ore at stake than the prize money.\n\n🎬 Film release at WTW Cinemas St Aus
- tell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/the-running-man/?screen=st-austell
+URL:https://wtwcinemas.co.uk/film/now-you-see-me-now-you-dont-2/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
