@@ -42,21 +42,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
-SUMMARY:The Running Man @ WTW St Austell
-DESCRIPTION:The Running Man (133 min)\n\nDesperate to save his sick daughte
- r, working-class Ben Richards is convinced by The Running Man's charming b
- ut ruthless producer to enter the deadly competition game as a last resort
- . But Ben's defiance, instincts, and grit turn him into an unexpected fab 
- favorite - and a threat to the entire system. As ratings skyrocket, so doe
- s the danger, and Ben must outwit not just the Hunters, but a nation addic
- ted to watching him fall.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ 
- Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/the-running-man-2/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DTEND;VALUE=DATE:20251115
 SUMMARY:Now You See Me: Now You Don’t @ WTW St Austell
 DESCRIPTION:Now You See Me: Now You Don’t (113 min)\n\nThe Four Horsemen re
  turn along with a new generation of illusionists performing mind-melding t
