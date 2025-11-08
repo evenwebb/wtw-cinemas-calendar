@@ -5,43 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:Dragonfly @ WTW St Austell
-DESCRIPTION:Dragonfly (98 min)\n\nNeglected pensioner Elsie finds an unexpe
- cted ally in her younger neighbour Colleen. Over time, a friendship grows 
- but Elsie's resentful, guilt-ridden son stirs up tensions that bring shock
- ing consequences.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click th
- e URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/dragonfly/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:The Choral @ WTW St Austell
-DESCRIPTION:The Choral (113 min)\n\nYorkshire, 1916. A choral society's mal
- e members enlist in World War I, leaving the demanding Dr. Guthrie to recr
- uit teenagers. Together, they experience the joy of singing while the youn
- g boys grapple with their impending conscription into the army.\n\n🎬 Film 
- release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/the-choral/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:Predator: Badlands @ WTW St Austell
-DESCRIPTION:Predator: Badlands (107 min)\n\nCast out from his clan, a young
-  Predator finds an unlikely ally in a damaged android and embarks on a tre
- acherous journey in search of the ultimate adversary.\n\n🎬 Film release at
-  WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/predator-badlands-2/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
 SUMMARY:Christmas Karma @ WTW St Austell
 DESCRIPTION:Christmas Karma (118 min)\n\nTake Dickens' Classic CHRISTMAS CA
  ROL, add the best of contemporary British musical and acting talent, and y
@@ -79,13 +44,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
-SUMMARY:Zootopia 2 @ WTW St Austell
-DESCRIPTION:Zootopia 2\n\nDetectives Judy Hopps and Nick Wilde find themsel
- ves on the twisting trail of a mysterious reptile who arrives in Zootopia 
- and turns the mammal metropolis upside down.\n\n🎬 Film release at WTW Cine
- mas St Austell\n🎟️ Click the URL to book tickets
+SUMMARY:Zootropolis 2 @ WTW St Austell
+DESCRIPTION:Zootropolis 2\n\nDetectives Judy Hopps and Nick Wilde find them
+ selves on the twisting trail of a mysterious reptile who arrives in Zootop
+ ia and turns the mammal metropolis upside down.\n\n🎬 Film release at WTW C
+ inemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/zootopia-2/?screen=st-austell
+URL:https://wtwcinemas.co.uk/film/zootropolis-2/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
