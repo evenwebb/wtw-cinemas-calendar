@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251112
-DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
 SUMMARY:Christmas Karma @ WTW St Austell
 DESCRIPTION:Christmas Karma (118 min)\n\nTake Dickens' Classic CHRISTMAS CA
  ROL, add the best of contemporary British musical and acting talent, and y
@@ -100,10 +100,10 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251228
 SUMMARY:The SpongeBob Movie: Search For Squarepants @ WTW St Austell
-DESCRIPTION:The SpongeBob Movie: Search For Squarepants\n\nSpongeBob travel
- s to the depths of the ocean and faces off against the ghost of the Flying
-  Dutchman.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL t
- o book tickets
+DESCRIPTION:The SpongeBob Movie: Search For Squarepants (96 min)\n\nSpongeB
+ ob travels to the depths of the ocean and faces off against the ghost of t
+ he Flying Dutchman.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click 
+ the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-spongebob-movie-search-for-squarepants/?screen=st-austell
 END:VEVENT
