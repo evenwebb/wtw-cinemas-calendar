@@ -5,20 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DTEND;VALUE=DATE:20251115
-SUMMARY:Now You See Me: Now You Don’t @ WTW St Austell
-DESCRIPTION:Now You See Me: Now You Don’t (113 min)\n\nThe Four Horsemen re
- turn along with a new generation of illusionists performing mind-melding t
- wists, turns, surprises, and magic unlike anything ever captured on film.\
- n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tick
- ets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/now-you-see-me-now-you-dont-2/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
 SUMMARY:Christmas Karma @ WTW St Austell
 DESCRIPTION:Christmas Karma (118 min)\n\nTake Dickens' Classic CHRISTMAS CA
  ROL, add the best of contemporary British musical and acting talent, and y

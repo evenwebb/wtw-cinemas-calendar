@@ -1,11 +1,4 @@
 {
-  "https://wtwcinemas.co.uk/film/zootropolis-2/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Detectives Judy Hopps and Nick Wilde find themselves on the twisting trail of a mysterious reptile who arrives in Zootopia and turns the mammal metropolis upside down.",
-    "director": "",
-    "cached_at": "2025-11-08T09:13:14.698501"
-  },
   "https://wtwcinemas.co.uk/film/now-you-see-me-now-you-dont-2/": {
     "runtime": "113 min",
     "cast": "",
@@ -215,5 +208,12 @@
     "synopsis": "The fourth instalment in the Spider-Man franchise and part of Phase Six of the Marvel Cinematic Universe.",
     "director": "",
     "cached_at": "2025-11-13T09:17:08.725339"
+  },
+  "https://wtwcinemas.co.uk/film/zootropolis-2/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Detectives Judy Hopps and Nick Wilde find themselves on the twisting trail of a mysterious reptile who arrives in Zootopia and turns the mammal metropolis upside down.",
+    "director": "",
+    "cached_at": "2025-11-15T09:13:19.998987"
   }
 }
