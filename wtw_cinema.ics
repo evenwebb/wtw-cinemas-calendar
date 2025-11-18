@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251117
-DTEND;VALUE=DATE:20251118
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251119
 SUMMARY:Christmas Karma @ WTW St Austell
 DESCRIPTION:Christmas Karma (118 min)\n\nTake Dickens' Classic CHRISTMAS CA
  ROL, add the best of contemporary British musical and acting talent, and y
