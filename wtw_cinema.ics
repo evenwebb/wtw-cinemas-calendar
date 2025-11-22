@@ -21,10 +21,14 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 SUMMARY:Zootropolis 2 @ WTW St Austell
-DESCRIPTION:Zootropolis 2\n\nDetectives Judy Hopps and Nick Wilde find them
- selves on the twisting trail of a mysterious reptile who arrives in Zootop
- ia and turns the mammal metropolis upside down.\n\n🎬 Film release at WTW C
- inemas St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Zootropolis 2 (107 min)\n\nAfter cracking the biggest case in Z
+ ootopia's history, rookie cops Judy Hopps and Nick Wilde find their partne
+ rship isn't as solid as they thought when Chief Bogo orders them to join t
+ he Partners in Crisis counseling program. But it doesn't take long for the
+ ir partnership to be put to the ultimate test when they find themselves on
+  the twisting trail of a mystery tied to the arrival of a venomous snake i
+ n the animal metropolis.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ C
+ lick the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/zootropolis-2/?screen=st-austell
 END:VEVENT
