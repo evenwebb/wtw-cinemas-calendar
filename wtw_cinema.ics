@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
-SUMMARY:Wicked: For Good @ WTW St Austell
-DESCRIPTION:Wicked: For Good (138 min)\n\nSet in the Land of Oz, before and
-  after Dorothy Gale's arrival from Kansas, Elphaba and Glinda's friendship
-  is put to the test as they embrace their new respective identities as the
-  Wicked Witch of the West and Glinda the Good Witch of the North, and how 
- the consequences of their actions will change all of Oz forever.\n\n🎬 Film
-  release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/wicked-for-good/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 SUMMARY:Zootropolis 2 @ WTW St Austell
@@ -36,13 +23,13 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 SUMMARY:Wake Up Dead Man: A Knives Out Mystery @ WTW St Austell
-DESCRIPTION:Wake Up Dead Man: A Knives Out Mystery\n\nWhen young priest Jud
-  Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wi
- cks, it's clear that all is not well in the pews. After a sudden and seemi
- ngly impossible murder rocks the town, the lack of an obvious suspect prom
- pts local police chief Geraldine Scott to join forces with renowned detect
- ive Benoit Blanc to unravel a mystery that defies all logic.\n\n🎬 Film rel
- ease at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Wake Up Dead Man: A Knives Out Mystery (144 min)\n\nWhen young 
+ priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Je
+ fferson Wicks, it's clear that all is not well in the pews. After a sudden
+  and seemingly impossible murder rocks the town, the lack of an obvious su
+ spect prompts local police chief Geraldine Scott to join forces with renow
+ ned detective Benoit Blanc to unravel a mystery that defies all logic.\n\n
+ 🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/wake-up-dead-man-a-knives-out-mystery/?screen=st-austell
 END:VEVENT
