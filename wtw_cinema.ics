@@ -5,47 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20251129
-SUMMARY:Zootropolis 2 @ WTW St Austell
-DESCRIPTION:Zootropolis 2 (107 min)\n\nAfter cracking the biggest case in Z
- ootopia's history, rookie cops Judy Hopps and Nick Wilde find their partne
- rship isn't as solid as they thought when Chief Bogo orders them to join t
- he Partners in Crisis counseling program. But it doesn't take long for the
- ir partnership to be put to the ultimate test when they find themselves on
-  the twisting trail of a mystery tied to the arrival of a venomous snake i
- n the animal metropolis.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ C
- lick the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/zootropolis-2/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20251129
-SUMMARY:Wake Up Dead Man: A Knives Out Mystery @ WTW St Austell
-DESCRIPTION:Wake Up Dead Man: A Knives Out Mystery (144 min)\n\nWhen young 
- priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Je
- fferson Wicks, it's clear that all is not well in the pews. After a sudden
-  and seemingly impossible murder rocks the town, the lack of an obvious su
- spect prompts local police chief Geraldine Scott to join forces with renow
- ned detective Benoit Blanc to unravel a mystery that defies all logic.\n\n
- 🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/wake-up-dead-man-a-knives-out-mystery/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20251129
-SUMMARY:Christmas Karma @ WTW St Austell
-DESCRIPTION:Christmas Karma (114 min)\n\nTake Dickens' Classic CHRISTMAS CA
- ROL, add the best of contemporary British musical and acting talent, and y
- ou have a modern film set in vibrant, diverse London in the same joyous sp
- irit as Chadha's BEND IT LIKE BECKHAM\n\n🎬 Film release at WTW Cinemas St 
- Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/christmas-karma/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
 SUMMARY:Five Nights At Freddy’s 2 @ WTW St Austell
