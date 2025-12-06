@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DTEND;VALUE=DATE:20251206
-SUMMARY:Five Nights At Freddy’s 2 @ WTW St Austell
-DESCRIPTION:Five Nights At Freddy’s 2 (104 min)\n\nOne year since the super
- natural nightmare at Freddy Fazbear's Pizza, the stories about what transp
- ired there have been twisted into a campy local legend, inspiring the town
- 's first ever Fazfest. With the truth about what transpired kept from her,
-  Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, settin
- g into motion a terrifying series of events that will reveal dark secrets 
- about the true origin of Freddy's, and unleash a long-forgotten horror hid
- den away for decades.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Clic
- k the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/five-nights-at-freddys-2-2/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Ella McCay @ WTW St Austell
@@ -35,13 +19,13 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Avatar: Fire And Ash – 2D @ WTW St Austell
-DESCRIPTION:Avatar: Fire And Ash – 2D\n\nIn the wake of the devastating war
-  against the RDA and the loss of their eldest son, Jake Sully and Neytiri 
- face a new threat on Pandora: the Ash People, a violent and power-hungry N
- a'vi tribe led by the ruthless Varang. Jake's family must fight for their 
- survival and the future of Pandora in a conflict that pushes them to their
-  emotional and physical limits.\n\n🎬 Film release at WTW Cinemas St Austel
- l\n🎟️ Click the URL to book tickets
+DESCRIPTION:Avatar: Fire And Ash – 2D (192 min)\n\nIn the wake of the devas
+ tating war against the RDA and the loss of their eldest son, Jake Sully an
+ d Neytiri face a new threat on Pandora: the Ash People, a violent and powe
+ r-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight 
+ for their survival and the future of Pandora in a conflict that pushes the
+ m to their emotional and physical limits.\n\n🎬 Film release at WTW Cinemas
+  St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/avatar-fire-and-ash/?screen=st-austell
 END:VEVENT
