@@ -45,11 +45,9 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251228
 SUMMARY:The Housemaid @ WTW St Austell
-DESCRIPTION:The Housemaid\n\nMillie is a struggling woman who is relieved t
- o get a fresh start as a housemaid to Nina and Andrew, an upscale, wealthy
-  couple. She soon learns that the family’s secrets are far more dangerous 
- than her own.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the UR
- L to book tickets
+DESCRIPTION:The Housemaid (131 min)\n\nA woman with a troubled past accepts
+  a job as a live-in maid for a wealthy, seemingly perfect family.\n\n🎬 Fil
+ m release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-housemaid/?screen=st-austell
 END:VEVENT
