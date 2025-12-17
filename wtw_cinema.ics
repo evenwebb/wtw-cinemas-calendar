@@ -33,11 +33,11 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251228
 SUMMARY:Anaconda @ WTW St Austell
-DESCRIPTION:Anaconda\n\nA group of friends facing mid-life crises head to t
- he rainforest with the intention of remaking their favourite movie from th
- eir youth, only to find themselves in a fight for their lives against natu
- ral disasters, giant snakes and violent criminals.\n\n🎬 Film release at WT
- W Cinemas St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Anaconda (99 min)\n\nA group of friends facing mid-life crises 
+ head to the rainforest with the intention of remaking their favorite movie
+  from their youth, only to find themselves in a fight for their lives agai
+ nst natural disasters, giant snakes and violent criminals.\n\n🎬 Film relea
+ se at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/anaconda/?screen=st-austell
 END:VEVENT
@@ -76,9 +76,9 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:Hamnet @ WTW St Austell
-DESCRIPTION:Hamnet\n\nThe powerful story of love and loss that inspired the
-  creation of Shakespeare's timeless masterpiece, Hamlet.\n\n🎬 Film release
-  at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Hamnet (126 min)\n\nThe powerful story of love and loss that in
+ spired the creation of Shakespeare's timeless masterpiece, Hamlet.\n\n🎬 Fi
+ lm release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/hamnet/?screen=st-austell
 END:VEVENT
