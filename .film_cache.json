@@ -1,32 +1,4 @@
 {
-  "https://wtwcinemas.co.uk/film/marty-supreme/": {
-    "runtime": "150 min",
-    "cast": "",
-    "synopsis": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-    "director": "",
-    "cached_at": "2025-12-18T09:20:51.882097"
-  },
-  "https://wtwcinemas.co.uk/film/rental-family/": {
-    "runtime": "110 min",
-    "cast": "",
-    "synopsis": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-    "director": "",
-    "cached_at": "2025-12-18T09:20:52.896301"
-  },
-  "https://wtwcinemas.co.uk/film/the-day-the-earth-blew-up-a-looney-tunes-movie/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)... that is if they don't drive each other crazy in the process.",
-    "director": "",
-    "cached_at": "2025-12-18T09:20:53.757416"
-  },
-  "https://wtwcinemas.co.uk/film/stitch-head/": {
-    "runtime": "",
-    "cast": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
-    "synopsis": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
-    "director": "",
-    "cached_at": "2025-12-18T09:20:54.592542"
-  },
   "https://wtwcinemas.co.uk/film/the-housemaid/": {
     "runtime": "131 min",
     "cast": "",
@@ -187,5 +159,33 @@
     "synopsis": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches the island of an impetuous Chieftain, his willful daughter answers the Ocean's call to seek out the demigod to set things right.",
     "director": "",
     "cached_at": "2025-12-25T09:17:47.879287"
+  },
+  "https://wtwcinemas.co.uk/film/marty-supreme/": {
+    "runtime": "150 min",
+    "cast": "",
+    "synopsis": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+    "director": "",
+    "cached_at": "2025-12-26T09:17:00.929137"
+  },
+  "https://wtwcinemas.co.uk/film/rental-family/": {
+    "runtime": "110 min",
+    "cast": "",
+    "synopsis": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+    "director": "",
+    "cached_at": "2025-12-26T09:17:01.996617"
+  },
+  "https://wtwcinemas.co.uk/film/the-day-the-earth-blew-up-a-looney-tunes-movie/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)... that is if they don't drive each other crazy in the process.",
+    "director": "",
+    "cached_at": "2025-12-26T09:17:02.950820"
+  },
+  "https://wtwcinemas.co.uk/film/stitch-head/": {
+    "runtime": "",
+    "cast": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+    "synopsis": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+    "director": "",
+    "cached_at": "2025-12-26T09:17:03.921371"
   }
 }
