@@ -20,10 +20,10 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:Song Sung Blue @ WTW St Austell
-DESCRIPTION:Song Sung Blue\n\nTwo down-on-their-luck musicians form a Neil 
- Diamond tribute band to follow their dreams and prove that it's never too 
- late to find love.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click t
- he URL to book tickets
+DESCRIPTION:Song Sung Blue (132 min)\n\nBased on a true story, two down-on-
+ their-luck musicians form a joyous Neil Diamond tribute band, proving it's
+  never too late to find love and follow your dreams.\n\n🎬 Film release at 
+ WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/song-sung-blue/?screen=st-austell
 END:VEVENT
