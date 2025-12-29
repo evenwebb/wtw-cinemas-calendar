@@ -1,95 +1,4 @@
 {
-  "https://wtwcinemas.co.uk/film/send-help/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:27.534388"
-  },
-  "https://wtwcinemas.co.uk/film/scream-7/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The seventh installment in the 'Scream' franchise. Plot TBA.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:28.912517"
-  },
-  "https://wtwcinemas.co.uk/film/hoppers/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Animal lover Mabel uses clever new technology designed to \"hop\" human consciousness into lifelike robotic animals to communicate with beavers, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:30.299814"
-  },
-  "https://wtwcinemas.co.uk/film/project-hail-mary/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:31.202097"
-  },
-  "https://wtwcinemas.co.uk/film/super-mario-galaxy/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "A new movie based on the world of Super Mario Bros. that further broadens Mario's world with a bright and fun story.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:32.318708"
-  },
-  "https://wtwcinemas.co.uk/film/michael/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Singer Michael Jackson rises from a gifted child star in the Jackson 5 to a groundbreaking solo artist who redefines music and performance with like Off The Wall, Thriller, Bad, and Dangerous. As his fame reaches unimaginable heights, he struggles with family pressures, personal battles, and the crushing weight of superstardom. At the peak of his career, the King of Pop must confront the cost of living in the spotlight while striving to hold on to the music and identity that made him a legend.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:33.756589"
-  },
-  "https://wtwcinemas.co.uk/film/mortal-kombat-ii/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The fan favourite champions-now joined by Johnny Cage himself-are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:34.752353"
-  },
-  "https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The Mandalorian, a lone bounty hunter, is tasked with capturing Grogu, a mysterious and adorable creature. Instead, he forms a strong bond with Grogu and strives to protect him from various threats, exploring his evolving purpose in a post-Empire galaxy.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:35.806274"
-  },
-  "https://wtwcinemas.co.uk/film/toy-story-5/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Buzz, Woody, Jessie and the rest of the gang's jobs get exponentially harder when they go head to head with an all-new threat to playtime: tech.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:36.892936"
-  },
-  "https://wtwcinemas.co.uk/film/minions-3/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The third installment in the Minions spin-off series, and the seventh film overall in the Despicable Me franchise.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:38.213462"
-  },
-  "https://wtwcinemas.co.uk/film/the-odyssey/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Odysseus, the legendary Greek king of Ithaca, embarks on a long and perilous journey home following the Trojan War, chronicling his encounters with mythical beings such as the Cyclops Polyphemus, the Sirens, and the witch-goddess Circe.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:39.141009"
-  },
-  "https://wtwcinemas.co.uk/film/spider-man-brand-new-day/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The fourth instalment in the Spider-Man franchise and part of Phase Six of the Marvel Cinematic Universe.",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:40.104670"
-  },
-  "https://wtwcinemas.co.uk/film/the-cat-in-the-hat/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos's last chance to prove himself... or lose his magical hat!",
-    "director": "",
-    "cached_at": "2025-12-22T09:22:41.056155"
-  },
   "https://wtwcinemas.co.uk/film/anaconda/": {
     "runtime": "99 min",
     "cast": "",
@@ -180,5 +89,96 @@
     "synopsis": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
     "director": "",
     "cached_at": "2025-12-28T09:15:22.103911"
+  },
+  "https://wtwcinemas.co.uk/film/send-help/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:40.402814"
+  },
+  "https://wtwcinemas.co.uk/film/scream-7/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The seventh installment in the 'Scream' franchise. Plot TBA.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:41.801269"
+  },
+  "https://wtwcinemas.co.uk/film/hoppers/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Animal lover Mabel uses clever new technology designed to \"hop\" human consciousness into lifelike robotic animals to communicate with beavers, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:42.714795"
+  },
+  "https://wtwcinemas.co.uk/film/project-hail-mary/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:43.759448"
+  },
+  "https://wtwcinemas.co.uk/film/super-mario-galaxy/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "A new movie based on the world of Super Mario Bros. that further broadens Mario's world with a bright and fun story.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:44.824122"
+  },
+  "https://wtwcinemas.co.uk/film/michael/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Singer Michael Jackson rises from a gifted child star in the Jackson 5 to a groundbreaking solo artist who redefines music and performance with like Off The Wall, Thriller, Bad, and Dangerous. As his fame reaches unimaginable heights, he struggles with family pressures, personal battles, and the crushing weight of superstardom. At the peak of his career, the King of Pop must confront the cost of living in the spotlight while striving to hold on to the music and identity that made him a legend.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:46.169663"
+  },
+  "https://wtwcinemas.co.uk/film/mortal-kombat-ii/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The fan favourite champions-now joined by Johnny Cage himself-are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:47.156805"
+  },
+  "https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The Mandalorian, a lone bounty hunter, is tasked with capturing Grogu, a mysterious and adorable creature. Instead, he forms a strong bond with Grogu and strives to protect him from various threats, exploring his evolving purpose in a post-Empire galaxy.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:48.255696"
+  },
+  "https://wtwcinemas.co.uk/film/toy-story-5/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Buzz, Woody, Jessie and the rest of the gang's jobs get exponentially harder when they go head to head with an all-new threat to playtime: tech.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:49.204160"
+  },
+  "https://wtwcinemas.co.uk/film/minions-3/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The third installment in the Minions spin-off series, and the seventh film overall in the Despicable Me franchise.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:50.162187"
+  },
+  "https://wtwcinemas.co.uk/film/the-odyssey/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Odysseus, the legendary Greek king of Ithaca, embarks on a long and perilous journey home following the Trojan War, chronicling his encounters with mythical beings such as the Cyclops Polyphemus, the Sirens, and the witch-goddess Circe.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:51.143317"
+  },
+  "https://wtwcinemas.co.uk/film/spider-man-brand-new-day/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The fourth instalment in the Spider-Man franchise and part of Phase Six of the Marvel Cinematic Universe.",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:52.615506"
+  },
+  "https://wtwcinemas.co.uk/film/the-cat-in-the-hat/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos's last chance to prove himself... or lose his magical hat!",
+    "director": "",
+    "cached_at": "2025-12-29T09:24:53.566221"
   }
 }
