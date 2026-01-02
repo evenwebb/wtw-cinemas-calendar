@@ -5,27 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DTEND;VALUE=DATE:20260102
-SUMMARY:Song Sung Blue @ WTW St Austell
-DESCRIPTION:Song Sung Blue (132 min)\n\nBased on a true story, two down-on-
- their-luck musicians form a joyous Neil Diamond tribute band, proving it's
-  never too late to find love and follow your dreams.\n\n🎬 Film release at 
- WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/song-sung-blue/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DTEND;VALUE=DATE:20260102
-SUMMARY:Marty Supreme @ WTW St Austell
-DESCRIPTION:Marty Supreme (150 min)\n\nMarty Mauser, a young man with a dre
- am no one respects, goes to hell and back in pursuit of greatness.\n\n🎬 Fi
- lm release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/marty-supreme/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:Hamnet @ WTW St Austell
