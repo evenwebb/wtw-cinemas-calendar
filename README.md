@@ -118,7 +118,7 @@ First, set your preferred notification time at the top of the notification setti
 NOTIFICATION_TIME = '09:00'  # 9:00 AM - Change to your preferred time
 ```
 
-This time will be used for ALL notifications unless you override it for a specific alarm. Examples:
+This time applies to ALL notifications unless you override it for a specific alarm. Examples:
 - `'09:00'` = 9:00 AM
 - `'18:00'` = 6:00 PM
 - `'12:30'` = 12:30 PM
