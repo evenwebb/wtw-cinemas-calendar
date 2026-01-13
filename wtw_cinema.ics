@@ -33,11 +33,11 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:The History Of Sound @ WTW St Austell
-DESCRIPTION:The History Of Sound\n\nn 1917, two young music students attend
- ing the Boston Conservatory bond over their mutual love of folk music. The
- y reconnect a few years later, embarking on a song collecting trip in the 
- backwaters of Maine.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click
-  the URL to book tickets
+DESCRIPTION:The History Of Sound (128 min)\n\nn 1917, two young music stude
+ nts attending the Boston Conservatory bond over their mutual love of folk 
+ music. They reconnect a few years later, embarking on a song collecting tr
+ ip in the backwaters of Maine.\n\n🎬 Film release at WTW Cinemas St Austell
+ \n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-history-of-sound/?screen=st-austell
 END:VEVENT
