@@ -32,6 +32,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
+SUMMARY:Mercy @ WTW St Austell
+DESCRIPTION:Mercy (100 min)\n\nIn the near future, a detective stands on tr
+ ial accused of murdering his wife. He has 90 minutes to prove his innocenc
+ e to the advanced A.I. Judge he once championed, before it determines his 
+ fate.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to boo
+ k tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/mercy/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
 SUMMARY:The History Of Sound @ WTW St Austell
 DESCRIPTION:The History Of Sound (128 min)\n\nn 1917, two young music stude
  nts attending the Boston Conservatory bond over their mutual love of folk 
@@ -40,18 +52,6 @@ DESCRIPTION:The History Of Sound (128 min)\n\nn 1917, two young music stude
  \n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-history-of-sound/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-DTEND;VALUE=DATE:20260124
-SUMMARY:Mercy @ WTW St Austell
-DESCRIPTION:Mercy (90 min)\n\nIn the near future, a detective stands on tri
- al accused of murdering his wife. He has 90 minutes to prove his innocence
-  to the advanced A.I. Judge he once championed, before it determines his f
- ate.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book
-  tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/mercy/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
@@ -407,5 +407,15 @@ DESCRIPTION:Focker-In-Law\n\nFill out the form to receive an email when tic
  Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Avengers: Doomsday @ WTW St Austell
+DESCRIPTION:Avengers: Doomsday\n\nThe Avengers, Wakandans, Fantastic Four, 
+ Thunderbolts, and X-Men all fight against Doctor Doom.\n\n🎬 Film release a
+ t WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=st-austell
 END:VEVENT
 END:VCALENDAR
