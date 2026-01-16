@@ -1,32 +1,4 @@
 {
-  "https://wtwcinemas.co.uk/film/hamnet/": {
-    "runtime": "126 min",
-    "cast": "",
-    "synopsis": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-    "director": "",
-    "cached_at": "2026-01-08T09:22:33.152132"
-  },
-  "https://wtwcinemas.co.uk/film/wuthering-heights/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors. exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
-    "director": "",
-    "cached_at": "2026-01-08T09:22:34.663641"
-  },
-  "https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Miranda Priestley navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistant, now a high-powered executive for a luxury group, with advertising dollars that Priestly desperately needs.",
-    "director": "",
-    "cached_at": "2026-01-08T09:22:36.109585"
-  },
-  "https://wtwcinemas.co.uk/film/moana/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches the island of an impetuous Chieftain, his willful daughter answers the Ocean's call to seek out the demigod to set things right.",
-    "director": "",
-    "cached_at": "2026-01-08T09:22:37.013435"
-  },
   "https://wtwcinemas.co.uk/film/rental-family/": {
     "runtime": "110 min",
     "cast": "",
@@ -236,5 +208,54 @@
     "synopsis": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom.",
     "director": "",
     "cached_at": "2026-01-14T09:23:41.111265"
+  },
+  "https://wtwcinemas.co.uk/film/wuthering-heights/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors. exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
+    "director": "",
+    "cached_at": "2026-01-16T09:20:53.730619"
+  },
+  "https://wtwcinemas.co.uk/film/epic-elvis-presley-in-concert/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "A mix of a documentary and concert film made using unused footage from Elvis: That's The Way It Is, the film of Elvis' legendary 1970 Summer Festival in Las Vegas and Elvis's road concert film from two years later, Elvis on Tour, that were found during the production of 2022's Elvis.",
+    "director": "",
+    "cached_at": "2026-01-16T09:20:54.823334"
+  },
+  "https://wtwcinemas.co.uk/film/the-magic-faraway-tree/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Soon after the Thompson family's arrival in the countryside, the three children - Joe, Beth, and Fran - discover a magical tree and its extraordinary and eccentric residents, including Moonface, Silky, Dame Washalot and Saucepan Man. At the top of the tree, they're transported to spectacular and fantastical lands and, through the joys and challenges of their adventures, the Thompsons learn to reconnect and value each other for the first time in years.",
+    "director": "",
+    "cached_at": "2026-01-16T09:20:55.942242"
+  },
+  "https://wtwcinemas.co.uk/film/the-mummy/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The young daughter of a journalist disappears into the desert without a trace - eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "director": "",
+    "cached_at": "2026-01-16T09:20:56.720498"
+  },
+  "https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Miranda Priestley navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistant, now a high-powered executive for a luxury group, with advertising dollars that Priestly desperately needs.",
+    "director": "",
+    "cached_at": "2026-01-16T09:20:57.624055"
+  },
+  "https://wtwcinemas.co.uk/film/moana/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches the island of an impetuous Chieftain, his willful daughter answers the Ocean's call to seek out the demigod to set things right.",
+    "director": "",
+    "cached_at": "2026-01-16T09:20:58.745751"
+  },
+  "https://wtwcinemas.co.uk/film/street-fighter/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!.",
+    "director": "",
+    "cached_at": "2026-01-16T09:20:59.508547"
   }
 }

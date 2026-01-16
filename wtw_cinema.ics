@@ -155,6 +155,19 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/scream-7/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:EPiC: Elvis Presley in Concert @ WTW St Austell
+DESCRIPTION:EPiC: Elvis Presley in Concert\n\nA mix of a documentary and co
+ ncert film made using unused footage from Elvis: That's The Way It Is, the
+  film of Elvis' legendary 1970 Summer Festival in Las Vegas and Elvis's ro
+ ad concert film from two years later, Elvis on Tour, that were found durin
+ g the production of 2022's Elvis.\n\n🎬 Film release at WTW Cinemas St Aust
+ ell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/epic-elvis-presley-in-concert/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Hoppers @ WTW St Austell
@@ -194,6 +207,21 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/project-hail-mary/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:The Magic Faraway Tree @ WTW St Austell
+DESCRIPTION:The Magic Faraway Tree\n\nSoon after the Thompson family's arri
+ val in the countryside, the three children - Joe, Beth, and Fran - discove
+ r a magical tree and its extraordinary and eccentric residents, including 
+ Moonface, Silky, Dame Washalot and Saucepan Man. At the top of the tree, t
+ hey're transported to spectacular and fantastical lands and, through the j
+ oys and challenges of their adventures, the Thompsons learn to reconnect a
+ nd value each other for the first time in years.\n\n🎬 Film release at WTW 
+ Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-magic-faraway-tree/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:The Super Mario Galaxy Movie @ WTW St Austell
@@ -203,6 +231,18 @@ DESCRIPTION:The Super Mario Galaxy Movie\n\nA new movie based on the world
  to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/super-mario-galaxy/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:The Mummy @ WTW St Austell
+DESCRIPTION:The Mummy\n\nThe young daughter of a journalist disappears into
+  the desert without a trace - eight years later, the broken family is shoc
+ ked when she is returned to them, as what should be a joyful reunion turns
+  into a living nightmare.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ 
+ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
@@ -357,6 +397,20 @@ DESCRIPTION:Spider-Man: Brand New Day\n\nThe fourth instalment in the Spide
  s
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Street Fighter @ WTW St Austell
+DESCRIPTION:Street Fighter\n\nIn 1993, estranged Street Fighters Ryu and Ke
+ n Masters are thrown back into combat when the mysterious Chun-Li recruits
+  them for the next World Warrior Tournament: a brutal clash of fists, fate
+  and fury. But behind this battle royale lies a deadly conspiracy that for
+ ces them to face off against each other and the demons of their past. And 
+ if they don't, it's GAME OVER!.\n\n🎬 Film release at WTW Cinemas St Austel
+ l\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
