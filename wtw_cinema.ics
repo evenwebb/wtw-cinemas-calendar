@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260116
-DTEND;VALUE=DATE:20260117
-SUMMARY:Rental Family @ WTW St Austell
-DESCRIPTION:Rental Family (110 min)\n\nAn American actor in Tokyo struggles
-  to find purpose until he lands an unusual gig: working for a Japanese 're
- ntal family' agency, playing stand-in roles for strangers. As he immerses 
- himself in his clients' worlds, he begins to form genuine bonds that blur 
- the lines between performance and reality.\n\n🎬 Film release at WTW Cinema
- s St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/rental-family/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Mercy @ WTW St Austell

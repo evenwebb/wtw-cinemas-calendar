@@ -1,25 +1,4 @@
 {
-  "https://wtwcinemas.co.uk/film/rental-family/": {
-    "runtime": "110 min",
-    "cast": "",
-    "synopsis": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-    "director": "",
-    "cached_at": "2026-01-09T09:22:15.134027"
-  },
-  "https://wtwcinemas.co.uk/film/the-day-the-earth-blew-up-a-looney-tunes-movie/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)... that is if they don't drive each other crazy in the process.",
-    "director": "",
-    "cached_at": "2026-01-09T09:22:16.173404"
-  },
-  "https://wtwcinemas.co.uk/film/stitch-head/": {
-    "runtime": "91 min",
-    "cast": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
-    "synopsis": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
-    "director": "",
-    "cached_at": "2026-01-09T09:22:17.235347"
-  },
   "https://wtwcinemas.co.uk/film/28-years-later-the-bone-temple/": {
     "runtime": "109 min",
     "cast": "",
@@ -257,5 +236,19 @@
     "synopsis": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!.",
     "director": "",
     "cached_at": "2026-01-16T09:20:59.508547"
+  },
+  "https://wtwcinemas.co.uk/film/the-day-the-earth-blew-up-a-looney-tunes-movie/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)... that is if they don't drive each other crazy in the process.",
+    "director": "",
+    "cached_at": "2026-01-17T09:14:45.254429"
+  },
+  "https://wtwcinemas.co.uk/film/stitch-head/": {
+    "runtime": "91 min",
+    "cast": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+    "synopsis": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he's become nursemaid to the master's ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle - away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+    "director": "",
+    "cached_at": "2026-01-17T09:14:46.817597"
   }
 }
