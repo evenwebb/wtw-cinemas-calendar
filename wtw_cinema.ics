@@ -20,11 +20,11 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:The History Of Sound @ WTW St Austell
-DESCRIPTION:The History Of Sound (128 min)\n\nn 1917, two young music stude
- nts attending the Boston Conservatory bond over their mutual love of folk 
- music. They reconnect a few years later, embarking on a song collecting tr
- ip in the backwaters of Maine.\n\n🎬 Film release at WTW Cinemas St Austell
- \n🎟️ Click the URL to book tickets
+DESCRIPTION:The History Of Sound (128 min)\n\nIn 1917, two young music stud
+ ents attending the Boston Conservatory bond over a mutual love of folk mus
+ ic. They reconnect a few years later, embarking on a song-collecting trip 
+ in the backwaters of Maine.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟
+ ️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-history-of-sound/?screen=st-austell
 END:VEVENT
@@ -32,12 +32,12 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Is This Thing On @ WTW St Austell
-DESCRIPTION:Is This Thing On\n\nAs their marriage quietly unravels, Alex fa
- ces middle age and an impending divorce, seeking new purpose in the New Yo
- rk comedy scene while Tess confronts the sacrifices she made for their fam
- ily—forcing them to navigate co-parenting, identity, and whether love can 
- take a new form.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the
-  URL to book tickets
+DESCRIPTION:Is This Thing On (121 min)\n\nAs their marriage quietly unravel
+ s, Alex faces middle age and an impending divorce, seeking new purpose in 
+ the New York comedy scene while Tess confronts the sacrifices she made for
+  their family—forcing them to navigate co-parenting, identity, and whether
+  love can take a new form.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️
+  Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/is-this-thing-on/?screen=st-austell
 END:VEVENT
@@ -135,9 +135,12 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Scream 7 @ WTW St Austell
-DESCRIPTION:Scream 7\n\nThe seventh installment in the 'Scream' franchise. 
- Plot TBA.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to
-  book tickets
+DESCRIPTION:Scream 7\n\nWhen a new Ghostface killer emerges in the quiet to
+ wn where Sidney Prescott has built a new life, her darkest fears are reali
+ zed as her daughter becomes the next target. Determined to protect her fam
+ ily, Sidney must face the horrors of her past to put an end to the bloodsh
+ ed once and for all.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click
+  the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/scream-7/?screen=st-austell
 END:VEVENT
@@ -235,15 +238,15 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW St Austell
-DESCRIPTION:Michael\n\nSinger Michael Jackson rises from a gifted child sta
- r in the Jackson 5 to a groundbreaking solo artist who redefines music and
-  performance with like Off The Wall, Thriller, Bad, and Dangerous. As his 
- fame reaches unimaginable heights, he struggles with family pressures, per
- sonal battles, and the crushing weight of superstardom. At the peak of his
-  career, the King of Pop must confront the cost of living in the spotlight
-  while striving to hold on to the music and identity that made him a legen
- d.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book t
- ickets
+DESCRIPTION:Michael\n\nThe film tells the story of Michael Jackson’s life b
+ eyond the music, tracing his journey from the discovery of his extraordina
+ ry talent as the lead of the Jackson Five, to the visionary artist whose c
+ reative ambition fueled a relentless pursuit to become the biggest enterta
+ iner in the world. Highlighting both his life off-stage and some of the mo
+ st iconic performances from his early solo career, the film gives audience
+ s a front-row seat to Michael Jackson as never before. This is where his s
+ tory begins.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL
+  to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/michael/?screen=st-austell
 END:VEVENT
