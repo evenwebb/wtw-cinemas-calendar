@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-DTEND;VALUE=DATE:20260124
-SUMMARY:Mercy @ WTW St Austell
-DESCRIPTION:Mercy (100 min)\n\nIn the near future, a detective stands on tr
- ial accused of murdering his wife. He has 90 minutes to prove his innocenc
- e to the advanced A.I. Judge he once championed, before it determines his 
- fate.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to boo
- k tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/mercy/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-DTEND;VALUE=DATE:20260124
-SUMMARY:The History Of Sound @ WTW St Austell
-DESCRIPTION:The History Of Sound (128 min)\n\nIn 1917, two young music stud
- ents attending the Boston Conservatory bond over a mutual love of folk mus
- ic. They reconnect a few years later, embarking on a song-collecting trip 
- in the backwaters of Maine.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟
- ️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/the-history-of-sound/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Is This Thing On @ WTW St Austell
