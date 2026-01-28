@@ -21,11 +21,11 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 SUMMARY:Send Help @ WTW St Austell
-DESCRIPTION:Send Help\n\nTwo colleagues become stranded on a deserted islan
- d, the only survivors of a plane crash. On the island, they must overcome 
- past grievances and work together to survive, but ultimately, it's a battl
- e of wills and wits to make it out alive.\n\n🎬 Film release at WTW Cinemas
-  St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Send Help (113 min)\n\nTwo colleagues become stranded on a dese
+ rted island, the only survivors of a plane crash. On the island, they must
+  overcome past grievances and work together to survive, but ultimately, it
+ 's a battle of wills and wits to make it out alive.\n\n🎬 Film release at W
+ TW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/send-help/?screen=st-austell
 END:VEVENT
@@ -82,14 +82,14 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:GOAT @ WTW St Austell
-DESCRIPTION:GOAT\n\nWill, a small goat with dreams, gets a once-in-a-lifeti
- me shot to join the pros and play roarball - a high-intensity, co-ed, full
- -contact sport, dominated by the fastest, fiercest animals in the world. W
- ill's new teammates aren't thrilled about having a little goat on their ro
- ster, but Will is determined to revolutionize the sport and prove once and
-  for all that "smalls can ball!" He has to do something he has never done 
- before.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to b
- ook tickets
+DESCRIPTION:GOAT (100 min)\n\nWill, a small goat with big dreams, gets a on
+ ce-in-a-lifetime shot to join the pros and play roarball - a high-intensit
+ y, co-ed, full-contact sport dominated by the fastest, fiercest animals in
+  the world. Will's new teammates aren't thrilled about having a little goa
+ t on their roster, but Will is determined to revolutionize the sport and p
+ rove once and for all that 'smalls can ball'! He has to do something he ha
+ s never done before.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click
+  the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/goat/?screen=st-austell
 END:VEVENT
@@ -111,12 +111,12 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Scream 7 @ WTW St Austell
-DESCRIPTION:Scream 7\n\nWhen a new Ghostface killer emerges in the quiet to
- wn where Sidney Prescott has built a new life, her darkest fears are reali
- zed as her daughter becomes the next target. Determined to protect her fam
- ily, Sidney must face the horrors of her past to put an end to the bloodsh
- ed once and for all.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click
-  the URL to book tickets
+DESCRIPTION:Scream 7 (114 min)\n\nWhen a new Ghostface killer emerges in th
+ e quiet town where Sidney Prescott has built a new life, her darkest fears
+  are realized as her daughter becomes the next target. Determined to prote
+ ct her family, Sidney must face the horrors of her past to put an end to t
+ he bloodshed once and for all.\n\n🎬 Film release at WTW Cinemas St Austell
+ \n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/scream-7/?screen=st-austell
 END:VEVENT
