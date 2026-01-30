@@ -33,10 +33,10 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Wuthering Heights @ WTW St Austell
-DESCRIPTION:Wuthering Heights\n\nA passionate and tumultuous love story set
-  against the backdrop of the Yorkshire moors. exploring the intense and de
- structive relationship between Heathcliff and Catherine Earnshaw.\n\n🎬 Fil
- m release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Wuthering Heights (137 min)\n\nTragedy strikes when Heathcliff 
+ falls in love with Catherine Earnshaw, a woman from a wealthy family in 18
+ th-century England.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click 
+ the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/wuthering-heights/?screen=st-austell
 END:VEVENT
@@ -124,12 +124,12 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:EPiC: Elvis Presley in Concert @ WTW St Austell
-DESCRIPTION:EPiC: Elvis Presley in Concert\n\nA mix of a documentary and co
- ncert film made using unused footage from Elvis: That's The Way It Is, the
-  film of Elvis' legendary 1970 Summer Festival in Las Vegas and Elvis's ro
- ad concert film from two years later, Elvis on Tour, that were found durin
- g the production of 2022's Elvis.\n\n🎬 Film release at WTW Cinemas St Aust
- ell\n🎟️ Click the URL to book tickets
+DESCRIPTION:EPiC: Elvis Presley in Concert (90 min)\n\nA mix of a documenta
+ ry and concert film made using unused footage from Elvis: That's the Way I
+ t Is, the film of Elvis' legendary 1970 Summer Festival in Las Vegas and E
+ lvis's road concert film from two years later, Elvis on Tour, that were fo
+ und during the production of 2022's Elvis.\n\n🎬 Film release at WTW Cinema
+ s St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/epic-elvis-presley-in-concert/?screen=st-austell
 END:VEVENT
