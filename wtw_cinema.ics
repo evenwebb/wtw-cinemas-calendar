@@ -84,13 +84,13 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Crime 101 @ WTW St Austell
-DESCRIPTION:Crime 101\n\nWhen an elusive thief whose high-stakes heists unf
- old along the iconic 101 freeway in Los Angeles eyes the score of a lifeti
- me, with hopes of this being his final job, his path collides with a disil
- lusioned insurance broker who is facing her own crossroads, forcing the tw
- o to collaborate. Determined to crack the case, a relentless detective clo
- ses in on the operation, raising the stakes even higher.\n\n🎬 Film release
-  at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Crime 101 (141 min)\n\nWhen an elusive thief whose high-stakes 
+ heists unfold along the iconic 101 freeway in Los Angeles eyes the score o
+ f a lifetime, with hopes of this being his final job, his path collides wi
+ th a disillusioned insurance broker who is facing her own crossroads, forc
+ ing the two to collaborate. Determined to crack the case, a relentless det
+ ective closes in on the operation, raising the stakes even higher.\n\n🎬 Fi
+ lm release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/crime-101/?screen=st-austell
 END:VEVENT
@@ -214,6 +214,18 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/michael/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Rose of Nevada @ WTW St Austell
+DESCRIPTION:Rose of Nevada\n\nMysterious boat returns to a village 30 years
+  after vanishing. Two men join its crew hoping for better fortune. After o
+ ne voyage, they find themselves transported back in time, mistaken for the
+  original crew.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the 
+ URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:The Devil Wears Prada 2 @ WTW St Austell
@@ -235,6 +247,20 @@ DESCRIPTION:Animal Friends\n\nTwo fugitive animals embark on an adventure a
  e at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:The Sheep Detectives @ WTW St Austell
+DESCRIPTION:The Sheep Detectives\n\nGeorge is a shepherd who reads detectiv
+ e novels to his beloved sheep every night, assuming they can't possibly un
+ derstand. But when a mysterious incident disrupts life on the farm, the sh
+ eep realize they must become the detectives. As they follow the clues and 
+ investigate human suspects, they prove that even sheep can be brilliant cr
+ ime-solvers.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL
+  to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
@@ -283,6 +309,16 @@ DESCRIPTION:Disclosure Day\n\nIf you found out we weren’t alone in the univ
  \n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Scary Movie @ WTW St Austell
+DESCRIPTION:Scary Movie\n\nFill out the form to receive an email when ticke
+ ts go on sale at your local cinema.\n\n🎬 Film release at WTW Cinemas St Au
+ stell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
@@ -352,6 +388,18 @@ LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Paw Patrol: The Dino Movie @ WTW St Austell
+DESCRIPTION:Paw Patrol: The Dino Movie\n\nThe PAW Patrol lands on a mysteri
+ ous dinosaur island after a storm, where they meet Rex, a stranded pup. Wh
+ en Humdinger's reckless mining triggers a volcano, the team faces their bi
+ ggest rescue mission yet to save the island.\n\n🎬 Film release at WTW Cine
+ mas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW St Austell
@@ -364,6 +412,17 @@ DESCRIPTION:Street Fighter\n\nIn 1993, estranged Street Fighters Ryu and Ke
  l\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Digger @ WTW St Austell
+DESCRIPTION:Digger\n\nThe most powerful man in the world embarks on a frant
+ ic mission to prove he is humanity's saviour before the disaster he's unle
+ ashed destroys everything.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️
+  Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/digger/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -381,6 +440,20 @@ DESCRIPTION:Dr Seuss’ The Cat in the Hat\n\nDoing what he does best, the Ca
  k tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW St Austell
+DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\n\nThe residents of 
+ Mossy Bottom Farm are looking forward to Halloween - until the clumsy Farm
+ er trashes the flock's beloved pumpkin patch! When Shaun turns mad scienti
+ st to fix the problem, things spiral rapidly out of control.  With the Far
+ mer missing and a wild beast roaming the woods of Mossingham, all the ingr
+ edients are in place for a monstrously fun family adventure.\n\n🎬 Film rel
+ ease at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
@@ -412,5 +485,15 @@ DESCRIPTION:Avengers: Doomsday\n\nThe Avengers, Wakandans, Fantastic Four,
  t WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=st-austell
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Dune: Part Three @ WTW St Austell
+DESCRIPTION:Dune: Part Three\n\nThe third and final instalment in Villeneuv
+ e's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.\n\n🎬 Film r
+ elease at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+LOCATION:WTW Cinemas St Austell
+URL:https://wtwcinemas.co.uk/film/dune-part-three/?screen=st-austell
 END:VEVENT
 END:VCALENDAR
