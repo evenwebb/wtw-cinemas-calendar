@@ -1,53 +1,4 @@
 {
-  "https://wtwcinemas.co.uk/film/wuthering-heights/": {
-    "runtime": "137 min",
-    "cast": "",
-    "synopsis": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-    "director": "",
-    "cached_at": "2026-01-30T09:32:22.694507"
-  },
-  "https://wtwcinemas.co.uk/film/epic-elvis-presley-in-concert/": {
-    "runtime": "90 min",
-    "cast": "",
-    "synopsis": "A mix of a documentary and concert film made using unused footage from Elvis: That's the Way It Is, the film of Elvis' legendary 1970 Summer Festival in Las Vegas and Elvis's road concert film from two years later, Elvis on Tour, that were found during the production of 2022's Elvis.",
-    "director": "",
-    "cached_at": "2026-01-30T09:32:23.777860"
-  },
-  "https://wtwcinemas.co.uk/film/the-magic-faraway-tree/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Soon after the Thompson family's arrival in the countryside, the three children - Joe, Beth, and Fran - discover a magical tree and its extraordinary and eccentric residents, including Moonface, Silky, Dame Washalot and Saucepan Man. At the top of the tree, they're transported to spectacular and fantastical lands and, through the joys and challenges of their adventures, the Thompsons learn to reconnect and value each other for the first time in years.",
-    "director": "",
-    "cached_at": "2026-01-30T09:32:25.181085"
-  },
-  "https://wtwcinemas.co.uk/film/the-mummy/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The young daughter of a journalist disappears into the desert without a trace - eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-    "director": "",
-    "cached_at": "2026-01-30T09:32:26.187960"
-  },
-  "https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Miranda Priestley navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistant, now a high-powered executive for a luxury group, with advertising dollars that Priestly desperately needs.",
-    "director": "",
-    "cached_at": "2026-01-30T09:32:27.182359"
-  },
-  "https://wtwcinemas.co.uk/film/moana/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches the island of an impetuous Chieftain, his willful daughter answers the Ocean's call to seek out the demigod to set things right.",
-    "director": "",
-    "cached_at": "2026-01-30T09:32:28.248493"
-  },
-  "https://wtwcinemas.co.uk/film/street-fighter/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!.",
-    "director": "",
-    "cached_at": "2026-01-30T09:32:29.553437"
-  },
   "https://wtwcinemas.co.uk/film/the-day-the-earth-blew-up-a-looney-tunes-movie/": {
     "runtime": "",
     "cast": "",
@@ -271,5 +222,54 @@
     "synopsis": "The third and final instalment in Villeneuve's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.",
     "director": "",
     "cached_at": "2026-02-04T09:37:39.360550"
+  },
+  "https://wtwcinemas.co.uk/film/wuthering-heights/": {
+    "runtime": "137 min",
+    "cast": "",
+    "synopsis": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+    "director": "",
+    "cached_at": "2026-02-06T09:36:23.889968"
+  },
+  "https://wtwcinemas.co.uk/film/epic-elvis-presley-in-concert/": {
+    "runtime": "90 min",
+    "cast": "",
+    "synopsis": "A mix of a documentary and concert film made using unused footage from Elvis: That's the Way It Is, the film of Elvis' legendary 1970 Summer Festival in Las Vegas and Elvis's road concert film from two years later, Elvis on Tour, that were found during the production of 2022's Elvis.",
+    "director": "",
+    "cached_at": "2026-02-06T09:36:25.022757"
+  },
+  "https://wtwcinemas.co.uk/film/the-magic-faraway-tree/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Soon after the Thompson family's arrival in the countryside, the three children - Joe, Beth, and Fran - discover a magical tree and its extraordinary and eccentric residents, including Moonface, Silky, Dame Washalot and Saucepan Man. At the top of the tree, they're transported to spectacular and fantastical lands and, through the joys and challenges of their adventures, the Thompsons learn to reconnect and value each other for the first time in years.",
+    "director": "",
+    "cached_at": "2026-02-06T09:36:26.012073"
+  },
+  "https://wtwcinemas.co.uk/film/the-mummy/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The young daughter of a journalist disappears into the desert without a trace - eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "director": "",
+    "cached_at": "2026-02-06T09:36:27.310703"
+  },
+  "https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Miranda Priestley navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistant, now a high-powered executive for a luxury group, with advertising dollars that Priestly desperately needs.",
+    "director": "",
+    "cached_at": "2026-02-06T09:36:28.282372"
+  },
+  "https://wtwcinemas.co.uk/film/moana/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches the island of an impetuous Chieftain, his willful daughter answers the Ocean's call to seek out the demigod to set things right.",
+    "director": "",
+    "cached_at": "2026-02-06T09:36:29.445971"
+  },
+  "https://wtwcinemas.co.uk/film/street-fighter/": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!.",
+    "director": "",
+    "cached_at": "2026-02-06T09:36:30.898714"
   }
 }

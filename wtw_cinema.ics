@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:WTW Cinema Film Releases
 X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DTEND;VALUE=DATE:20260207
-SUMMARY:Send Help @ WTW St Austell
-DESCRIPTION:Send Help (113 min)\n\nTwo colleagues become stranded on a dese
- rted island, the only survivors of a plane crash. On the island, they must
-  overcome past grievances and work together to survive, but ultimately, it
- 's a battle of wills and wits to make it out alive.\n\n🎬 Film release at W
- TW Cinemas St Austell\n🎟️ Click the URL to book tickets
-LOCATION:WTW Cinemas St Austell
-URL:https://wtwcinemas.co.uk/film/send-help/?screen=st-austell
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Wuthering Heights @ WTW St Austell
