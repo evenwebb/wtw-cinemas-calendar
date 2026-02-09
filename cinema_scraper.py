@@ -342,10 +342,14 @@ def enrich_film_tmdb(
 
     if cache_key in cache:
         entry = cache[cache_key]
+        va = entry.get("vote_average")
+        # Treat 0.0 as no rating (e.g. new release with 0 votes)
+        if va is not None and float(va) == 0.0:
+            va = None
         return {
             "overview": entry.get("overview") or "",
             "genres": entry.get("genres") or [],
-            "vote_average": entry.get("vote_average"),
+            "vote_average": va,
             "director": entry.get("director") or "",
             "cast": entry.get("cast") or "",
         }
@@ -412,10 +416,11 @@ def enrich_film_tmdb(
                 cast_names.append(name)
         cast_str = ", ".join(cast_names)
 
+        vote_count = movie.get("vote_count") or 0
         out = {
             "overview": overview,
             "genres": genres,
-            "vote_average": vote_average,
+            "vote_average": vote_average if vote_count > 0 else None,
             "director": director_str,
             "cast": cast_str,
         }
@@ -691,7 +696,7 @@ def _stars_from_rating(vote_average: Any) -> str:
     except (TypeError, ValueError):
         return ""
     if v <= 0:
-        return "☆☆☆☆☆"
+        return ""  # No rating yet (e.g. new release with 0 votes)
     if v >= 10:
         return "★★★★★"
     full = min(5, round(v * 0.5))
@@ -835,16 +840,18 @@ def make_ics_event(
     else:
         title_line = film_title
 
-    # Use Layout B if we have TMDb vote_average
-    has_tmdb = False
+    # Use Layout B if we have any TMDb data (rating, genres, or overview)
     v = details.get("vote_average")
-    if v is not None and isinstance(v, (int, float)):
-        has_tmdb = True
+    has_tmdb = bool(
+        details.get("genres")
+        or details.get("overview")
+        or (v is not None and isinstance(v, (int, float)))
+    )
 
     description_parts = [title_line]
 
     if has_tmdb:
-        stars = _stars_from_rating(v)
+        stars = _stars_from_rating(v) if v is not None else ""
         if stars:
             description_parts.append(stars)
         genres = details.get("genres")
