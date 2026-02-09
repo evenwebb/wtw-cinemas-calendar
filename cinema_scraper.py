@@ -947,6 +947,9 @@ def build_index_html(
       </div>
     </section>"""
 
+    # JavaScript regex for protocol - use variable to avoid backslash in f-string
+    js_protocol_re = r"/^https?:\/\//"
+    cinema_list_joined = chr(10).join(cinema_list_html)
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -955,19 +958,22 @@ def build_index_html(
   <title>WTW Cinemas – Movie Premieres</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     :root {{
-      --bg: #050508;
-      --surface: #0c0c10;
+      --bg: #0a0a0f;
+      --card-bg: #12121a;
+      --surface: #12121a;
       --surface-2: #12121a;
       --surface-3: #1a1a24;
-      --border: rgba(255,255,255,0.06);
-      --text: #f4f4f6;
-      --text-muted: #9898a6;
-      --accent: #f59e0b;
-      --accent-dim: rgba(245, 158, 11, 0.15);
-      --accent-glow: rgba(245, 158, 11, 0.25);
+      --border: rgba(168,85,247,0.25);
+      --text: #e2e8f0;
+      --text-muted: #94a3b8;
+      --cyan: #00d4ff;
+      --purple: #a855f7;
+      --accent: #00d4ff;
+      --accent-dim: rgba(0,212,255,0.15);
+      --accent-glow: rgba(0,212,255,0.25);
       --radius: 16px;
       --radius-sm: 10px;
       --radius-lg: 24px;
@@ -976,7 +982,7 @@ def build_index_html(
     * {{ box-sizing: border-box; margin: 0; padding: 0; }}
     html {{ scroll-behavior: smooth; }}
     body {{
-      font-family: 'Outfit', system-ui, sans-serif;
+      font-family: 'Space Grotesk', system-ui, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
@@ -989,8 +995,8 @@ def build_index_html(
       inset: 0;
       background:
         radial-gradient(ellipse 100% 80% at 50% -30%, var(--accent-dim) 0%, transparent 50%),
-        radial-gradient(ellipse 60% 50% at 80% 100%, rgba(245,158,11,0.08) 0%, transparent 40%),
-        radial-gradient(ellipse 40% 40% at 10% 90%, rgba(245,158,11,0.05) 0%, transparent 50%);
+        radial-gradient(ellipse 60% 50% at 80% 100%, rgba(0,212,255,0.08) 0%, transparent 40%),
+        radial-gradient(ellipse 40% 40% at 10% 90%, rgba(168,85,247,0.05) 0%, transparent 50%);
       pointer-events: none;
       z-index: 0;
     }}
@@ -1046,7 +1052,7 @@ def build_index_html(
       letter-spacing: -0.04em;
       line-height: 1.1;
       margin-bottom: 1rem;
-      background: linear-gradient(180deg, var(--text) 0%, var(--text-muted) 100%);
+      background: linear-gradient(90deg, var(--cyan), var(--purple));
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
@@ -1099,14 +1105,14 @@ def build_index_html(
       left: 0;
       right: 0;
       height: 2px;
-      background: linear-gradient(90deg, transparent, var(--accent), transparent);
+      background: linear-gradient(90deg, transparent, var(--cyan), transparent);
       opacity: 0;
       transition: opacity var(--transition);
     }}
     .card:hover {{
-      border-color: rgba(245,158,11,0.3);
+      border-color: rgba(0,212,255,0.4);
       transform: translateY(-4px);
-      box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 0 1px rgba(245,158,11,0.1);
+      box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 0 1px rgba(0,212,255,0.1);
     }}
     .card:hover::before {{ opacity: 1; }}
     .card-icon {{
@@ -1128,11 +1134,13 @@ def build_index_html(
       .card h2 {{ font-size: 1rem; }}
       .card .meta {{ font-size: 0.8rem; margin-bottom: 0.75rem; }}
       .card .btn {{ padding: 0.6rem 1rem; font-size: 0.85rem; }}
-      .btn-text-short {{ display: inline; }}
-      .btn-text-full {{ display: none; }}
+      .card .btn .btn-text-short {{ display: inline; }}
+      .card .btn .btn-text-full {{ display: none; }}
     }}
-    .btn-text-short {{ display: none; }}
-    .btn-text-full {{ display: inline; }}
+    @media (min-width: 580px) {{
+      .card .btn .btn-text-short {{ display: none; }}
+      .card .btn .btn-text-full {{ display: inline; }}
+    }}
     .card .btn {{
       display: inline-flex;
       align-items: center;
@@ -1140,8 +1148,8 @@ def build_index_html(
       gap: 0.5rem;
       width: 100%;
       padding: 0.75rem 1.25rem;
-      background: var(--accent);
-      color: #050508;
+      background: linear-gradient(135deg, var(--cyan), var(--purple));
+      color: var(--bg);
       font-weight: 600;
       font-size: 0.9rem;
       border-radius: var(--radius-sm);
@@ -1149,7 +1157,7 @@ def build_index_html(
       transition: all var(--transition);
     }}
     .card .btn:hover {{
-      background: #fbbf24;
+      background: linear-gradient(135deg, #20dfff, #b366ff);
       transform: scale(1.02);
       box-shadow: 0 4px 20px var(--accent-glow);
     }}
@@ -1178,7 +1186,7 @@ def build_index_html(
       transition: all var(--transition);
     }}
     .stat-pill:hover {{
-      border-color: rgba(245,158,11,0.2);
+      border-color: rgba(0,212,255,0.2);
       background: var(--surface-3);
     }}
     .stat-pill .value {{
@@ -1265,7 +1273,7 @@ def build_index_html(
       transition: all var(--transition);
     }}
     .featured-film:hover {{
-      border-color: rgba(245,158,11,0.3);
+      border-color: rgba(0,212,255,0.4);
       transform: translateY(-2px);
     }}
     .featured-film .date {{
@@ -1275,34 +1283,37 @@ def build_index_html(
       margin-bottom: 0.5rem;
       display: block;
     }}
-    .site-footer {{
-      margin-top: 4rem;
-      padding-top: 2.5rem;
-      border-top: 1px solid var(--border);
+    footer {{
       text-align: center;
+      padding: 2rem;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      border-top: 1px solid rgba(255,255,255,0.06);
+      margin-top: 4rem;
       animation: fadeUp 0.6s ease-out 0.6s backwards;
     }}
-    .site-footer .disclaimer {{
-      font-size: 0.9rem;
-      color: var(--text-muted);
+    footer a {{
+      color: var(--cyan);
+      text-decoration: none;
+    }}
+    footer a:hover {{
+      color: var(--purple);
+      text-decoration: underline;
+    }}
+    .footer-disclaimer {{
+      font-size: 0.85rem;
+      margin: 0 auto 0.5rem;
       max-width: 36rem;
-      margin: 0 auto 1.5rem;
       line-height: 1.6;
     }}
-    .site-footer .footer-links {{
+    .footer-links {{
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 0.5rem 1.5rem;
-      margin-bottom: 1rem;
+      gap: 0.5rem 1rem;
+      margin-bottom: 0.75rem;
+      align-items: center;
     }}
-    .site-footer .footer-links a {{
-      color: var(--accent);
-      text-decoration: none;
-      font-weight: 500;
-      transition: color var(--transition);
-    }}
-    .site-footer .footer-links a:hover {{ color: #fbbf24; }}
   </style>
 </head>
 <body>
@@ -1317,7 +1328,7 @@ def build_index_html(
 
     <p class="section-label">Choose your cinema</p>
     <ul class="cinemas">
-{"\n".join(cinema_list_html)}
+{cinema_list_joined}
     </ul>
 {stats_html}
     <section class="howto-section">
@@ -1351,10 +1362,13 @@ def build_index_html(
       </div>
     </section>
 
-    <footer class="site-footer">
-      <p class="disclaimer">Feeds update automatically when new premieres are added. Data is scraped from the WTW Cinemas website and is not officially affiliated with WTW.</p>
+    <footer>
+      <p class="footer-disclaimer">An open source fan-made project. Calendars update when new premieres are added. Not affiliated with WTW Cinemas.</p>
       <div class="footer-links">
-        <a href="https://github.com/evenwebb/wtw-cinemas-calendar">Source on GitHub</a>
+        <a href="https://wtwcinemas.co.uk/">WTW Cinemas</a>
+        <span aria-hidden="true">·</span>
+        <a href="https://github.com/evenwebb/wtw-cinemas-calendar">Source</a>
+        <span aria-hidden="true">·</span>
         <a href="https://github.com/evenwebb/">evenwebb</a>
       </div>
     </footer>
@@ -1369,7 +1383,7 @@ def build_index_html(
       var href = link.getAttribute('href');
       if (!href) return;
       var abs = new URL(href, window.location.href).href;
-      if (isIOS || isMac) link.href = abs.replace(/^https?:\\/\\//, 'webcal://');
+      if (isIOS || isMac) link.href = abs.replace({js_protocol_re}, 'webcal://');
       else if (isAndroid) link.href = 'https://www.google.com/calendar/render?cid=' + encodeURIComponent(abs);
     }});
     document.querySelectorAll('.accordion-trigger').forEach(function(btn) {{
