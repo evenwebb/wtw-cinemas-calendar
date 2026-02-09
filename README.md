@@ -1,8 +1,10 @@
 # WTW Cinema's Movie Schedule Scraper
 
-This repository contains a Python script that scrapes upcoming film releases from the Cornwall cinema chain, WTW Cinemas, across multiple locations (St Austell, Newquay, Wadebridge, and Truro) and converts them into a ready-to-import iCalendar (`.ics`) file. The script can be run for free using GitHub Actions. Clone the repository, edit the configuration, and enable actions to push changes to the repository in repository settings.
+This repository contains a Python script that scrapes upcoming film releases from the Cornwall cinema chain, WTW Cinemas, across multiple locations (St Austell, Newquay, Wadebridge, and Truro) and converts them into iCalendar (`.ics`) feeds (one per cinema) plus a web page with subscribe links. The script runs via GitHub Actions and the output is served with GitHub Pages.
 
-Running the scraper generates `wtw_cinema.ics` which can be added to Google Calendar, Outlook, Apple Calendar or any other iCalendar compatible application.
+**Links:** [**Live calendar page**](https://evenwebb.github.io/wtw-cinemas-calendar/) · [Repository](https://github.com/evenwebb/wtw-cinemas-calendar) · [GitHub profile](https://github.com/evenwebb/)
+
+Running the scraper generates a `docs/` folder: one `.ics` file per enabled cinema (e.g. `wtw-st-austell.ics`) and an `index.html` page that lists each calendar with links and instructions. Subscribe to a calendar in Google Calendar, Apple Calendar, Outlook, or any iCalendar-compatible app.
 
 ## Features
 
@@ -38,7 +40,7 @@ From the repository root run:
 python cinema_scraper.py
 ```
 
-The script will fetch the latest film releases from the WTW Cinemas website, create `wtw_cinema.ics` in the current directory and print a confirmation message. Any parse errors are recorded in `cinema_log.txt` for inspection.
+The script will fetch the latest film releases, write one `.ics` file per enabled cinema and `index.html` into the `docs/` folder, and print a confirmation. Any parse errors are recorded in `cinema_log.txt` for inspection.
 
 A typical entry in the generated calendar looks like:
 
@@ -70,8 +72,14 @@ The repository includes a GitHub Actions workflow (`.github/workflows/scrape_cin
 
 The workflow will:
 1. Install Python and dependencies
-2. Run the scraper
-3. Commit and push the updated `.ics` file if there are changes
+2. Run the scraper (writes `docs/*.ics` and `docs/index.html`)
+3. Commit and push the `docs/` folder and caches if there are changes
+
+**GitHub Pages**  
+To serve the calendar page and feeds, set **Settings → Pages** to **Deploy from a branch**, branch **main**, folder **/docs**. The site will be at [https://evenwebb.github.io/wtw-cinemas-calendar/](https://evenwebb.github.io/wtw-cinemas-calendar/) with an index page and links like `.../wtw-st-austell.ics` for each cinema.
+
+**TMDb enrichment (optional)**  
+To get richer calendar entries (star rating, genres, TMDb overview, and cast), add a repository secret named `TMDB_API_KEY` in **Settings → Secrets and variables → Actions**. Get a free API key from [themoviedb.org](https://www.themoviedb.org/settings/api). **Do not commit the API key**; use only GitHub Secrets. If the key was ever exposed, rotate it at themoviedb.org. When the secret is set, the scraper uses TMDb to enrich each film (Layout B); when it is not set, the workflow still runs and uses WTW-only data (Layout A). The TMDb cache is stored in `.tmdb_cache.json` and committed to limit API use.
 
 ## Configuration
 

@@ -1,1 +1,19 @@
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs (scraper writes here; do not commit)
+cinema_log.txt
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Local env (e.g. API key for testing)
+.env
+.env.*

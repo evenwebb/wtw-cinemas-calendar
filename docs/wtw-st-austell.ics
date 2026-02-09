@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//WTW Cinemas//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:WTW Cinema Film Releases
-X-WR-CALDESC:Upcoming film releases at WTW Cinemas (St Austell)
+X-WR-CALNAME:WTW St Austell Movie Premieres
+X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas St Austell
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Wuthering Heights @ WTW St Austell
-DESCRIPTION:Wuthering Heights (137 min)\n\nTragedy strikes when Heathcliff 
- falls in love with Catherine Earnshaw, a woman from a wealthy family in 18
- th-century England.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click 
- the URL to book tickets
+DESCRIPTION:Wuthering Heights (2h 17min)\n\nTragedy strikes when Heathcliff
+  falls in love with Catherine Earnshaw, a woman from a wealthy family in 1
+ 8th-century England.\n\nFilm release at WTW Cinemas St Austell\nBook ticke
+ ts: https://wtwcinemas.co.uk/film/wuthering-heights/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/wuthering-heights/?screen=st-austell
 END:VEVENT
@@ -19,13 +19,14 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:The Day The Earth Blew Up: A Looney Tunes Movie @ WTW St Austell
-DESCRIPTION:The Day The Earth Blew Up: A Looney Tunes Movie (91 min)\n\nPor
- ky and Daffy, the classic animated odd couple, turn into unlikely heroes w
- hen their antics at the local bubble gum factory uncover a secret alien mi
- nd control plot. Against all odds, the two are determined to save their to
- wn (and the world!)...that is if they don't drive each other crazy in the 
- process.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to 
- book tickets
+DESCRIPTION:The Day The Earth Blew Up: A Looney Tunes Movie (1h 31min)\n\nP
+ orky and Daffy, the classic animated odd couple, turn into unlikely heroes
+  when their antics at the local bubble gum factory uncover a secret alien 
+ mind control plot. Against all odds, the two are determined to save their 
+ town (and the world!)...that is if they don't drive each other crazy in th
+ e process.\n\nFilm release at WTW Cinemas St Austell\nBook tickets: https:
+ //wtwcinemas.co.uk/film/the-day-the-earth-blew-up-a-looney-tunes-movie/?sc
+ reen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-day-the-earth-blew-up-a-looney-tunes-movie/?screen=st-austell
 END:VEVENT
@@ -33,23 +34,24 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Stitch Head @ WTW St Austell
-DESCRIPTION:Stitch Head (91 min)\nStarring: Stitch Head was the first creat
- ure brought to 'almost life' by mad professor Erasmus. In the years since,
-  he's become nursemaid to the master's ever-growing menagerie of neglected
-  creatures, tasked with teaching them to suppress their 'inner monster' an
- d hide out in the castle - away from prying eyes and itchy pitchfork finge
- rs, of the village mob in the valley below. But when grubby circus impresa
- rio Fulbert Freakfinder arrives offering Stitch Head a starring role in hi
- s freak show, our hero is tempted by the promise of love and acceptance.\n
- \nStitch Head was the first creature brought to 'almost life' by mad profe
- ssor Erasmus. In the years since, he's become nursemaid to the master's ev
- er-growing menagerie of neglected creatures, tasked with teaching them to 
- suppress their 'inner monster' and hide out in the castle - away from pryi
- ng eyes and itchy pitchfork fingers, of the village mob in the valley belo
- w. But when grubby circus impresario Fulbert Freakfinder arrives offering 
- Stitch Head a starring role in his freak show, our hero is tempted by the 
- promise of love and acceptance.\n\n🎬 Film release at WTW Cinemas St Austel
- l\n🎟️ Click the URL to book tickets
+DESCRIPTION:Stitch Head (1h 31min)\n\nStitch Head was the first creature br
+ ought to 'almost life' by mad professor Erasmus. In the years since, he's 
+ become nursemaid to the master's ever-growing menagerie of neglected creat
+ ures, tasked with teaching them to suppress their 'inner monster' and hide
+  out in the castle - away from prying eyes and itchy pitchfork fingers, of
+  the village mob in the valley below. But when grubby circus impresario Fu
+ lbert Freakfinder arrives offering Stitch Head a starring role in his frea
+ k show, our hero is tempted by the promise of love and acceptance.\n\nStar
+ ring: Stitch Head was the first creature brought to 'almost life' by mad p
+ rofessor Erasmus. In the years since, he's become nursemaid to the master'
+ s ever-growing menagerie of neglected creatures, tasked with teaching them
+  to suppress their 'inner monster' and hide out in the castle - away from 
+ prying eyes and itchy pitchfork fingers, of the village mob in the valley 
+ below. But when grubby circus impresario Fulbert Freakfinder arrives offer
+ ing Stitch Head a starring role in his freak show, our hero is tempted by 
+ the promise of love and acceptance.\n\nFilm release at WTW Cinemas St Aust
+ ell\nBook tickets: https://wtwcinemas.co.uk/film/stitch-head/?screen=st-au
+ stell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/stitch-head/?screen=st-austell
 END:VEVENT
@@ -57,14 +59,14 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:GOAT @ WTW St Austell
-DESCRIPTION:GOAT (100 min)\n\nWill, a small goat with big dreams, gets a on
- ce-in-a-lifetime shot to join the pros and play roarball - a high-intensit
- y, co-ed, full-contact sport dominated by the fastest, fiercest animals in
-  the world. Will's new teammates aren't thrilled about having a little goa
- t on their roster, but Will is determined to revolutionize the sport and p
- rove once and for all that 'smalls can ball'! He has to do something he ha
- s never done before.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click
-  the URL to book tickets
+DESCRIPTION:GOAT (1h 40min)\n\nWill, a small goat with big dreams, gets a o
+ nce-in-a-lifetime shot to join the pros and play roarball - a high-intensi
+ ty, co-ed, full-contact sport dominated by the fastest, fiercest animals i
+ n the world. Will's new teammates aren't thrilled about having a little go
+ at on their roster, but Will is determined to revolutionize the sport and 
+ prove once and for all that 'smalls can ball'! He has to do something he h
+ as never done before.\n\nFilm release at WTW Cinemas St Austell\nBook tick
+ ets: https://wtwcinemas.co.uk/film/goat/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/goat/?screen=st-austell
 END:VEVENT
@@ -72,13 +74,14 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Crime 101 @ WTW St Austell
-DESCRIPTION:Crime 101 (141 min)\n\nWhen an elusive thief whose high-stakes 
- heists unfold along the iconic 101 freeway in Los Angeles eyes the score o
- f a lifetime, with hopes of this being his final job, his path collides wi
- th a disillusioned insurance broker who is facing her own crossroads, forc
- ing the two to collaborate. Determined to crack the case, a relentless det
- ective closes in on the operation, raising the stakes even higher.\n\n🎬 Fi
- lm release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:Crime 101 (2h 21min)\n\nWhen an elusive thief whose high-stakes
+  heists unfold along the iconic 101 freeway in Los Angeles eyes the score 
+ of a lifetime, with hopes of this being his final job, his path collides w
+ ith a disillusioned insurance broker who is facing her own crossroads, for
+ cing the two to collaborate. Determined to crack the case, a relentless de
+ tective closes in on the operation, raising the stakes even higher.\n\nFil
+ m release at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.u
+ k/film/crime-101/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/crime-101/?screen=st-austell
 END:VEVENT
@@ -86,12 +89,12 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Scream 7 @ WTW St Austell
-DESCRIPTION:Scream 7 (114 min)\n\nWhen a new Ghostface killer emerges in th
- e quiet town where Sidney Prescott has built a new life, her darkest fears
-  are realized as her daughter becomes the next target. Determined to prote
- ct her family, Sidney must face the horrors of her past to put an end to t
- he bloodshed once and for all.\n\n🎬 Film release at WTW Cinemas St Austell
- \n🎟️ Click the URL to book tickets
+DESCRIPTION:Scream 7 (1h 54min)\n\nWhen a new Ghostface killer emerges in t
+ he quiet town where Sidney Prescott has built a new life, her darkest fear
+ s are realized as her daughter becomes the next target. Determined to prot
+ ect her family, Sidney must face the horrors of her past to put an end to 
+ the bloodshed once and for all.\n\nFilm release at WTW Cinemas St Austell\
+ nBook tickets: https://wtwcinemas.co.uk/film/scream-7/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/scream-7/?screen=st-austell
 END:VEVENT
@@ -99,12 +102,13 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:EPiC: Elvis Presley in Concert @ WTW St Austell
-DESCRIPTION:EPiC: Elvis Presley in Concert (90 min)\n\nA mix of a documenta
- ry and concert film made using unused footage from Elvis: That's the Way I
- t Is, the film of Elvis' legendary 1970 Summer Festival in Las Vegas and E
- lvis's road concert film from two years later, Elvis on Tour, that were fo
- und during the production of 2022's Elvis.\n\n🎬 Film release at WTW Cinema
- s St Austell\n🎟️ Click the URL to book tickets
+DESCRIPTION:EPiC: Elvis Presley in Concert (1h 30min)\n\nA mix of a documen
+ tary and concert film made using unused footage from Elvis: That's the Way
+  It Is, the film of Elvis' legendary 1970 Summer Festival in Las Vegas and
+  Elvis's road concert film from two years later, Elvis on Tour, that were 
+ found during the production of 2022's Elvis.\n\nFilm release at WTW Cinema
+ s St Austell\nBook tickets: https://wtwcinemas.co.uk/film/epic-elvis-presl
+ ey-in-concert/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/epic-elvis-presley-in-concert/?screen=st-austell
 END:VEVENT
@@ -115,8 +119,8 @@ SUMMARY:Hoppers @ WTW St Austell
 DESCRIPTION:Hoppers\n\nAnimal lover Mabel uses clever new technology design
  ed to "hop" human consciousness into lifelike robotic animals to communica
  te with beavers, uncovering mysteries within the animal world beyond anyth
- ing she could have imagined.\n\n🎬 Film release at WTW Cinemas St Austell\n
- 🎟️ Click the URL to book tickets
+ ing she could have imagined.\n\nFilm release at WTW Cinemas St Austell\nBo
+ ok tickets: https://wtwcinemas.co.uk/film/hoppers/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/hoppers/?screen=st-austell
 END:VEVENT
@@ -127,8 +131,9 @@ SUMMARY:The Bride! @ WTW St Austell
 DESCRIPTION:The Bride!\n\nA lonely Frankenstein travels to 1930s Chicago to
   ask groundbreaking scientist Dr. Euphronious to create a companion for hi
  m. The two revive a murdered young woman and The Bride is born. But what e
- nsues is beyond what either of them imagined.\n\n🎬 Film release at WTW Cin
- emas St Austell\n🎟️ Click the URL to book tickets
+ nsues is beyond what either of them imagined.\n\nFilm release at WTW Cinem
+ as St Austell\nBook tickets: https://wtwcinemas.co.uk/film/the-bride/?scre
+ en=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-bride/?screen=st-austell
 END:VEVENT
@@ -142,8 +147,8 @@ DESCRIPTION:Project Hail Mary\n\nScience teacher Ryland Grace wakes up on a
  ve the riddle of the mysterious substance causing the sun to die out. He m
  ust call on his scientific knowledge and unorthodox ideas to save everythi
  ng on Earth from extinction… but an unexpected friendship means he may not
-  have to do it alone.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Clic
- k the URL to book tickets
+  have to do it alone.\n\nFilm release at WTW Cinemas St Austell\nBook tick
+ ets: https://wtwcinemas.co.uk/film/project-hail-mary/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/project-hail-mary/?screen=st-austell
 END:VEVENT
@@ -157,8 +162,9 @@ DESCRIPTION:The Magic Faraway Tree\n\nSoon after the Thompson family's arri
  Moonface, Silky, Dame Washalot and Saucepan Man. At the top of the tree, t
  hey're transported to spectacular and fantastical lands and, through the j
  oys and challenges of their adventures, the Thompsons learn to reconnect a
- nd value each other for the first time in years.\n\n🎬 Film release at WTW 
- Cinemas St Austell\n🎟️ Click the URL to book tickets
+ nd value each other for the first time in years.\n\nFilm release at WTW Ci
+ nemas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/the-magic-fa
+ raway-tree/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-magic-faraway-tree/?screen=st-austell
 END:VEVENT
@@ -168,8 +174,8 @@ DTEND;VALUE=DATE:20260404
 SUMMARY:The Super Mario Galaxy Movie @ WTW St Austell
 DESCRIPTION:The Super Mario Galaxy Movie\n\nA new movie based on the world 
  of Super Mario Bros. that further broadens Mario's world with a bright and
-  fun story.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL 
- to book tickets
+  fun story.\n\nFilm release at WTW Cinemas St Austell\nBook tickets: https
+ ://wtwcinemas.co.uk/film/super-mario-galaxy/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/super-mario-galaxy/?screen=st-austell
 END:VEVENT
@@ -180,8 +186,8 @@ SUMMARY:The Mummy @ WTW St Austell
 DESCRIPTION:The Mummy\n\nThe young daughter of a journalist disappears into
   the desert without a trace - eight years later, the broken family is shoc
  ked when she is returned to them, as what should be a joyful reunion turns
-  into a living nightmare.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ 
- Click the URL to book tickets
+  into a living nightmare.\n\nFilm release at WTW Cinemas St Austell\nBook 
+ tickets: https://wtwcinemas.co.uk/film/the-mummy/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=st-austell
 END:VEVENT
@@ -196,8 +202,8 @@ DESCRIPTION:Michael\n\nThe film tells the story of Michael Jackson’s life b
  iner in the world. Highlighting both his life off-stage and some of the mo
  st iconic performances from his early solo career, the film gives audience
  s a front-row seat to Michael Jackson as never before. This is where his s
- tory begins.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL
-  to book tickets
+ tory begins.\n\nFilm release at WTW Cinemas St Austell\nBook tickets: http
+ s://wtwcinemas.co.uk/film/michael/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/michael/?screen=st-austell
 END:VEVENT
@@ -208,8 +214,8 @@ SUMMARY:Rose of Nevada @ WTW St Austell
 DESCRIPTION:Rose of Nevada\n\nMysterious boat returns to a village 30 years
   after vanishing. Two men join its crew hoping for better fortune. After o
  ne voyage, they find themselves transported back in time, mistaken for the
-  original crew.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the 
- URL to book tickets
+  original crew.\n\nFilm release at WTW Cinemas St Austell\nBook tickets: h
+ ttps://wtwcinemas.co.uk/film/rose-of-nevada/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=st-austell
 END:VEVENT
@@ -221,8 +227,8 @@ DESCRIPTION:The Devil Wears Prada 2\n\nMiranda Priestley navigates her care
  er amid the decline of traditional magazine publishing. She faces off agai
  nst Emily Charlton, her one-time assistant, now a high-powered executive f
  or a luxury group, with advertising dollars that Priestly desperately need
- s.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book t
- ickets
+ s.\n\nFilm release at WTW Cinemas St Austell\nBook tickets: https://wtwcin
+ emas.co.uk/film/the-devil-wears-prada-2/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=st-austell
 END:VEVENT
@@ -231,8 +237,9 @@ DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Animal Friends @ WTW St Austell
 DESCRIPTION:Animal Friends\n\nTwo fugitive animals embark on an adventure a
- cross America while being pursued by an agent and ranger.\n\n🎬 Film releas
- e at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ cross America while being pursued by an agent and ranger.\n\nFilm release 
+ at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/ani
+ mal-friends/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=st-austell
 END:VEVENT
@@ -245,8 +252,8 @@ DESCRIPTION:The Sheep Detectives\n\nGeorge is a shepherd who reads detectiv
  derstand. But when a mysterious incident disrupts life on the farm, the sh
  eep realize they must become the detectives. As they follow the clues and 
  investigate human suspects, they prove that even sheep can be brilliant cr
- ime-solvers.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL
-  to book tickets
+ ime-solvers.\n\nFilm release at WTW Cinemas St Austell\nBook tickets: http
+ s://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=st-austell
 END:VEVENT
@@ -257,8 +264,9 @@ SUMMARY:Mortal Kombat II @ WTW St Austell
 DESCRIPTION:Mortal Kombat II\n\nThe fan favourite champions-now joined by J
  ohnny Cage himself-are pitted against one another in the ultimate, no-hold
  s barred, gory battle to defeat the dark rule of Shao Kahn that threatens 
- the very existence of the Earthrealm and its defenders.\n\n🎬 Film release 
- at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ the very existence of the Earthrealm and its defenders.\n\nFilm release at
+  WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/morta
+ l-kombat-ii/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=st-austell
 END:VEVENT
@@ -270,8 +278,8 @@ DESCRIPTION:The Mandalorian And Grogu\n\nThe Mandalorian, a lone bounty hun
  ter, is tasked with capturing Grogu, a mysterious and adorable creature. I
  nstead, he forms a strong bond with Grogu and strives to protect him from 
  various threats, exploring his evolving purpose in a post-Empire galaxy.\n
- \n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book ticke
- ts
+ \nFilm release at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas
+ .co.uk/film/the-mandalorian-and-grogu/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=st-austell
 END:VEVENT
@@ -283,8 +291,9 @@ DESCRIPTION:Masters Of The Universe\n\nAlmost two decades after crashing do
  wn to Earth, Prince Adam is whisked back across space to defend his home p
  lanet of Eternia against the evil forces of Skeletor. But to defeat such a
   powerful villain, Prince Adam will first need to uncover the mysteries of
-  his past and become He-Man: the most powerful man in the Universe.\n\n🎬 F
- ilm release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+  his past and become He-Man: the most powerful man in the Universe.\n\nFil
+ m release at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.u
+ k/film/masters-of-the-universe/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=st-austell
 END:VEVENT
@@ -293,8 +302,9 @@ DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW St Austell
 DESCRIPTION:Disclosure Day\n\nIf you found out we weren’t alone in the univ
- erse, would that frighten you?\n\n🎬 Film release at WTW Cinemas St Austell
- \n🎟️ Click the URL to book tickets
+ erse, would that frighten you?\n\nFilm release at WTW Cinemas St Austell\n
+ Book tickets: https://wtwcinemas.co.uk/film/disclosure-day/?screen=st-aust
+ ell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=st-austell
 END:VEVENT
@@ -303,8 +313,9 @@ DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Scary Movie @ WTW St Austell
 DESCRIPTION:Scary Movie\n\nFill out the form to receive an email when ticke
- ts go on sale at your local cinema.\n\n🎬 Film release at WTW Cinemas St Au
- stell\n🎟️ Click the URL to book tickets
+ ts go on sale at your local cinema.\n\nFilm release at WTW Cinemas St Aust
+ ell\nBook tickets: https://wtwcinemas.co.uk/film/scary-movie/?screen=st-au
+ stell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=st-austell
 END:VEVENT
@@ -314,8 +325,8 @@ DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW St Austell
 DESCRIPTION:Toy Story 5\n\nBuzz, Woody, Jessie and the rest of the gang's j
  obs get exponentially harder when they go head to head with an all-new thr
- eat to playtime: tech.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Cli
- ck the URL to book tickets
+ eat to playtime: tech.\n\nFilm release at WTW Cinemas St Austell\nBook tic
+ kets: https://wtwcinemas.co.uk/film/toy-story-5/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=st-austell
 END:VEVENT
@@ -326,8 +337,8 @@ SUMMARY:Supergirl: Woman Of Tomorrow @ WTW St Austell
 DESCRIPTION:Supergirl: Woman Of Tomorrow\n\nWhile celebrating her 21st birt
  hday, Kara Zor-El travels across the galaxy with her dog Krypto, during wh
  ich she meets the young Ruthye Marye Knoll and goes on a "murderous quest 
- for revenge".\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the UR
- L to book tickets
+ for revenge".\n\nFilm release at WTW Cinemas St Austell\nBook tickets: htt
+ ps://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=st-austell
 END:VEVENT
@@ -336,8 +347,9 @@ DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions 3 @ WTW St Austell
 DESCRIPTION:Minions 3\n\nThe third installment in the Minions spin-off seri
- es, and the seventh film overall in the Despicable Me franchise.\n\n🎬 Film
-  release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ es, and the seventh film overall in the Despicable Me franchise.\n\nFilm r
+ elease at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/f
+ ilm/minions-3/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/minions-3/?screen=st-austell
 END:VEVENT
@@ -347,8 +359,9 @@ DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW St Austell
 DESCRIPTION:Moana\n\nIn Ancient Polynesia, when a terrible curse incurred b
  y Maui reaches the island of an impetuous Chieftain, his willful daughter 
- answers the Ocean's call to seek out the demigod to set things right.\n\n🎬
-  Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ answers the Ocean's call to seek out the demigod to set things right.\n\nF
+ ilm release at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co
+ .uk/film/moana/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/moana/?screen=st-austell
 END:VEVENT
@@ -359,8 +372,9 @@ SUMMARY:The Odyssey @ WTW St Austell
 DESCRIPTION:The Odyssey\n\nOdysseus, the legendary Greek king of Ithaca, em
  barks on a long and perilous journey home following the Trojan War, chroni
  cling his encounters with mythical beings such as the Cyclops Polyphemus, 
- the Sirens, and the witch-goddess Circe.\n\n🎬 Film release at WTW Cinemas 
- St Austell\n🎟️ Click the URL to book tickets
+ the Sirens, and the witch-goddess Circe.\n\nFilm release at WTW Cinemas St
+  Austell\nBook tickets: https://wtwcinemas.co.uk/film/the-odyssey/?screen=
+ st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=st-austell
 END:VEVENT
@@ -370,8 +384,8 @@ DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW St Austell
 DESCRIPTION:Spider-Man: Brand New Day\n\nThe fourth instalment in the Spide
  r-Man franchise and part of Phase Six of the Marvel Cinematic Universe.\n\
- n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to book ticket
- s
+ nFilm release at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.
+ co.uk/film/spider-man-brand-new-day/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=st-austell
 END:VEVENT
@@ -382,8 +396,9 @@ SUMMARY:Paw Patrol: The Dino Movie @ WTW St Austell
 DESCRIPTION:Paw Patrol: The Dino Movie\n\nThe PAW Patrol lands on a mysteri
  ous dinosaur island after a storm, where they meet Rex, a stranded pup. Wh
  en Humdinger's reckless mining triggers a volcano, the team faces their bi
- ggest rescue mission yet to save the island.\n\n🎬 Film release at WTW Cine
- mas St Austell\n🎟️ Click the URL to book tickets
+ ggest rescue mission yet to save the island.\n\nFilm release at WTW Cinema
+ s St Austell\nBook tickets: https://wtwcinemas.co.uk/film/paw-patrol-the-d
+ ino-movie/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=st-austell
 END:VEVENT
@@ -396,8 +411,9 @@ DESCRIPTION:Street Fighter\n\nIn 1993, estranged Street Fighters Ryu and Ke
   them for the next World Warrior Tournament: a brutal clash of fists, fate
   and fury. But behind this battle royale lies a deadly conspiracy that for
  ces them to face off against each other and the demons of their past. And 
- if they don't, it's GAME OVER!.\n\n🎬 Film release at WTW Cinemas St Austel
- l\n🎟️ Click the URL to book tickets
+ if they don't, it's GAME OVER!.\n\nFilm release at WTW Cinemas St Austell\
+ nBook tickets: https://wtwcinemas.co.uk/film/street-fighter/?screen=st-aus
+ tell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=st-austell
 END:VEVENT
@@ -407,8 +423,8 @@ DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW St Austell
 DESCRIPTION:Digger\n\nThe most powerful man in the world embarks on a frant
  ic mission to prove he is humanity's saviour before the disaster he's unle
- ashed destroys everything.\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️
-  Click the URL to book tickets
+ ashed destroys everything.\n\nFilm release at WTW Cinemas St Austell\nBook
+  tickets: https://wtwcinemas.co.uk/film/digger/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/digger/?screen=st-austell
 END:VEVENT
@@ -424,8 +440,8 @@ DESCRIPTION:Dr Seuss’ The Cat in the Hat\n\nDoing what he does best, the Ca
  spiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings strugg
  ling to move to a new town. Known for taking things too far, this could be
   this agent of chaos's last chance to prove himself... or lose his magical
-  hat!\n\n🎬 Film release at WTW Cinemas St Austell\n🎟️ Click the URL to boo
- k tickets
+  hat!\n\nFilm release at WTW Cinemas St Austell\nBook tickets: https://wtw
+ cinemas.co.uk/film/the-cat-in-the-hat/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=st-austell
 END:VEVENT
@@ -438,8 +454,9 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\n\nThe residents of
  er trashes the flock's beloved pumpkin patch! When Shaun turns mad scienti
  st to fix the problem, things spiral rapidly out of control.  With the Far
  mer missing and a wild beast roaming the woods of Mossingham, all the ingr
- edients are in place for a monstrously fun family adventure.\n\n🎬 Film rel
- ease at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ edients are in place for a monstrously fun family adventure.\n\nFilm relea
+ se at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/
+ shaun-the-sheep-the-beast-of-mossy-bottom/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom/?screen=st-austell
 END:VEVENT
@@ -449,8 +466,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW St Austell
 DESCRIPTION:The Hunger Games: Sunrise On The Reaping\n\nReturn to the world
   of Panem 24 years before the events of The Hunger Games for the reaping o
- f the 50th Hunger Games, also known as the Second Quarter Quell.\n\n🎬 Film
-  release at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ f the 50th Hunger Games, also known as the Second Quarter Quell.\n\nFilm r
+ elease at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/f
+ ilm/the-hunger-games-sunrise-on-the-reaping/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?screen=st-austell
 END:VEVENT
@@ -459,8 +477,9 @@ DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW St Austell
 DESCRIPTION:Focker-In-Law\n\nFill out the form to receive an email when tic
- kets go on sale at your local cinema.\n\n🎬 Film release at WTW Cinemas St 
- Austell\n🎟️ Click the URL to book tickets
+ kets go on sale at your local cinema.\n\nFilm release at WTW Cinemas St Au
+ stell\nBook tickets: https://wtwcinemas.co.uk/film/focker-in-law/?screen=s
+ t-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=st-austell
 END:VEVENT
@@ -469,8 +488,9 @@ DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW St Austell
 DESCRIPTION:Avengers: Doomsday\n\nThe Avengers, Wakandans, Fantastic Four, 
- Thunderbolts, and X-Men all fight against Doctor Doom.\n\n🎬 Film release a
- t WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ Thunderbolts, and X-Men all fight against Doctor Doom.\n\nFilm release at 
+ WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/avenge
+ rs-doomsday/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=st-austell
 END:VEVENT
@@ -479,8 +499,9 @@ DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW St Austell
 DESCRIPTION:Dune: Part Three\n\nThe third and final instalment in Villeneuv
- e's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.\n\n🎬 Film r
- elease at WTW Cinemas St Austell\n🎟️ Click the URL to book tickets
+ e's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.\n\nFilm rel
+ ease at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/fil
+ m/dune-part-three/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/dune-part-three/?screen=st-austell
 END:VEVENT
