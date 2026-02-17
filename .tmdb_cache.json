@@ -455,5 +455,19 @@
     "director": "Denis Villeneuve",
     "cast": "Timothée Chalamet, Florence Pugh, Anya Taylor-Joy, Zendaya, Jason Momoa, Robert Pattinson",
     "cached_at": "2026-02-09T21:00:45.291135"
+  },
+  "minions-monsters": {
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "vote_average": null,
+    "director": "Pierre Coffin",
+    "cast": "Pierre Coffin",
+    "cached_at": "2026-02-17T09:40:41.199872"
   }
 }

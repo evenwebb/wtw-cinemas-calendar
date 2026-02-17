@@ -306,12 +306,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-SUMMARY:Minions 3 @ WTW Truro
-DESCRIPTION:Minions 3\n★★★☆☆\nFamily, Animation, Adventure, Comedy\n\nThe M
- inions are back along with some new friends in three hilariously fun short
-  films: Competition, Cro Minion, and Binky Nelson Unpacified.\n\nFilm rele
- ase at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/film/mini
- ons-3/?screen=truro
+SUMMARY:Minions & Monsters @ WTW Truro
+DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
+ sy\n\nThis is the rambunctious, ridiculous and totally true story of how t
+ he Minions conquered Hollywood, became movie stars, lost everything, unlea
+ shed monsters onto the world and then banded together to try and save the 
+ planet from the mayhem they had just created.\n\nStarring: Pierre Coffin\n
+ \nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co.u
+ k/film/minions-3/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/minions-3/?screen=truro
 END:VEVENT

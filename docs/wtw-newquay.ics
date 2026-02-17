@@ -310,12 +310,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-SUMMARY:Minions 3 @ WTW Newquay
-DESCRIPTION:Minions 3\n★★★☆☆\nFamily, Animation, Adventure, Comedy\n\nThe M
- inions are back along with some new friends in three hilariously fun short
-  films: Competition, Cro Minion, and Binky Nelson Unpacified.\n\nFilm rele
- ase at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/mi
- nions-3/?screen=newquay
+SUMMARY:Minions & Monsters @ WTW Newquay
+DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
+ sy\n\nThis is the rambunctious, ridiculous and totally true story of how t
+ he Minions conquered Hollywood, became movie stars, lost everything, unlea
+ shed monsters onto the world and then banded together to try and save the 
+ planet from the mayhem they had just created.\n\nStarring: Pierre Coffin\n
+ \nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co
+ .uk/film/minions-3/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/minions-3/?screen=newquay
 END:VEVENT
