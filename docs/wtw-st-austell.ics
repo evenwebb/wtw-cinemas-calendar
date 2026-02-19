@@ -36,14 +36,15 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Hoppers @ WTW St Austell
-DESCRIPTION:Hoppers\nFamily, Comedy, Animation, Science Fiction\n\nScientis
- ts have discovered how to "hop" human consciousness into lifelike robotic 
- animals, allowing people to communicate with animals as animals. Animal lo
- ver Mabel seizes an opportunity to use the technology, uncovering mysterie
- s within the animal world that are beyond anything she could have imagined
- .\n\nStarring: Piper Curda, Bobby Moynihan, Jon Hamm, Kathy Najimy, Eduard
- o Franco, Aparna Nancherla\n\nFilm release at WTW Cinemas St Austell\nBook
-  tickets: https://wtwcinemas.co.uk/film/hoppers/?screen=st-austell
+DESCRIPTION:Hoppers (1h 45min)\nFamily, Comedy, Animation, Science Fiction\
+ n\nScientists have discovered how to "hop" human consciousness into lifeli
+ ke robotic animals, allowing people to communicate with animals as animals
+ . Animal lover Mabel seizes an opportunity to use the technology, uncoveri
+ ng mysteries within the animal world that are beyond anything she could ha
+ ve imagined.\n\nStarring: Piper Curda, Bobby Moynihan, Jon Hamm, Kathy Naj
+ imy, Eduardo Franco, Aparna Nancherla\n\nFilm release at WTW Cinemas St Au
+ stell\nBook tickets: https://wtwcinemas.co.uk/film/hoppers/?screen=st-aust
+ ell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/hoppers/?screen=st-austell
 END:VEVENT
