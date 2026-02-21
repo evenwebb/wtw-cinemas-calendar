@@ -127,6 +127,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
+SUMMARY:Rose of Nevada @ WTW Truro
+DESCRIPTION:Rose of Nevada\nMystery, Drama, Science Fiction\n\nMysterious b
+ oat returns to a village 30 years after vanishing. Two men join its crew h
+ oping for better fortune. After one voyage, they find themselves transport
+ ed back in time, mistaken for the original crew.\n\nStarring: George MacKa
+ y, Callum Turner, Francis Magee, Edward Rowe, Rosalind Eleazar, Mary Woodv
+ ine\n\nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcinemas
+ .co.uk/film/rose-of-nevada/?screen=truro
+LOCATION:WTW Cinemas Truro
+URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=truro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW Truro
 DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
   one of the most influential artists the world has ever known, and his lif
@@ -140,20 +154,6 @@ DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
  wcinemas.co.uk/film/michael/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/michael/?screen=truro
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:Rose of Nevada @ WTW Truro
-DESCRIPTION:Rose of Nevada\nMystery, Drama, Science Fiction\n\nMysterious b
- oat returns to a village 30 years after vanishing. Two men join its crew h
- oping for better fortune. After one voyage, they find themselves transport
- ed back in time, mistaken for the original crew.\n\nStarring: George MacKa
- y, Callum Turner, Francis Magee, Edward Rowe, Rosalind Eleazar, Mary Woodv
- ine\n\nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcinemas
- .co.uk/film/rose-of-nevada/?screen=truro
-LOCATION:WTW Cinemas Truro
-URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
