@@ -3,6 +3,7 @@
 Scrapes upcoming film releases from WTW Cinemas and generates an iCalendar file.
 """
 import datetime
+import hashlib
 import json
 import logging
 import os
@@ -35,6 +36,8 @@ USER_AGENT = (
 
 # iCalendar Settings
 ICAL_LINE_LENGTH = 75
+ICAL_NEWLINE = "\r\n"
+CALENDAR_TIMEZONE = os.getenv("CALENDAR_TIMEZONE", "Europe/London")
 # Output for GitHub Pages: one .ics per cinema + index.html in docs/
 OUTPUT_DIR = "docs"
 # Release history for index "History" stats (past 30 days, YTD). One small JSON file, kept for 2 years.
@@ -622,6 +625,7 @@ def extract_films(
     soup = BeautifulSoup(response.text, "html.parser")
 
     films: List[Tuple[datetime.date, str, str, str, Dict[str, str]]] = []
+    seen_keys: set[Tuple[datetime.date, str, str, str]] = set()
 
     # Find all film entries - they are in div.times elements
     # Structure: li > a (with URL) + figcaption > h2 (title) + div.times > p (date)
@@ -663,8 +667,10 @@ def extract_films(
 
             # Check for duplicates before adding (same film, date, and cinema)
             film_tuple = (release_date, title, cinema_name, film_url, film_details)
-            if (release_date, title, cinema_name, film_url) not in [(f[0], f[1], f[2], f[3]) for f in films]:
+            dedupe_key = (release_date, title, cinema_name, film_url)
+            if dedupe_key not in seen_keys:
                 films.append(film_tuple)
+                seen_keys.add(dedupe_key)
                 logger.info("Found film: %s on %s at %s (URL: %s)", title, release_date, cinema_name, film_url)
 
     return films
@@ -760,7 +766,7 @@ def escape_and_fold_ical_text(text: str, prefix: str = "") -> str:
         result.append(' ' + remaining[:ICAL_LINE_LENGTH - 1])
         remaining = remaining[ICAL_LINE_LENGTH - 1:]
 
-    return '\n'.join(result)
+    return ICAL_NEWLINE.join(result)
 
 
 def generate_alarm(alarm_config: Dict[str, any], release_date: datetime.date) -> str:
@@ -807,12 +813,15 @@ def generate_alarm(alarm_config: Dict[str, any], release_date: datetime.date) ->
 
     description = alarm_config.get('description', 'Film Release Reminder')
 
-    return (
-        "BEGIN:VALARM\n"
-        "ACTION:DISPLAY\n"
-        f"DESCRIPTION:{description}\n"
-        f"{trigger_line}\n"
-        "END:VALARM\n"
+    return ICAL_NEWLINE.join(
+        [
+            "BEGIN:VALARM",
+            "ACTION:DISPLAY",
+            f"DESCRIPTION:{description}",
+            trigger_line,
+            "END:VALARM",
+            "",
+        ]
     )
 
 
@@ -831,6 +840,9 @@ def make_ics_event(
     """
     dtend = release_date + datetime.timedelta(days=1)
     summary = f"{film_title} @ WTW {cinema_name}"
+    uid_seed = f"{release_date.isoformat()}|{film_title}|{cinema_name}|{film_url or ''}"
+    uid = f"{hashlib.sha1(uid_seed.encode('utf-8')).hexdigest()}@wtw-cinemas-calendar"
+    dtstamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     details = film_details or {}
 
     # Runtime display (always from WTW)
@@ -882,21 +894,23 @@ def make_ics_event(
 
     description = "\n".join(description_parts)
 
-    event = (
-        "BEGIN:VEVENT\n"
-        f"DTSTART;VALUE=DATE:{release_date.strftime('%Y%m%d')}\n"
-        f"DTEND;VALUE=DATE:{dtend.strftime('%Y%m%d')}\n"
-        f"SUMMARY:{summary}\n"
-        + escape_and_fold_ical_text(description, "DESCRIPTION:") + "\n"
-        + f"LOCATION:WTW Cinemas {cinema_name}\n"
-    )
+    event_lines = [
+        "BEGIN:VEVENT",
+        f"UID:{uid}",
+        f"DTSTAMP:{dtstamp}",
+        f"DTSTART;VALUE=DATE:{release_date.strftime('%Y%m%d')}",
+        f"DTEND;VALUE=DATE:{dtend.strftime('%Y%m%d')}",
+        escape_and_fold_ical_text(summary, "SUMMARY:"),
+        escape_and_fold_ical_text(description, "DESCRIPTION:"),
+        escape_and_fold_ical_text(f"WTW Cinemas {cinema_name}", "LOCATION:"),
+    ]
     if film_url:
-        event += f"URL:{film_url}\n"
+        event_lines.append(escape_and_fold_ical_text(film_url, "URL:"))
     if NOTIFICATIONS.get('enabled', False):
         for alarm in NOTIFICATIONS.get('alarms', []):
-            event += generate_alarm(alarm, release_date)
-    event += "END:VEVENT\n"
-    return event
+            event_lines.append(generate_alarm(alarm, release_date).rstrip(ICAL_NEWLINE))
+    event_lines.extend(["END:VEVENT", ""])
+    return ICAL_NEWLINE.join(event_lines)
 
 
 def build_index_html(
@@ -1569,15 +1583,22 @@ def main() -> None:
         events = []
         for release_date, title, cname, film_url, film_details, _ in cinema_films:
             events.append(make_ics_event(release_date, title, cname, film_url, film_details))
+        calendar_lines = [
+            "BEGIN:VCALENDAR",
+            "VERSION:2.0",
+            "PRODID:-//WTW Cinemas//EN",
+            "CALSCALE:GREGORIAN",
+            "METHOD:PUBLISH",
+            f"X-WR-CALNAME:WTW {cinema_name} Movie Premieres",
+            f"X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas {cinema_name}",
+        ]
+        if CALENDAR_TIMEZONE.strip():
+            calendar_lines.append(f"X-WR-TIMEZONE:{CALENDAR_TIMEZONE.strip()}")
         ical = (
-            "BEGIN:VCALENDAR\n"
-            "VERSION:2.0\n"
-            "PRODID:-//WTW Cinemas//EN\n"
-            "CALSCALE:GREGORIAN\n"
-            f"X-WR-CALNAME:WTW {cinema_name} Movie Premieres\n"
-            f"X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas {cinema_name}\n"
+            ICAL_NEWLINE.join(calendar_lines)
+            + ICAL_NEWLINE
             + "".join(events)
-            + "END:VCALENDAR\n"
+            + f"END:VCALENDAR{ICAL_NEWLINE}"
         )
         out_path = Path(OUTPUT_DIR) / f"wtw-{cinema_id}.ics"
         out_path.write_text(ical, encoding="utf-8")
