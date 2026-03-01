@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Wadebridge
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:c663eb88a0ede08e90ecc993c56ac4f1a2f0fe2e@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Hoppers @ WTW Wadebridge
@@ -26,7 +26,7 @@ URL:https://wtwcinemas.co.uk/film/hoppers/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:0aae5f43de7484597898a6e72f4fe25c7d377bcf@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:The Bride! @ WTW Wadebridge
@@ -43,7 +43,7 @@ URL:https://wtwcinemas.co.uk/film/the-bride/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe6951af447389a278a9e8a1d88ffc3c136d8d8@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Project Hail Mary @ WTW Wadebridge
@@ -62,27 +62,27 @@ URL:https://wtwcinemas.co.uk/film/project-hail-mary/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:ecba2052709f1a479b954d2e51da480acf6cce61@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:The Magic Faraway Tree @ WTW Wadebridge
-DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
- r the Thompson family’s arrival in the countryside, the three children – J
- oe, Beth, and Fran – discover a magical tree and its extraordinary and ecc
- entric residents, including Moonface, Silky, Dame Washalot, and Saucepan M
- an. At the top of the tree, they're transported to spectacular and fantast
- ical lands and, through the joys and challenges of their adventures, the T
- hompsons learn to reconnect and value each other for the first time in yea
- rs.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, Delilah Ben
- nett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release at WTW Cinem
- as Wadebridge\nBook tickets: https://wtwcinemas.co.uk/film/the-magic-faraw
- ay-tree/?screen=wadebridge
+DESCRIPTION:The Magic Faraway Tree (1h 50min)\nFamily, Fantasy, Adventure\n
+ \nSoon after the Thompson family’s arrival in the countryside, the three c
+ hildren – Joe, Beth, and Fran – discover a magical tree and its extraordin
+ ary and eccentric residents, including Moonface, Silky, Dame Washalot, and
+  Saucepan Man. At the top of the tree, they're transported to spectacular 
+ and fantastical lands and, through the joys and challenges of their advent
+ ures, the Thompsons learn to reconnect and value each other for the first 
+ time in years.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, 
+ Delilah Bennett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release a
+ t WTW Cinemas Wadebridge\nBook tickets: https://wtwcinemas.co.uk/film/the-
+ magic-faraway-tree/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/the-magic-faraway-tree/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:96269c0a44a85c53db772808f9b11d3054878fdf@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:The Super Mario Galaxy Movie @ WTW Wadebridge
@@ -97,7 +97,7 @@ URL:https://wtwcinemas.co.uk/film/super-mario-galaxy/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:e2a9a1b7cabd95ca27f086229f2114fb66ac9845@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:The Mummy @ WTW Wadebridge
@@ -115,7 +115,7 @@ URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fbe45e8012be9be119858b07816627a7c61fb548@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Rose of Nevada @ WTW Wadebridge
@@ -131,7 +131,7 @@ URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:e8469295790d6ce96df66b453130bf256b39fd8f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW Wadebridge
@@ -150,7 +150,7 @@ URL:https://wtwcinemas.co.uk/film/michael/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:36369e86d63573259160902cf1a8bce21a432bae@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:The Devil Wears Prada 2 @ WTW Wadebridge
@@ -168,7 +168,7 @@ URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=wadebridg
 END:VEVENT
 BEGIN:VEVENT
 UID:b6ace05524796c8d2e6f88855ba9fe867903b2e1@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Animal Friends @ WTW Wadebridge
@@ -182,7 +182,7 @@ URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:7d754fa32692ee001c79849e458ad2120940e376@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW Wadebridge
@@ -200,7 +200,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:165a829637a4ff7bec4a85d5942ee6afb2be696f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW Wadebridge
@@ -217,7 +217,7 @@ URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:5f796e88978241b8503d092254b08a1c0f6736e5@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW Wadebridge
@@ -236,7 +236,7 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=wadebri
 END:VEVENT
 BEGIN:VEVENT
 UID:43d611b63b01059438cbd250dee7b0a087b5a9c4@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Wadebridge
@@ -260,7 +260,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=wadebridg
 END:VEVENT
 BEGIN:VEVENT
 UID:4c6a022f8559c5cca2612a5a8a490255036bd11e@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Wadebridge
@@ -275,7 +275,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:18253d8d215c43cf23b63cde9f5ed2e89accb35b@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Scary Movie @ WTW Wadebridge
@@ -292,7 +292,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:5e96a2bb1ae486845034b5bc2fadb9ab499eebe5@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Wadebridge
@@ -308,7 +308,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5f97e0a71c32f92aeeb3927f89c3e0c21926f8@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Wadebridge
@@ -326,7 +326,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=wadeb
 END:VEVENT
 BEGIN:VEVENT
 UID:b45c594b1bf0b2a1eb5cbb4b40d56fc41978da77@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Wadebridge
@@ -342,7 +342,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:177427dea2762ca041890e9f77983a83e3717048@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Wadebridge
@@ -358,7 +358,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:7c9b5606fe1facf5895d237303051772b659ba0b@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Wadebridge
@@ -375,7 +375,7 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:ea162047c304d1ff01a3d1ee7e901ac9d202122f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Wadebridge
@@ -391,7 +391,7 @@ URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=wadebrid
 END:VEVENT
 BEGIN:VEVENT
 UID:0015ea814a27455192f638d3288e2f8463d711d0@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Wadebridge
@@ -409,7 +409,7 @@ URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=wadebri
 END:VEVENT
 BEGIN:VEVENT
 UID:bcc3171a3128249956d8d70e11559562b1243e51@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Wadebridge
@@ -427,7 +427,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:65ba930e085630d40a912d5dfc0beabe88575a6f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Wadebridge
@@ -442,7 +442,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:3d3a4e9032ea450d3c33f851f096e1eef488c83d@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Wadebridge
@@ -460,7 +460,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:e29f5e41b68276e6f86ce4cfe16989e25fc3359e@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Wadebridge
@@ -480,7 +480,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:e06c243d47516860efce5055c16466b23955fefc@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Wadebridge
@@ -497,7 +497,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:1fdf864d81eca4d05a1a4d2515244207f709fd03@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Wadebridge
@@ -511,7 +511,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:3874ae6668498988584769df93a395c13af8f367@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Wadebridge
@@ -526,7 +526,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:d55df8a4d820be237ab9688a4149d623fec333ee@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Wadebridge

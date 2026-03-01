@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Newquay
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:f23dc50e747d8438a6d67c6d9d862afb1e4f17b4@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Hoppers @ WTW Newquay
@@ -25,7 +25,7 @@ URL:https://wtwcinemas.co.uk/film/hoppers/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:620334e6e78cba755729a79cfc542386cca09e30@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:The Bride! @ WTW Newquay
@@ -42,7 +42,7 @@ URL:https://wtwcinemas.co.uk/film/the-bride/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:e3cf4874fbbc322515289c755d3f638b2e4714ac@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Project Hail Mary @ WTW Newquay
@@ -61,27 +61,27 @@ URL:https://wtwcinemas.co.uk/film/project-hail-mary/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:a6078154a236c1993a2f39f690e2809c8f8758c5@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:The Magic Faraway Tree @ WTW Newquay
-DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
- r the Thompson family’s arrival in the countryside, the three children – J
- oe, Beth, and Fran – discover a magical tree and its extraordinary and ecc
- entric residents, including Moonface, Silky, Dame Washalot, and Saucepan M
- an. At the top of the tree, they're transported to spectacular and fantast
- ical lands and, through the joys and challenges of their adventures, the T
- hompsons learn to reconnect and value each other for the first time in yea
- rs.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, Delilah Ben
- nett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release at WTW Cinem
- as Newquay\nBook tickets: https://wtwcinemas.co.uk/film/the-magic-faraway-
- tree/?screen=newquay
+DESCRIPTION:The Magic Faraway Tree (1h 50min)\nFamily, Fantasy, Adventure\n
+ \nSoon after the Thompson family’s arrival in the countryside, the three c
+ hildren – Joe, Beth, and Fran – discover a magical tree and its extraordin
+ ary and eccentric residents, including Moonface, Silky, Dame Washalot, and
+  Saucepan Man. At the top of the tree, they're transported to spectacular 
+ and fantastical lands and, through the joys and challenges of their advent
+ ures, the Thompsons learn to reconnect and value each other for the first 
+ time in years.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, 
+ Delilah Bennett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release a
+ t WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/the-mag
+ ic-faraway-tree/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/the-magic-faraway-tree/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d82e2c9da168cb68fc5ceef2d8f5c50cbe646688@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:The Super Mario Galaxy Movie @ WTW Newquay
@@ -96,7 +96,7 @@ URL:https://wtwcinemas.co.uk/film/super-mario-galaxy/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8cd585861cee1221bd978b2865dc60350dd9027f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:The Mummy @ WTW Newquay
@@ -114,7 +114,7 @@ URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:458516c50be653b35eafec8095fea25c512ff739@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Rose of Nevada @ WTW Newquay
@@ -130,7 +130,7 @@ URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:1e4b2dd969aeed448eb9815b0e4adcea3067b6f2@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW Newquay
@@ -149,7 +149,7 @@ URL:https://wtwcinemas.co.uk/film/michael/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:2ff2c4b103848467c986ee43b94a5a5782801e0e@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:The Devil Wears Prada 2 @ WTW Newquay
@@ -166,7 +166,7 @@ URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:e351d8e730bc720eed8e37f290443d4ccac86ce6@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Animal Friends @ WTW Newquay
@@ -180,7 +180,7 @@ URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:40f033eb1f97e107a90a4de41111b835a3edefff@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW Newquay
@@ -198,7 +198,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:b04080e83c655cf2f3d9380873774eecf34689d1@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW Newquay
@@ -214,7 +214,7 @@ URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bab6f4912c8458461f2670d97da84965c020ec93@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW Newquay
@@ -231,7 +231,7 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:ef9afee7aea8a5d41998e42e48677e135d793d6f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Newquay
@@ -254,7 +254,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:fd09fa212745c97ffbec8890d775d0721180f7d5@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Newquay
@@ -269,7 +269,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:025d9c0be9c84e3a14b23a20e02d36885eaacf64@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Scary Movie @ WTW Newquay
@@ -286,7 +286,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:ec59f8d3bbb58af25846c79e3115abd451486813@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Newquay
@@ -302,7 +302,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5ba3970d371825b2fc957345fad7dbf3a0ec58@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Newquay
@@ -320,7 +320,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=newqu
 END:VEVENT
 BEGIN:VEVENT
 UID:454a33058b752f441260f4cacc94d3746a108d8c@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Newquay
@@ -336,7 +336,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d804f311fbae9bad8b8b70d4a77c7c7b2655c888@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Newquay
@@ -352,7 +352,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8dc96e4376c4650e89d430ac18e1e04043faa3b0@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Newquay
@@ -369,7 +369,7 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:95fe6baa3d0796b796ca8c94d57db998ef63ad9a@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Newquay
@@ -384,7 +384,7 @@ URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8f72c8857815fabcc04660a7701831b9a2f2112f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Newquay
@@ -401,7 +401,7 @@ URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:36549e319926e6ba4ebe8ec3f9b8a4196c34a11f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Newquay
@@ -419,7 +419,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fc07fad828759110dfa5108426fe9832e14676@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Newquay
@@ -434,7 +434,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1aecbd2f0b929d44a6369ec69d665a3b73c492@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Newquay
@@ -452,7 +452,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:1c3943d45dfe7a7181dc9a3b4fd1f8bd1c6e63dd@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Newquay
@@ -471,7 +471,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:25ae3c85631fa5c939300db7b1ea3559e140d624@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Newquay
@@ -488,7 +488,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:ee366a58c03c2669e7097b80171770e38e345799@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Newquay
@@ -502,7 +502,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:58a791f9322d50cdf1a6d8cf14cbfa8da1d14ced@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Newquay
@@ -517,7 +517,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:6a35b522e1d19b9886fe7869440815d7a9f212df@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Newquay

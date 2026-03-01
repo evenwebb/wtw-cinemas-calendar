@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas St Austell
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:9450a72f45d6f69a6d8a764d17fcc192c81e65ea@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Hoppers @ WTW St Austell
@@ -26,7 +26,7 @@ URL:https://wtwcinemas.co.uk/film/hoppers/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:c152ab6b5418372516a8e05bde7ea2b07f9a3c48@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:The Bride! @ WTW St Austell
@@ -43,7 +43,7 @@ URL:https://wtwcinemas.co.uk/film/the-bride/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:130f7b535db59fa1c933d29ed76677f7f8e164b3@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Project Hail Mary @ WTW St Austell
@@ -62,27 +62,27 @@ URL:https://wtwcinemas.co.uk/film/project-hail-mary/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:38e656e95a70571fca27ca1e8062464ae6ae934d@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:The Magic Faraway Tree @ WTW St Austell
-DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
- r the Thompson family’s arrival in the countryside, the three children – J
- oe, Beth, and Fran – discover a magical tree and its extraordinary and ecc
- entric residents, including Moonface, Silky, Dame Washalot, and Saucepan M
- an. At the top of the tree, they're transported to spectacular and fantast
- ical lands and, through the joys and challenges of their adventures, the T
- hompsons learn to reconnect and value each other for the first time in yea
- rs.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, Delilah Ben
- nett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release at WTW Cinem
- as St Austell\nBook tickets: https://wtwcinemas.co.uk/film/the-magic-faraw
- ay-tree/?screen=st-austell
+DESCRIPTION:The Magic Faraway Tree (1h 50min)\nFamily, Fantasy, Adventure\n
+ \nSoon after the Thompson family’s arrival in the countryside, the three c
+ hildren – Joe, Beth, and Fran – discover a magical tree and its extraordin
+ ary and eccentric residents, including Moonface, Silky, Dame Washalot, and
+  Saucepan Man. At the top of the tree, they're transported to spectacular 
+ and fantastical lands and, through the joys and challenges of their advent
+ ures, the Thompsons learn to reconnect and value each other for the first 
+ time in years.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, 
+ Delilah Bennett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release a
+ t WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/the-
+ magic-faraway-tree/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/the-magic-faraway-tree/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:24002415bcae81104b6c7a004e8be30c2b1f75eb@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:The Super Mario Galaxy Movie @ WTW St Austell
@@ -97,7 +97,7 @@ URL:https://wtwcinemas.co.uk/film/super-mario-galaxy/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:430b2982dae9b0c1d6550aaf8a4d84196ee6e5dc@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:The Mummy @ WTW St Austell
@@ -115,7 +115,7 @@ URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:dbc355c9c2ef8e1b9c46a0241cd7b2f01f6f6b7f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Rose of Nevada @ WTW St Austell
@@ -131,7 +131,7 @@ URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:9fa72d19f78f06eaed6fb567da7884a3094099a7@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW St Austell
@@ -150,7 +150,7 @@ URL:https://wtwcinemas.co.uk/film/michael/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:d864fc3515e2d2afba0dd8af1d04fef5a2f88939@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:The Devil Wears Prada 2 @ WTW St Austell
@@ -168,7 +168,7 @@ URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=st-austel
 END:VEVENT
 BEGIN:VEVENT
 UID:79d7e383b7db5d114ed8a6684f293c37b780dc6d@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Animal Friends @ WTW St Austell
@@ -182,7 +182,7 @@ URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:c4dc9b2124e6d728908c6a263ce8cec28cba43cc@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW St Austell
@@ -200,7 +200,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:1d7734296c7b7cf1f3cb40ef3e567961ee68188b@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW St Austell
@@ -217,7 +217,7 @@ URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3a8c90a8bad430ff8c97731c07924df97b198c@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW St Austell
@@ -236,7 +236,7 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=st-aust
 END:VEVENT
 BEGIN:VEVENT
 UID:19ad60ecb9da18e3cf60cebf7c7f6b2fadb6b535@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW St Austell
@@ -260,7 +260,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=st-austel
 END:VEVENT
 BEGIN:VEVENT
 UID:5fd0084d38ebe28bba12c307b3007fc89176cf65@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW St Austell
@@ -275,7 +275,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:a31c0fe79730ca923f0b913afa86539d9f26ff3c@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Scary Movie @ WTW St Austell
@@ -292,7 +292,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:401542e1df59f2a534d6a21047a261476dd4d8ad@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW St Austell
@@ -308,7 +308,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:8e6c22f8ebc85629e7827fc4d86a8c741d99c8b7@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW St Austell
@@ -326,7 +326,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=st-au
 END:VEVENT
 BEGIN:VEVENT
 UID:fa226b8fe486b251822c9e4d7f991b0141c479b6@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW St Austell
@@ -342,7 +342,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:9dad8859ec0e363f57824c956388fc19d87b951f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW St Austell
@@ -358,7 +358,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:7219c289211183b99333a62eb495c2b98c6cdb23@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW St Austell
@@ -375,7 +375,7 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:b06e6e037139a22bda22a7af855f4fa99bd618d2@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW St Austell
@@ -391,7 +391,7 @@ URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=st-auste
 END:VEVENT
 BEGIN:VEVENT
 UID:56ffeae93cc321bb8db300960ebf75a689699036@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW St Austell
@@ -409,7 +409,7 @@ URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=st-aust
 END:VEVENT
 BEGIN:VEVENT
 UID:b13ee67f7bad29098f8ce6b1314d70f9f3063ccd@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW St Austell
@@ -427,7 +427,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:7aba37234345639a7fe35246acaf2eafd28e0d9f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW St Austell
@@ -442,7 +442,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:bfec474c81c21b230aa7a0d5598e3d37437e50e2@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW St Austell
@@ -460,7 +460,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:183ad1815b4e36cc304c07cb7322d6c23100033d@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW St Austell
@@ -480,7 +480,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:18940699591037c594ab8c5d6f64c6315b5c552c@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW St Austell
@@ -497,7 +497,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:a3429ddc51e5126b829da05f42bbbecf07e8a055@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW St Austell
@@ -511,7 +511,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:a5d11ff1696299cae0c6d0119cc0a9f6fb1e290c@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW St Austell
@@ -526,7 +526,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:a44963c9510324bcd09521491aef9bf3b8638c2a@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW St Austell

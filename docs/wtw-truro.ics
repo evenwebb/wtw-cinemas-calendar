@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Truro
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:63c270bb455be9a86e5cfaf7ef5b1f3da4b9e919@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Hoppers @ WTW Truro
@@ -25,7 +25,7 @@ URL:https://wtwcinemas.co.uk/film/hoppers/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:64f76492af1ba3d46b98c7d70fd9817d3e94b8fe@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:The Bride! @ WTW Truro
@@ -42,7 +42,7 @@ URL:https://wtwcinemas.co.uk/film/the-bride/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:e7f2ccd776fc7fc45604ed41eee7c36d48608198@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Project Hail Mary @ WTW Truro
@@ -61,27 +61,27 @@ URL:https://wtwcinemas.co.uk/film/project-hail-mary/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a3faba20249deae5aee86c014f1ecc0ce18926e2@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:The Magic Faraway Tree @ WTW Truro
-DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
- r the Thompson family’s arrival in the countryside, the three children – J
- oe, Beth, and Fran – discover a magical tree and its extraordinary and ecc
- entric residents, including Moonface, Silky, Dame Washalot, and Saucepan M
- an. At the top of the tree, they're transported to spectacular and fantast
- ical lands and, through the joys and challenges of their adventures, the T
- hompsons learn to reconnect and value each other for the first time in yea
- rs.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, Delilah Ben
- nett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release at WTW Cinem
- as Truro\nBook tickets: https://wtwcinemas.co.uk/film/the-magic-faraway-tr
- ee/?screen=truro
+DESCRIPTION:The Magic Faraway Tree (1h 50min)\nFamily, Fantasy, Adventure\n
+ \nSoon after the Thompson family’s arrival in the countryside, the three c
+ hildren – Joe, Beth, and Fran – discover a magical tree and its extraordin
+ ary and eccentric residents, including Moonface, Silky, Dame Washalot, and
+  Saucepan Man. At the top of the tree, they're transported to spectacular 
+ and fantastical lands and, through the joys and challenges of their advent
+ ures, the Thompsons learn to reconnect and value each other for the first 
+ time in years.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, 
+ Delilah Bennett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release a
+ t WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/film/the-magic
+ -faraway-tree/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/the-magic-faraway-tree/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:c6038350743bc16f90866b4a32d461e3089f7007@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:The Super Mario Galaxy Movie @ WTW Truro
@@ -96,7 +96,7 @@ URL:https://wtwcinemas.co.uk/film/super-mario-galaxy/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:5776ae93bff2555eb133e261a263129339cee312@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:The Mummy @ WTW Truro
@@ -114,7 +114,7 @@ URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:c0450d3cfcd7a71542a5705e9db92012bfe088b1@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Rose of Nevada @ WTW Truro
@@ -130,7 +130,7 @@ URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:d7818ae2ad7e488abbebce6c472057e8364f359f@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW Truro
@@ -149,7 +149,7 @@ URL:https://wtwcinemas.co.uk/film/michael/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:5e3f34c4b262fc3ed47f38e6d66b6bb4a4a084a6@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:The Devil Wears Prada 2 @ WTW Truro
@@ -166,7 +166,7 @@ URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:6a9fa032a443ebc3c09a1edd893bdcd7b07d84c4@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Animal Friends @ WTW Truro
@@ -180,7 +180,7 @@ URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:537d537088b55537c12ac9538d81ec57cfa2f5d4@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW Truro
@@ -198,7 +198,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:74a8e70572100c77f0fb22e9f38a2c7cbc7f30d4@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW Truro
@@ -214,7 +214,7 @@ URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:f3aafcc666ac4aa69e88efebda6149b8dc0d43b1@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW Truro
@@ -231,7 +231,7 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:ed8718130d5edd35434e9d5cf4e231282cd7b06a@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Truro
@@ -254,7 +254,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:60974473d3b759c5db2259ad4ccf5185d1878115@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Truro
@@ -269,7 +269,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:00460df9a367d042079c7fffc1b727023b267209@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Scary Movie @ WTW Truro
@@ -285,7 +285,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:46855f5fa8f17ad22214f9a57742f5509c8b88c6@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Truro
@@ -301,7 +301,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:7bffeb3b2806dcd8b719c88053c63f7c5bd136b4@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Truro
@@ -317,7 +317,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:aa27bbaf7b5e00f1c644ee00182dfa2f7b0a4ee9@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Truro
@@ -333,7 +333,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:aaa0f1e98ff76d3f8b3bf6efbd8fd1e9262ff02b@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Truro
@@ -349,7 +349,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a118a96ee9660b21e3a5bd3b16331d28e41b0511@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Truro
@@ -366,7 +366,7 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:4d926acc4aa7af58f002068ae0bdba3f789d982b@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Truro
@@ -381,7 +381,7 @@ URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a68534c888b7077d1ca4153400ae65f0e5aadbde@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Truro
@@ -398,7 +398,7 @@ URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:3abca195069164dce2c88e2fd5c3ec8e0600b706@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Truro
@@ -416,7 +416,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:34cc34944b01a6c8e79a713a8ea3a5c7c5c0dabf@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Truro
@@ -431,7 +431,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:e8bbed7807188541aa0521206271055f577dd846@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Truro
@@ -449,7 +449,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a59ae5397dfe889dda22fc6a552b9a712e540256@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Truro
@@ -468,7 +468,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:72600670da5e939de2a0407385ee803193ae8d0d@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Truro
@@ -485,7 +485,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1c35c5b543f28562b2ab69b03d4c11e6e821a7@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Truro
@@ -499,7 +499,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a3de4a75acc1eb6dbddf8f8d182fc3f2194063b7@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Truro
@@ -514,7 +514,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:0420148135e5fa232791432af65f8d06556bab4b@wtw-cinemas-calendar
-DTSTAMP:20260228T091952Z
+DTSTAMP:20260301T092327Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Truro
