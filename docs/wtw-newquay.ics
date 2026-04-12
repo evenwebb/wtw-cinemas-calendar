@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Newquay
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:8cd585861cee1221bd978b2865dc60350dd9027f@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:The Mummy @ WTW Newquay
@@ -26,11 +26,11 @@ URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:458516c50be653b35eafec8095fea25c512ff739@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Rose of Nevada @ WTW Newquay
-DESCRIPTION:Rose of Nevada (1h 54min)\nMystery, Drama, Science Fiction\n\nA
+DESCRIPTION:Rose of Nevada (1h 54min)\nScience Fiction, Mystery, Drama\n\nA
   mysterious boat returns to a village 30 years after vanishing. Two men jo
  in its crew hoping for better fortune. After one voyage, they find themsel
  ves transported back in time, mistaken for the original crew.\n\nStarring:
@@ -42,26 +42,26 @@ URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:1e4b2dd969aeed448eb9815b0e4adcea3067b6f2@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW Newquay
-DESCRIPTION:Michael\nMusic, Drama, History\n\nDiscover the story of Michael
-  Jackson, one of the most influential artists the world has ever known, an
- d his life beyond the music, tracing his journey from the discovery of his
-  extraordinary talent as the lead of the Jackson Five, to the visionary ar
- tist whose creative ambition fueled a relentless pursuit to become the big
- gest entertainer in the world, highlighting both his life off-stage and so
- me of the most iconic performances from his early solo career.\n\nStarring
- : Jaafar Jackson, Colman Domingo, Nia Long, Kendrick Sampson, Miles Teller
- , Juliano Krue Valdi\n\nFilm release at WTW Cinemas Newquay\nBook tickets:
-  https://wtwcinemas.co.uk/film/michael/?screen=newquay
+DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
+  one of the most influential artists the world has ever known, and his lif
+ e beyond the music, tracing his journey from the discovery of his extraord
+ inary talent as the lead of the Jackson Five, to the visionary artist whos
+ e creative ambition fueled a relentless pursuit to become the biggest ente
+ rtainer in the world, highlighting both his life off-stage and some of the
+  most iconic performances from his early solo career.\n\nStarring: Jaafar 
+ Jackson, Colman Domingo, Nia Long, Kendrick Sampson, Miles Teller, Juliano
+  Krue Valdi\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://
+ wtwcinemas.co.uk/film/michael/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/michael/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:2ff2c4b103848467c986ee43b94a5a5782801e0e@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:The Devil Wears Prada 2 @ WTW Newquay
@@ -78,21 +78,23 @@ URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:e351d8e730bc720eed8e37f290443d4ccac86ce6@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Animal Friends @ WTW Newquay
 DESCRIPTION:Animal Friends\nComedy\n\nTwo fugitive animals embark on an adv
- enture across America while being pursued by an agent and ranger.\n\nStarr
- ing: Ryan Reynolds, Jason Momoa, Aubrey Plaza, Dan Levy, Addison Rae, Lil 
- Rel Howery\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://w
- twcinemas.co.uk/film/animal-friends/?screen=newquay
+ enture across America to find the ranch that was once their home, healing 
+ their friendship while pursued by an equally "odd-couple" DEA agent and Fi
+ sh and Wildlife ranger with something to prove.\n\nStarring: Ryan Reynolds
+ , Jason Momoa, Aubrey Plaza, Dan Levy, Addison Rae, Lil Rel Howery\n\nFilm
+  release at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/fi
+ lm/animal-friends/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:40f033eb1f97e107a90a4de41111b835a3edefff@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW Newquay
@@ -110,7 +112,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:b04080e83c655cf2f3d9380873774eecf34689d1@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW Newquay
@@ -126,7 +128,7 @@ URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bab6f4912c8458461f2670d97da84965c020ec93@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW Newquay
@@ -143,7 +145,7 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:ef9afee7aea8a5d41998e42e48677e135d793d6f@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Newquay
@@ -161,7 +163,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:fd09fa212745c97ffbec8890d775d0721180f7d5@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Newquay
@@ -176,7 +178,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:025d9c0be9c84e3a14b23a20e02d36885eaacf64@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Scary Movie @ WTW Newquay
@@ -193,7 +195,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:ec59f8d3bbb58af25846c79e3115abd451486813@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Newquay
@@ -209,7 +211,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5ba3970d371825b2fc957345fad7dbf3a0ec58@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Newquay
@@ -227,7 +229,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=newqu
 END:VEVENT
 BEGIN:VEVENT
 UID:454a33058b752f441260f4cacc94d3746a108d8c@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Newquay
@@ -244,7 +246,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d804f311fbae9bad8b8b70d4a77c7c7b2655c888@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Newquay
@@ -260,7 +262,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8dc96e4376c4650e89d430ac18e1e04043faa3b0@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Newquay
@@ -277,44 +279,50 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:95fe6baa3d0796b796ca8c94d57db998ef63ad9a@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Newquay
 DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
- \nFour years after the events of Spider-Man: No Way Home, Peter Parker is 
- no more and Spider-Man is at the top of his game keeping New York City saf
- e. Things are going well until an unusual trail of crimes pulls Spider-Man
-  into a web of mystery larger than he's ever faced before. In order to tak
- e on what's ahead, Spider-Man not only needs to be at the top of his physi
- cal and mental game, but he must also be prepared to face the repercussion
- s of his past!\n\nStarring: Tom Holland, Sadie Sink, Liza Colón-Zayas, Jon
-  Bernthal, Zendaya, Jacob Batalon\n\nFilm release at WTW Cinemas Newquay\n
- Book tickets: https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?scre
- en=newquay
+ \nFour years have passed since the events of No Way Home, and Peter is now
+  an adult living entirely alone, having voluntarily erased himself from th
+ e lives and memories of those he loves. Crime-fighting in a New York that 
+ no longer knows his name, he's devoted himself entirely to protecting his 
+ city — a full-time Spider-Man — but as the demands on him intensify, the p
+ ressure sparks a surprising physical evolution that threatens his existenc
+ e, even as a strange new pattern of crimes gives rise to one of the most p
+ owerful threats he has ever faced.\n\nStarring: Tom Holland, Zendaya, Sadi
+ e Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm release at WT
+ W Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/spider-man-
+ brand-new-day/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8f72c8857815fabcc04660a7701831b9a2f2112f@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Newquay
 DESCRIPTION:Paw Patrol: The Dino Movie\nAnimation, Adventure, Family, Comed
- y\n\nThe PAW Patrol lands on a mysterious dinosaur island after a storm, w
- here they meet Rex, a stranded pup. When Humdinger's reckless mining trigg
- ers a volcano, the team faces their biggest rescue mission yet to save the
-  island.\n\nStarring: Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Dunc
- an-Reid, Nylan Parthipan, Carter Young\n\nFilm release at WTW Cinemas Newq
- uay\nBook tickets: https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie
- /?screen=newquay
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Mckenna Grace, C
+ arter Young, Hayden Chamberlen, Rain Janjua, Henry Bolan, Lucien Duncan-Re
+ id\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcinema
+ s.co.uk/film/paw-patrol-the-dino-movie/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:36549e319926e6ba4ebe8ec3f9b8a4196c34a11f@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Newquay
@@ -329,14 +337,14 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fc07fad828759110dfa5108426fe9832e14676@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Newquay
 DESCRIPTION:Digger\nComedy, Drama, Adventure\n\nThe most powerful man in th
  e world embarks on a frantic mission to prove he is humanity's saviour bef
  ore the disaster he’s unleashed destroys everything.\n\nStarring: Tom Crui
- se, Sandra Hüller, John Goodman, Jesse Plemons, Sophie Wilde, Riz Ahmed\n\
+ se, Sandra Hüller, John Goodman, Riz Ahmed, Jesse Plemons, Sophie Wilde\n\
  nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.
  uk/film/digger/?screen=newquay
 LOCATION:WTW Cinemas Newquay
@@ -344,7 +352,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1aecbd2f0b929d44a6369ec69d665a3b73c492@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Newquay
@@ -362,7 +370,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:1c3943d45dfe7a7181dc9a3b4fd1f8bd1c6e63dd@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Newquay
@@ -381,7 +389,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:25ae3c85631fa5c939300db7b1ea3559e140d624@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Newquay
@@ -398,7 +406,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:ee366a58c03c2669e7097b80171770e38e345799@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Newquay
@@ -412,7 +420,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:58a791f9322d50cdf1a6d8cf14cbfa8da1d14ced@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Newquay
@@ -427,16 +435,17 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:6a35b522e1d19b9886fe7869440815d7a9f212df@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Newquay
-DESCRIPTION:Dune: Part Three\nAdventure, Science Fiction\n\nThe third and f
- inal installment in Villeneuve's Dune trilogy. Based on Frank Herbert's no
- vel Dune Messiah.\n\nStarring: Timothée Chalamet, Zendaya, Florence Pugh, 
- Anya Taylor-Joy, Jason Momoa, Rebecca Ferguson\n\nFilm release at WTW Cine
- mas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/dune-part-three/?
- screen=newquay
+DESCRIPTION:Dune: Part Three\nScience Fiction, Drama\n\nAs Emperor, Paul At
+ reides grapples with the consequences of his rise to power as political co
+ nspiracies and a galaxy-spanning holy war threaten the future he alone can
+  foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa, Florence P
+ ugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at WTW Cinemas Ne
+ wquay\nBook tickets: https://wtwcinemas.co.uk/film/dune-part-three/?screen
+ =newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/dune-part-three/?screen=newquay
 END:VEVENT

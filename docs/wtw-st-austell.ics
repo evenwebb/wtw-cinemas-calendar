@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas St Austell
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:430b2982dae9b0c1d6550aaf8a4d84196ee6e5dc@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:The Mummy @ WTW St Austell
@@ -26,11 +26,11 @@ URL:https://wtwcinemas.co.uk/film/the-mummy/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:dbc355c9c2ef8e1b9c46a0241cd7b2f01f6f6b7f@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Rose of Nevada @ WTW St Austell
-DESCRIPTION:Rose of Nevada (1h 54min)\nMystery, Drama, Science Fiction\n\nA
+DESCRIPTION:Rose of Nevada (1h 54min)\nScience Fiction, Mystery, Drama\n\nA
   mysterious boat returns to a village 30 years after vanishing. Two men jo
  in its crew hoping for better fortune. After one voyage, they find themsel
  ves transported back in time, mistaken for the original crew.\n\nStarring:
@@ -42,26 +42,26 @@ URL:https://wtwcinemas.co.uk/film/rose-of-nevada/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:9fa72d19f78f06eaed6fb567da7884a3094099a7@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ WTW St Austell
-DESCRIPTION:Michael\nMusic, Drama, History\n\nDiscover the story of Michael
-  Jackson, one of the most influential artists the world has ever known, an
- d his life beyond the music, tracing his journey from the discovery of his
-  extraordinary talent as the lead of the Jackson Five, to the visionary ar
- tist whose creative ambition fueled a relentless pursuit to become the big
- gest entertainer in the world, highlighting both his life off-stage and so
- me of the most iconic performances from his early solo career.\n\nStarring
- : Jaafar Jackson, Colman Domingo, Nia Long, Kendrick Sampson, Miles Teller
- , Juliano Krue Valdi\n\nFilm release at WTW Cinemas St Austell\nBook ticke
- ts: https://wtwcinemas.co.uk/film/michael/?screen=st-austell
+DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
+  one of the most influential artists the world has ever known, and his lif
+ e beyond the music, tracing his journey from the discovery of his extraord
+ inary talent as the lead of the Jackson Five, to the visionary artist whos
+ e creative ambition fueled a relentless pursuit to become the biggest ente
+ rtainer in the world, highlighting both his life off-stage and some of the
+  most iconic performances from his early solo career.\n\nStarring: Jaafar 
+ Jackson, Colman Domingo, Nia Long, Kendrick Sampson, Miles Teller, Juliano
+  Krue Valdi\n\nFilm release at WTW Cinemas St Austell\nBook tickets: https
+ ://wtwcinemas.co.uk/film/michael/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/michael/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:d864fc3515e2d2afba0dd8af1d04fef5a2f88939@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:The Devil Wears Prada 2 @ WTW St Austell
@@ -79,21 +79,23 @@ URL:https://wtwcinemas.co.uk/film/the-devil-wears-prada-2/?screen=st-austel
 END:VEVENT
 BEGIN:VEVENT
 UID:79d7e383b7db5d114ed8a6684f293c37b780dc6d@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Animal Friends @ WTW St Austell
 DESCRIPTION:Animal Friends\nComedy\n\nTwo fugitive animals embark on an adv
- enture across America while being pursued by an agent and ranger.\n\nStarr
- ing: Ryan Reynolds, Jason Momoa, Aubrey Plaza, Dan Levy, Addison Rae, Lil 
- Rel Howery\n\nFilm release at WTW Cinemas St Austell\nBook tickets: https:
- //wtwcinemas.co.uk/film/animal-friends/?screen=st-austell
+ enture across America to find the ranch that was once their home, healing 
+ their friendship while pursued by an equally "odd-couple" DEA agent and Fi
+ sh and Wildlife ranger with something to prove.\n\nStarring: Ryan Reynolds
+ , Jason Momoa, Aubrey Plaza, Dan Levy, Addison Rae, Lil Rel Howery\n\nFilm
+  release at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk
+ /film/animal-friends/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/animal-friends/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:c4dc9b2124e6d728908c6a263ce8cec28cba43cc@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW St Austell
@@ -111,7 +113,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:1d7734296c7b7cf1f3cb40ef3e567961ee68188b@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW St Austell
@@ -128,7 +130,7 @@ URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3a8c90a8bad430ff8c97731c07924df97b198c@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW St Austell
@@ -147,7 +149,7 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=st-aust
 END:VEVENT
 BEGIN:VEVENT
 UID:19ad60ecb9da18e3cf60cebf7c7f6b2fadb6b535@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW St Austell
@@ -166,7 +168,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=st-austel
 END:VEVENT
 BEGIN:VEVENT
 UID:5fd0084d38ebe28bba12c307b3007fc89176cf65@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW St Austell
@@ -181,7 +183,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:a31c0fe79730ca923f0b913afa86539d9f26ff3c@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Scary Movie @ WTW St Austell
@@ -198,7 +200,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:401542e1df59f2a534d6a21047a261476dd4d8ad@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW St Austell
@@ -214,7 +216,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:8e6c22f8ebc85629e7827fc4d86a8c741d99c8b7@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW St Austell
@@ -232,7 +234,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=st-au
 END:VEVENT
 BEGIN:VEVENT
 UID:fa226b8fe486b251822c9e4d7f991b0141c479b6@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW St Austell
@@ -249,7 +251,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:9dad8859ec0e363f57824c956388fc19d87b951f@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW St Austell
@@ -265,7 +267,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:7219c289211183b99333a62eb495c2b98c6cdb23@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW St Austell
@@ -282,46 +284,52 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:b06e6e037139a22bda22a7af855f4fa99bd618d2@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW St Austell
 DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
- \nFour years after the events of Spider-Man: No Way Home, Peter Parker is 
- no more and Spider-Man is at the top of his game keeping New York City saf
- e. Things are going well until an unusual trail of crimes pulls Spider-Man
-  into a web of mystery larger than he's ever faced before. In order to tak
- e on what's ahead, Spider-Man not only needs to be at the top of his physi
- cal and mental game, but he must also be prepared to face the repercussion
- s of his past!\n\nStarring: Tom Holland, Sadie Sink, Liza Colón-Zayas, Jon
-  Bernthal, Zendaya, Jacob Batalon\n\nFilm release at WTW Cinemas St Austel
- l\nBook tickets: https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?s
- creen=st-austell
+ \nFour years have passed since the events of No Way Home, and Peter is now
+  an adult living entirely alone, having voluntarily erased himself from th
+ e lives and memories of those he loves. Crime-fighting in a New York that 
+ no longer knows his name, he's devoted himself entirely to protecting his 
+ city — a full-time Spider-Man — but as the demands on him intensify, the p
+ ressure sparks a surprising physical evolution that threatens his existenc
+ e, even as a strange new pattern of crimes gives rise to one of the most p
+ owerful threats he has ever faced.\n\nStarring: Tom Holland, Zendaya, Sadi
+ e Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm release at WT
+ W Cinemas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/spider-m
+ an-brand-new-day/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=st-auste
  ll
 END:VEVENT
 BEGIN:VEVENT
 UID:56ffeae93cc321bb8db300960ebf75a689699036@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW St Austell
 DESCRIPTION:Paw Patrol: The Dino Movie\nAnimation, Adventure, Family, Comed
- y\n\nThe PAW Patrol lands on a mysterious dinosaur island after a storm, w
- here they meet Rex, a stranded pup. When Humdinger's reckless mining trigg
- ers a volcano, the team faces their biggest rescue mission yet to save the
-  island.\n\nStarring: Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Dunc
- an-Reid, Nylan Parthipan, Carter Young\n\nFilm release at WTW Cinemas St A
- ustell\nBook tickets: https://wtwcinemas.co.uk/film/paw-patrol-the-dino-mo
- vie/?screen=st-austell
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Mckenna Grace, C
+ arter Young, Hayden Chamberlen, Rain Janjua, Henry Bolan, Lucien Duncan-Re
+ id\n\nFilm release at WTW Cinemas St Austell\nBook tickets: https://wtwcin
+ emas.co.uk/film/paw-patrol-the-dino-movie/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=st-aust
  ell
 END:VEVENT
 BEGIN:VEVENT
 UID:b13ee67f7bad29098f8ce6b1314d70f9f3063ccd@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW St Austell
@@ -336,14 +344,14 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:7aba37234345639a7fe35246acaf2eafd28e0d9f@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW St Austell
 DESCRIPTION:Digger\nComedy, Drama, Adventure\n\nThe most powerful man in th
  e world embarks on a frantic mission to prove he is humanity's saviour bef
  ore the disaster he’s unleashed destroys everything.\n\nStarring: Tom Crui
- se, Sandra Hüller, John Goodman, Jesse Plemons, Sophie Wilde, Riz Ahmed\n\
+ se, Sandra Hüller, John Goodman, Riz Ahmed, Jesse Plemons, Sophie Wilde\n\
  nFilm release at WTW Cinemas St Austell\nBook tickets: https://wtwcinemas.
  co.uk/film/digger/?screen=st-austell
 LOCATION:WTW Cinemas St Austell
@@ -351,7 +359,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:bfec474c81c21b230aa7a0d5598e3d37437e50e2@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW St Austell
@@ -369,7 +377,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:183ad1815b4e36cc304c07cb7322d6c23100033d@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW St Austell
@@ -389,7 +397,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:18940699591037c594ab8c5d6f64c6315b5c552c@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW St Austell
@@ -406,7 +414,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:a3429ddc51e5126b829da05f42bbbecf07e8a055@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW St Austell
@@ -420,7 +428,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:a5d11ff1696299cae0c6d0119cc0a9f6fb1e290c@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW St Austell
@@ -435,16 +443,17 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=st-austell
 END:VEVENT
 BEGIN:VEVENT
 UID:a44963c9510324bcd09521491aef9bf3b8638c2a@wtw-cinemas-calendar
-DTSTAMP:20260411T093404Z
+DTSTAMP:20260412T093941Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW St Austell
-DESCRIPTION:Dune: Part Three\nAdventure, Science Fiction\n\nThe third and f
- inal installment in Villeneuve's Dune trilogy. Based on Frank Herbert's no
- vel Dune Messiah.\n\nStarring: Timothée Chalamet, Zendaya, Florence Pugh, 
- Anya Taylor-Joy, Jason Momoa, Rebecca Ferguson\n\nFilm release at WTW Cine
- mas St Austell\nBook tickets: https://wtwcinemas.co.uk/film/dune-part-thre
- e/?screen=st-austell
+DESCRIPTION:Dune: Part Three\nScience Fiction, Drama\n\nAs Emperor, Paul At
+ reides grapples with the consequences of his rise to power as political co
+ nspiracies and a galaxy-spanning holy war threaten the future he alone can
+  foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa, Florence P
+ ugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at WTW Cinemas St
+  Austell\nBook tickets: https://wtwcinemas.co.uk/film/dune-part-three/?scr
+ een=st-austell
 LOCATION:WTW Cinemas St Austell
 URL:https://wtwcinemas.co.uk/film/dune-part-three/?screen=st-austell
 END:VEVENT
