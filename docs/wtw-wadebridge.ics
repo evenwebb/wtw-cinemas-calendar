@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Wadebridge
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:7d754fa32692ee001c79849e458ad2120940e376@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW Wadebridge
@@ -26,7 +26,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:165a829637a4ff7bec4a85d5942ee6afb2be696f@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW Wadebridge
@@ -42,8 +42,23 @@ LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
+UID:245cad7c9d599aff01f4cb84a1b5bd3b72e644e7@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:The Christophers @ WTW Wadebridge
+DESCRIPTION:The Christophers (1h 40min)\n★★★☆☆\nCrime, Comedy\n\nThe estran
+ ged children of a once-famous artist hire a forger to complete his unfinis
+ hed works so they can be "discovered" and sold after his death.\n\nStarrin
+ g: Michaela Coel, Ian McKellen, Jessica Gunning, James Corden, Ferdy Rober
+ ts, Tilly Botsford\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets
+ : https://wtwcinemas.co.uk/film/the-christophers/?screen=wadebridge
+LOCATION:WTW Cinemas Wadebridge
+URL:https://wtwcinemas.co.uk/film/the-christophers/?screen=wadebridge
+END:VEVENT
+BEGIN:VEVENT
 UID:5f796e88978241b8503d092254b08a1c0f6736e5@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW Wadebridge
@@ -61,27 +76,75 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=wadebri
  dge
 END:VEVENT
 BEGIN:VEVENT
+UID:da8598f22dd4857557f21729c1b09ab022da52b7@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Charlie The Wonderdog @ WTW Wadebridge
+DESCRIPTION:Charlie The Wonderdog\n★★★☆☆\nAnimation, Action, Adventure, Com
+ edy, Family\n\nTimid 9-year-old Danny teams up with his beloved family dog
+  Charlie, who gets abducted by aliens and returns with superpowers, to thw
+ art a plan by the neighbor's sinister cat Puddy to destroy humanity.\n\nSt
+ arring: Owen Wilson, Dawson Littman, Tabitha St. Germain, Sebastian Billin
+ gsley-Rodriguez, Rhona Rees, Anthony Bolognese\n\nFilm release at WTW Cine
+ mas Wadebridge\nBook tickets: https://wtwcinemas.co.uk/film/charlie-the-wo
+ nderdog/?screen=wadebridge
+LOCATION:WTW Cinemas Wadebridge
+URL:https://wtwcinemas.co.uk/film/charlie-the-wonderdog/?screen=wadebridge
+END:VEVENT
+BEGIN:VEVENT
+UID:a9bca7007938dbde41e4c44b46a60ed1aebaf784@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Backrooms @ WTW Wadebridge
+DESCRIPTION:Backrooms\nHorror, Mystery, Science Fiction\n\nA strange doorwa
+ y appears in the basement of a furniture showroom.\n\nStarring: Chiwetel E
+ jiofor, Renate Reinsve, Mark Duplass, Finn Bennett, Lukita Maxwell, Avan J
+ ogia\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https://wtwc
+ inemas.co.uk/film/backrooms/?screen=wadebridge
+LOCATION:WTW Cinemas Wadebridge
+URL:https://wtwcinemas.co.uk/film/backrooms/?screen=wadebridge
+END:VEVENT
+BEGIN:VEVENT
 UID:43d611b63b01059438cbd250dee7b0a087b5a9c4@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Wadebridge
-DESCRIPTION:Masters Of The Universe\nAction, Fantasy, Science Fiction\n\nAf
- ter being separated for 15 years, the Sword of Power leads Prince Adam bac
- k to Eternia, where he discovers his home shattered under the fiendish rul
- e of Skeletor. To save his family and his world, Adam must join forces wit
- h his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true d
- estiny as He-Man — the most powerful man in the universe.\n\nStarring: Nic
- holas Galitzine, Camila Mendes, Alison Brie, Idris Elba, Jared Leto, Sam C
- . Wilson\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https://
- wtwcinemas.co.uk/film/masters-of-the-universe/?screen=wadebridge
+DESCRIPTION:Masters Of The Universe (1 min)\nAction, Fantasy, Science Ficti
+ on\n\nAfter being separated for 15 years, the Sword of Power leads Prince 
+ Adam back to Eternia, where he discovers his home shattered under the fien
+ dish rule of Skeletor. To save his family and his world, Adam must join fo
+ rces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace hi
+ s true destiny as He-Man — the most powerful man in the universe.\n\nStarr
+ ing: Nicholas Galitzine, Camila Mendes, Alison Brie, Idris Elba, Jared Let
+ o, Sam C. Wilson\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: 
+ https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=wadebridg
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:57c2b218e6424e04e1c03b158a25a3b15b435c82@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Scary Movie @ WTW Wadebridge
+DESCRIPTION:Scary Movie (1 min)\n★★★☆☆\nComedy\n\nA familiar-looking group 
+ of teenagers find themselves being stalked by a more-than-vaguely recogniz
+ able masked killer! As the victims begin to pile up and the laughs pile on
+ , none of your favorite scary movies escape the razor-sharp satire of this
+  outrageously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon W
+ ayans, Shawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at WTW Ci
+ nemas Wadebridge\nBook tickets: https://wtwcinemas.co.uk/film/scary-movie/
+ ?screen=wadebridge
+LOCATION:WTW Cinemas Wadebridge
+URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=wadebridge
+END:VEVENT
+BEGIN:VEVENT
 UID:4c6a022f8559c5cca2612a5a8a490255036bd11e@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Wadebridge
@@ -95,76 +158,59 @@ LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
-UID:18253d8d215c43cf23b63cde9f5ed2e89accb35b@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:Scary Movie @ WTW Wadebridge
-DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
- gers find themselves being stalked by a more-than-vaguely recognizable mas
- ked killer! As the victims begin to pile up and the laughs pile on, none o
- f your favorite scary movies escape the razor-sharp satire of this outrage
- ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
- hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at WTW Cinemas Wa
- debridge\nBook tickets: https://wtwcinemas.co.uk/film/scary-movie/?screen=
- wadebridge
-LOCATION:WTW Cinemas Wadebridge
-URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=wadebridge
-END:VEVENT
-BEGIN:VEVENT
 UID:5e96a2bb1ae486845034b5bc2fadb9ab499eebe5@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Wadebridge
-DESCRIPTION:Toy Story 5\nAnimation, Family, Comedy, Adventure\n\nWhen Bonni
- e receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, J
- essie and the rest of the gang's jobs become exponentially harder when the
- y have to go head to head with the all-new threat to playtime.\n\nStarring
- : Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Craig Robin
- son\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https://wtwci
- nemas.co.uk/film/toy-story-5/?screen=wadebridge
+DESCRIPTION:Toy Story 5 (1 min)\nAnimation, Family, Comedy, Adventure\n\nWh
+ en Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, 
+ Woody, Jessie and the rest of the gang's jobs become exponentially harder 
+ when they have to go head to head with the all-new threat to playtime.\n\n
+ Starring: Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Cra
+ ig Robinson\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https
+ ://wtwcinemas.co.uk/film/toy-story-5/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5f97e0a71c32f92aeeb3927f89c3e0c21926f8@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Wadebridge
-DESCRIPTION:Supergirl: Woman Of Tomorrow\nAction, Adventure, Science Fictio
- n\n\nWhen an unexpected and ruthless adversary strikes too close to home, 
- Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely comp
- anion on an epic, interstellar journey of vengeance and justice.\n\nStarri
- ng: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz, Emily
-  Beecham, Jason Momoa\n\nFilm release at WTW Cinemas Wadebridge\nBook tick
- ets: https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=wad
- ebridge
+DESCRIPTION:Supergirl: Woman Of Tomorrow (1 min)\nAction, Adventure, Scienc
+ e Fiction\n\nWhen an unexpected and ruthless adversary strikes too close t
+ o home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlik
+ ely companion on an epic, interstellar journey of vengeance and justice.\n
+ \nStarring: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholt
+ z, Emily Beecham, Jason Momoa\n\nFilm release at WTW Cinemas Wadebridge\nB
+ ook tickets: https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?sc
+ reen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=wadeb
  ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:b45c594b1bf0b2a1eb5cbb4b40d56fc41978da77@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Wadebridge
-DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
- sy\n\nThis is the rambunctious, ridiculous and totally true story of how t
- he Minions conquered Hollywood, became movie stars, lost everything, unlea
- shed monsters onto the world and then banded together to try and save the 
- planet from the mayhem they had just created.\n\nStarring: Pierre Coffin, 
- Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parke
- r\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https://wtwcine
- mas.co.uk/film/minions-3/?screen=wadebridge
+DESCRIPTION:Minions & Monsters (1 min)\nAnimation, Family, Comedy, Adventur
+ e, Fantasy\n\nThis is the rambunctious, ridiculous and totally true story 
+ of how the Minions conquered Hollywood, became movie stars, lost everythin
+ g, unleashed monsters onto the world and then banded together to try and s
+ ave the planet from the mayhem they had just created.\n\nStarring: Pierre 
+ Coffin, Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Tr
+ ey Parker\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https:/
+ /wtwcinemas.co.uk/film/minions-3/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/minions-3/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:177427dea2762ca041890e9f77983a83e3717048@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Wadebridge
@@ -180,69 +226,103 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:7c9b5606fe1facf5895d237303051772b659ba0b@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Wadebridge
-DESCRIPTION:The Odyssey\nAdventure, Drama, Fantasy\n\nOdysseus, the legenda
- ry Greek king of Ithaca, embarks on a long and perilous journey home follo
- wing the Trojan War, chronicling his encounters with mythical beings such 
- as the Cyclops Polyphemus, the Sirens, and the witch-goddess Circe, while 
- attempting to reunite with his wife, Penelope.\n\nStarring: Matt Damon, To
- m Holland, Zendaya, Anne Hathaway, Lupita Nyong'o, Robert Pattinson\n\nFil
- m release at WTW Cinemas Wadebridge\nBook tickets: https://wtwcinemas.co.u
- k/film/the-odyssey/?screen=wadebridge
+DESCRIPTION:The Odyssey (2h 59min)\nAdventure, Drama, Fantasy\n\nOdysseus, 
+ the legendary Greek king of Ithaca, embarks on a long and perilous journey
+  home following the Trojan War, chronicling his encounters with mythical b
+ eings such as the Cyclops Polyphemus, the Sirens, and the witch-goddess Ci
+ rce, while attempting to reunite with his wife, Penelope.\n\nStarring: Mat
+ t Damon, Tom Holland, Zendaya, Anne Hathaway, Lupita Nyong'o, Robert Patti
+ nson\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https://wtwc
+ inemas.co.uk/film/the-odyssey/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:ea162047c304d1ff01a3d1ee7e901ac9d202122f@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Wadebridge
-DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
- \nFour years have passed since the events of No Way Home, and Peter is now
-  an adult living entirely alone, having voluntarily erased himself from th
- e lives and memories of those he loves. Crime-fighting in a New York that 
- no longer knows his name, he's devoted himself entirely to protecting his 
- city — a full-time Spider-Man — but as the demands on him intensify, the p
- ressure sparks a surprising physical evolution that threatens his existenc
- e, even as a strange new pattern of crimes gives rise to one of the most p
- owerful threats he has ever faced.\n\nStarring: Tom Holland, Zendaya, Sadi
- e Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm release at WT
- W Cinemas Wadebridge\nBook tickets: https://wtwcinemas.co.uk/film/spider-m
- an-brand-new-day/?screen=wadebridge
+DESCRIPTION:Spider-Man: Brand New Day (1 min)\nScience Fiction, Action, Adv
+ enture\n\nFour years have passed since the events of No Way Home, and Pete
+ r is now an adult living entirely alone, having voluntarily erased himself
+  from the lives and memories of those he loves. Crime-fighting in a New Yo
+ rk that no longer knows his name, he's devoted himself entirely to protect
+ ing his city — a full-time Spider-Man — but as the demands on him intensif
+ y, the pressure sparks a surprising physical evolution that threatens his 
+ existence, even as a strange new pattern of crimes gives rise to one of th
+ e most powerful threats he has ever faced.\n\nStarring: Tom Holland, Zenda
+ ya, Sadie Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm relea
+ se at WTW Cinemas Wadebridge\nBook tickets: https://wtwcinemas.co.uk/film/
+ spider-man-brand-new-day/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=wadebrid
  ge
 END:VEVENT
 BEGIN:VEVENT
 UID:0015ea814a27455192f638d3288e2f8463d711d0@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Wadebridge
-DESCRIPTION:Paw Patrol: The Dino Movie\nAnimation, Adventure, Family, Comed
- y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
-  with dinosaurs after their ship gets caught in a mysterious storm. They m
- eet Rex, a pup who has been stranded on the island for years and has becom
- e an expert in all things dino-related. When the Patrol’s archrival, Mayor
-  Humdinger, begins recklessly mining in hopes of exploiting the island for
-  its natural resources, he inadvertently causes a huge, dormant volcano to
-  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
- es bigger than anything they’ve done before, as they must stop Humdinger b
- efore everything on the island goes extinct.\n\nStarring: Mckenna Grace, C
- arter Young, Hayden Chamberlen, Rain Janjua, Henry Bolan, Lucien Duncan-Re
- id\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https://wtwcin
- emas.co.uk/film/paw-patrol-the-dino-movie/?screen=wadebridge
+DESCRIPTION:Paw Patrol: The Dino Movie (1 min)\nAnimation, Adventure, Famil
+ y, Comedy\n\nThe PAW Patrol pups crash land on an uncharted tropical islan
+ d filled with dinosaurs after their ship gets caught in a mysterious storm
+ . They meet Rex, a pup who has been stranded on the island for years and h
+ as become an expert in all things dino-related. When the Patrol’s archriva
+ l, Mayor Humdinger, begins recklessly mining in hopes of exploiting the is
+ land for its natural resources, he inadvertently causes a huge, dormant vo
+ lcano to erupt. The pups are thrown into a series of high-stakes, dino-siz
+ ed rescues bigger than anything they’ve done before, as they must stop Hum
+ dinger before everything on the island goes extinct.\n\nStarring: Mckenna 
+ Grace, Carter Young, Hayden Chamberlen, Rain Janjua, Henry Bolan, Lucien D
+ uncan-Reid\n\nFilm release at WTW Cinemas Wadebridge\nBook tickets: https:
+ //wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=wadebri
  dge
 END:VEVENT
 BEGIN:VEVENT
+UID:4a879ab4cd0fe7e2b9bd591fb83f7a089ebacbe0@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ WTW Wadebridge
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, a family soon discovers that the
+ ir very survival depends on them sticking together as they navigate their 
+ now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan McGregor
+ , Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\n\nFilm 
+ release at WTW Cinemas Wadebridge\nBook tickets: https://wtwcinemas.co.uk/
+ film/the-end-of-oak-street/?screen=wadebridge
+LOCATION:WTW Cinemas Wadebridge
+URL:https://wtwcinemas.co.uk/film/the-end-of-oak-street/?screen=wadebridge
+END:VEVENT
+BEGIN:VEVENT
+UID:d35833989d78a94c0860d6f80c3a03a84801e1fd@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Pressure @ WTW Wadebridge
+DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
+ e D-Day, and the fate of the free world hanging in the balance, General Dw
+ ight D. Eisenhower and Captain James Stagg face an impossible choice—launc
+ h the largest and most dangerous seaborne invasion in history or risk losi
+ ng the war altogether.\n\nStarring: Andrew Scott, Brendan Fraser, Kerry Co
+ ndon, Chris Messina, Damian Lewis, Con O'Neill\n\nFilm release at WTW Cine
+ mas Wadebridge\nBook tickets: https://wtwcinemas.co.uk/film/pressure/?scre
+ en=wadebridge
+LOCATION:WTW Cinemas Wadebridge
+URL:https://wtwcinemas.co.uk/film/pressure/?screen=wadebridge
+END:VEVENT
+BEGIN:VEVENT
 UID:bcc3171a3128249956d8d70e11559562b1243e51@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Wadebridge
@@ -257,7 +337,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:65ba930e085630d40a912d5dfc0beabe88575a6f@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Wadebridge
@@ -272,7 +352,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:3d3a4e9032ea450d3c33f851f096e1eef488c83d@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Wadebridge
@@ -290,7 +370,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:e29f5e41b68276e6f86ce4cfe16989e25fc3359e@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Wadebridge
@@ -310,7 +390,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:e06c243d47516860efce5055c16466b23955fefc@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Wadebridge
@@ -327,7 +407,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:1fdf864d81eca4d05a1a4d2515244207f709fd03@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Wadebridge
@@ -341,7 +421,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:3874ae6668498988584769df93a395c13af8f367@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Wadebridge
@@ -356,7 +436,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=wadebridge
 END:VEVENT
 BEGIN:VEVENT
 UID:d55df8a4d820be237ab9688a4149d623fec333ee@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Wadebridge

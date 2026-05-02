@@ -8,7 +8,7 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Newquay
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:40f033eb1f97e107a90a4de41111b835a3edefff@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:The Sheep Detectives @ WTW Newquay
@@ -26,7 +26,7 @@ URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:b04080e83c655cf2f3d9380873774eecf34689d1@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Mortal Kombat II @ WTW Newquay
@@ -42,8 +42,23 @@ LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
+UID:54dc1b1d1dbf760335a9fa28ecc62871e88c16b5@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:The Christophers @ WTW Newquay
+DESCRIPTION:The Christophers (1h 40min)\n★★★☆☆\nCrime, Comedy\n\nThe estran
+ ged children of a once-famous artist hire a forger to complete his unfinis
+ hed works so they can be "discovered" and sold after his death.\n\nStarrin
+ g: Michaela Coel, Ian McKellen, Jessica Gunning, James Corden, Ferdy Rober
+ ts, Tilly Botsford\n\nFilm release at WTW Cinemas Newquay\nBook tickets: h
+ ttps://wtwcinemas.co.uk/film/the-christophers/?screen=newquay
+LOCATION:WTW Cinemas Newquay
+URL:https://wtwcinemas.co.uk/film/the-christophers/?screen=newquay
+END:VEVENT
+BEGIN:VEVENT
 UID:bab6f4912c8458461f2670d97da84965c020ec93@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW Newquay
@@ -60,26 +75,74 @@ LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
+UID:5ec9bfe5af98c6aecf68973e6dfe7c55655171bb@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Charlie The Wonderdog @ WTW Newquay
+DESCRIPTION:Charlie The Wonderdog\n★★★☆☆\nAnimation, Action, Adventure, Com
+ edy, Family\n\nTimid 9-year-old Danny teams up with his beloved family dog
+  Charlie, who gets abducted by aliens and returns with superpowers, to thw
+ art a plan by the neighbor's sinister cat Puddy to destroy humanity.\n\nSt
+ arring: Owen Wilson, Dawson Littman, Tabitha St. Germain, Sebastian Billin
+ gsley-Rodriguez, Rhona Rees, Anthony Bolognese\n\nFilm release at WTW Cine
+ mas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/charlie-the-wonde
+ rdog/?screen=newquay
+LOCATION:WTW Cinemas Newquay
+URL:https://wtwcinemas.co.uk/film/charlie-the-wonderdog/?screen=newquay
+END:VEVENT
+BEGIN:VEVENT
+UID:a90a2b88306afd16a649ccba5c50fe2a2cfc8e55@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Backrooms @ WTW Newquay
+DESCRIPTION:Backrooms\nHorror, Mystery, Science Fiction\n\nA strange doorwa
+ y appears in the basement of a furniture showroom.\n\nStarring: Chiwetel E
+ jiofor, Renate Reinsve, Mark Duplass, Finn Bennett, Lukita Maxwell, Avan J
+ ogia\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcine
+ mas.co.uk/film/backrooms/?screen=newquay
+LOCATION:WTW Cinemas Newquay
+URL:https://wtwcinemas.co.uk/film/backrooms/?screen=newquay
+END:VEVENT
+BEGIN:VEVENT
 UID:ef9afee7aea8a5d41998e42e48677e135d793d6f@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Newquay
-DESCRIPTION:Masters Of The Universe\nAction, Fantasy, Science Fiction\n\nAf
- ter being separated for 15 years, the Sword of Power leads Prince Adam bac
- k to Eternia, where he discovers his home shattered under the fiendish rul
- e of Skeletor. To save his family and his world, Adam must join forces wit
- h his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true d
- estiny as He-Man — the most powerful man in the universe.\n\nStarring: Nic
- holas Galitzine, Camila Mendes, Alison Brie, Idris Elba, Jared Leto, Sam C
- . Wilson\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtw
- cinemas.co.uk/film/masters-of-the-universe/?screen=newquay
+DESCRIPTION:Masters Of The Universe (1 min)\nAction, Fantasy, Science Ficti
+ on\n\nAfter being separated for 15 years, the Sword of Power leads Prince 
+ Adam back to Eternia, where he discovers his home shattered under the fien
+ dish rule of Skeletor. To save his family and his world, Adam must join fo
+ rces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace hi
+ s true destiny as He-Man — the most powerful man in the universe.\n\nStarr
+ ing: Nicholas Galitzine, Camila Mendes, Alison Brie, Idris Elba, Jared Let
+ o, Sam C. Wilson\n\nFilm release at WTW Cinemas Newquay\nBook tickets: htt
+ ps://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
+UID:6f894d137745dda21cc49e445e8fd96cc3c3aaeb@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Scary Movie @ WTW Newquay
+DESCRIPTION:Scary Movie (1 min)\n★★★☆☆\nComedy\n\nA familiar-looking group 
+ of teenagers find themselves being stalked by a more-than-vaguely recogniz
+ able masked killer! As the victims begin to pile up and the laughs pile on
+ , none of your favorite scary movies escape the razor-sharp satire of this
+  outrageously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon W
+ ayans, Shawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at WTW Ci
+ nemas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/scary-movie/?sc
+ reen=newquay
+LOCATION:WTW Cinemas Newquay
+URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=newquay
+END:VEVENT
+BEGIN:VEVENT
 UID:fd09fa212745c97ffbec8890d775d0721180f7d5@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Newquay
@@ -93,76 +156,59 @@ LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
-UID:025d9c0be9c84e3a14b23a20e02d36885eaacf64@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:Scary Movie @ WTW Newquay
-DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
- gers find themselves being stalked by a more-than-vaguely recognizable mas
- ked killer! As the victims begin to pile up and the laughs pile on, none o
- f your favorite scary movies escape the razor-sharp satire of this outrage
- ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
- hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at WTW Cinemas Ne
- wquay\nBook tickets: https://wtwcinemas.co.uk/film/scary-movie/?screen=new
- quay
-LOCATION:WTW Cinemas Newquay
-URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=newquay
-END:VEVENT
-BEGIN:VEVENT
 UID:ec59f8d3bbb58af25846c79e3115abd451486813@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Newquay
-DESCRIPTION:Toy Story 5\nAnimation, Family, Comedy, Adventure\n\nWhen Bonni
- e receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, J
- essie and the rest of the gang's jobs become exponentially harder when the
- y have to go head to head with the all-new threat to playtime.\n\nStarring
- : Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Craig Robin
- son\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcinem
- as.co.uk/film/toy-story-5/?screen=newquay
+DESCRIPTION:Toy Story 5 (1 min)\nAnimation, Family, Comedy, Adventure\n\nWh
+ en Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, 
+ Woody, Jessie and the rest of the gang's jobs become exponentially harder 
+ when they have to go head to head with the all-new threat to playtime.\n\n
+ Starring: Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Cra
+ ig Robinson\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://
+ wtwcinemas.co.uk/film/toy-story-5/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5ba3970d371825b2fc957345fad7dbf3a0ec58@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Newquay
-DESCRIPTION:Supergirl: Woman Of Tomorrow\nAction, Adventure, Science Fictio
- n\n\nWhen an unexpected and ruthless adversary strikes too close to home, 
- Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely comp
- anion on an epic, interstellar journey of vengeance and justice.\n\nStarri
- ng: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz, Emily
-  Beecham, Jason Momoa\n\nFilm release at WTW Cinemas Newquay\nBook tickets
- : https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=newqua
- y
+DESCRIPTION:Supergirl: Woman Of Tomorrow (1 min)\nAction, Adventure, Scienc
+ e Fiction\n\nWhen an unexpected and ruthless adversary strikes too close t
+ o home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlik
+ ely companion on an epic, interstellar journey of vengeance and justice.\n
+ \nStarring: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholt
+ z, Emily Beecham, Jason Momoa\n\nFilm release at WTW Cinemas Newquay\nBook
+  tickets: https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?scree
+ n=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=newqu
  ay
 END:VEVENT
 BEGIN:VEVENT
 UID:454a33058b752f441260f4cacc94d3746a108d8c@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Newquay
-DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
- sy\n\nThis is the rambunctious, ridiculous and totally true story of how t
- he Minions conquered Hollywood, became movie stars, lost everything, unlea
- shed monsters onto the world and then banded together to try and save the 
- planet from the mayhem they had just created.\n\nStarring: Pierre Coffin, 
- Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parke
- r\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas
- .co.uk/film/minions-3/?screen=newquay
+DESCRIPTION:Minions & Monsters (1 min)\nAnimation, Family, Comedy, Adventur
+ e, Fantasy\n\nThis is the rambunctious, ridiculous and totally true story 
+ of how the Minions conquered Hollywood, became movie stars, lost everythin
+ g, unleashed monsters onto the world and then banded together to try and s
+ ave the planet from the mayhem they had just created.\n\nStarring: Pierre 
+ Coffin, Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Tr
+ ey Parker\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wt
+ wcinemas.co.uk/film/minions-3/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/minions-3/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d804f311fbae9bad8b8b70d4a77c7c7b2655c888@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Newquay
@@ -178,67 +224,101 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8dc96e4376c4650e89d430ac18e1e04043faa3b0@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Newquay
-DESCRIPTION:The Odyssey\nAdventure, Drama, Fantasy\n\nOdysseus, the legenda
- ry Greek king of Ithaca, embarks on a long and perilous journey home follo
- wing the Trojan War, chronicling his encounters with mythical beings such 
- as the Cyclops Polyphemus, the Sirens, and the witch-goddess Circe, while 
- attempting to reunite with his wife, Penelope.\n\nStarring: Matt Damon, To
- m Holland, Zendaya, Anne Hathaway, Lupita Nyong'o, Robert Pattinson\n\nFil
- m release at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/f
- ilm/the-odyssey/?screen=newquay
+DESCRIPTION:The Odyssey (2h 59min)\nAdventure, Drama, Fantasy\n\nOdysseus, 
+ the legendary Greek king of Ithaca, embarks on a long and perilous journey
+  home following the Trojan War, chronicling his encounters with mythical b
+ eings such as the Cyclops Polyphemus, the Sirens, and the witch-goddess Ci
+ rce, while attempting to reunite with his wife, Penelope.\n\nStarring: Mat
+ t Damon, Tom Holland, Zendaya, Anne Hathaway, Lupita Nyong'o, Robert Patti
+ nson\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcine
+ mas.co.uk/film/the-odyssey/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:95fe6baa3d0796b796ca8c94d57db998ef63ad9a@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Newquay
-DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
- \nFour years have passed since the events of No Way Home, and Peter is now
-  an adult living entirely alone, having voluntarily erased himself from th
- e lives and memories of those he loves. Crime-fighting in a New York that 
- no longer knows his name, he's devoted himself entirely to protecting his 
- city — a full-time Spider-Man — but as the demands on him intensify, the p
- ressure sparks a surprising physical evolution that threatens his existenc
- e, even as a strange new pattern of crimes gives rise to one of the most p
- owerful threats he has ever faced.\n\nStarring: Tom Holland, Zendaya, Sadi
- e Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm release at WT
- W Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/spider-man-
- brand-new-day/?screen=newquay
+DESCRIPTION:Spider-Man: Brand New Day (1 min)\nScience Fiction, Action, Adv
+ enture\n\nFour years have passed since the events of No Way Home, and Pete
+ r is now an adult living entirely alone, having voluntarily erased himself
+  from the lives and memories of those he loves. Crime-fighting in a New Yo
+ rk that no longer knows his name, he's devoted himself entirely to protect
+ ing his city — a full-time Spider-Man — but as the demands on him intensif
+ y, the pressure sparks a surprising physical evolution that threatens his 
+ existence, even as a strange new pattern of crimes gives rise to one of th
+ e most powerful threats he has ever faced.\n\nStarring: Tom Holland, Zenda
+ ya, Sadie Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm relea
+ se at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/spi
+ der-man-brand-new-day/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8f72c8857815fabcc04660a7701831b9a2f2112f@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Newquay
-DESCRIPTION:Paw Patrol: The Dino Movie\nAnimation, Adventure, Family, Comed
- y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
-  with dinosaurs after their ship gets caught in a mysterious storm. They m
- eet Rex, a pup who has been stranded on the island for years and has becom
- e an expert in all things dino-related. When the Patrol’s archrival, Mayor
-  Humdinger, begins recklessly mining in hopes of exploiting the island for
-  its natural resources, he inadvertently causes a huge, dormant volcano to
-  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
- es bigger than anything they’ve done before, as they must stop Humdinger b
- efore everything on the island goes extinct.\n\nStarring: Mckenna Grace, C
- arter Young, Hayden Chamberlen, Rain Janjua, Henry Bolan, Lucien Duncan-Re
- id\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wtwcinema
- s.co.uk/film/paw-patrol-the-dino-movie/?screen=newquay
+DESCRIPTION:Paw Patrol: The Dino Movie (1 min)\nAnimation, Adventure, Famil
+ y, Comedy\n\nThe PAW Patrol pups crash land on an uncharted tropical islan
+ d filled with dinosaurs after their ship gets caught in a mysterious storm
+ . They meet Rex, a pup who has been stranded on the island for years and h
+ as become an expert in all things dino-related. When the Patrol’s archriva
+ l, Mayor Humdinger, begins recklessly mining in hopes of exploiting the is
+ land for its natural resources, he inadvertently causes a huge, dormant vo
+ lcano to erupt. The pups are thrown into a series of high-stakes, dino-siz
+ ed rescues bigger than anything they’ve done before, as they must stop Hum
+ dinger before everything on the island goes extinct.\n\nStarring: Mckenna 
+ Grace, Carter Young, Hayden Chamberlen, Rain Janjua, Henry Bolan, Lucien D
+ uncan-Reid\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://w
+ twcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
+UID:d6ed9977c735544cf442d92d02e78a48d199300c@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ WTW Newquay
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, a family soon discovers that the
+ ir very survival depends on them sticking together as they navigate their 
+ now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan McGregor
+ , Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\n\nFilm 
+ release at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/fil
+ m/the-end-of-oak-street/?screen=newquay
+LOCATION:WTW Cinemas Newquay
+URL:https://wtwcinemas.co.uk/film/the-end-of-oak-street/?screen=newquay
+END:VEVENT
+BEGIN:VEVENT
+UID:bdfd852ad6e483496e8d49134c1c825c29f5e42d@wtw-cinemas-calendar
+DTSTAMP:20260502T095531Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Pressure @ WTW Newquay
+DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
+ e D-Day, and the fate of the free world hanging in the balance, General Dw
+ ight D. Eisenhower and Captain James Stagg face an impossible choice—launc
+ h the largest and most dangerous seaborne invasion in history or risk losi
+ ng the war altogether.\n\nStarring: Andrew Scott, Brendan Fraser, Kerry Co
+ ndon, Chris Messina, Damian Lewis, Con O'Neill\n\nFilm release at WTW Cine
+ mas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/pressure/?screen=
+ newquay
+LOCATION:WTW Cinemas Newquay
+URL:https://wtwcinemas.co.uk/film/pressure/?screen=newquay
+END:VEVENT
+BEGIN:VEVENT
 UID:36549e319926e6ba4ebe8ec3f9b8a4196c34a11f@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Newquay
@@ -253,7 +333,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fc07fad828759110dfa5108426fe9832e14676@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Newquay
@@ -268,7 +348,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1aecbd2f0b929d44a6369ec69d665a3b73c492@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Newquay
@@ -286,7 +366,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:1c3943d45dfe7a7181dc9a3b4fd1f8bd1c6e63dd@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Newquay
@@ -305,7 +385,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:25ae3c85631fa5c939300db7b1ea3559e140d624@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Newquay
@@ -322,7 +402,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:ee366a58c03c2669e7097b80171770e38e345799@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Newquay
@@ -336,7 +416,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:58a791f9322d50cdf1a6d8cf14cbfa8da1d14ced@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Newquay
@@ -351,7 +431,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:6a35b522e1d19b9886fe7869440815d7a9f212df@wtw-cinemas-calendar
-DTSTAMP:20260501T101848Z
+DTSTAMP:20260502T095531Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Newquay

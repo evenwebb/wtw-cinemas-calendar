@@ -321,5 +321,66 @@
     "director": "Pierre Coffin",
     "cast": "Pierre Coffin, Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parker",
     "cached_at": "2026-04-19T09:41:00.998999"
+  },
+  "the-christophers": {
+    "overview": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+    "genres": [
+      "Crime",
+      "Comedy"
+    ],
+    "vote_average": 6.2,
+    "director": "Steven Soderbergh",
+    "cast": "Michaela Coel, Ian McKellen, Jessica Gunning, James Corden, Ferdy Roberts, Tilly Botsford",
+    "cached_at": "2026-05-02T09:55:29.269644"
+  },
+  "charlie-the-wonderdog": {
+    "overview": "Timid 9-year-old Danny teams up with his beloved family dog Charlie, who gets abducted by aliens and returns with superpowers, to thwart a plan by the neighbor's sinister cat Puddy to destroy humanity.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "vote_average": 6.6,
+    "director": "Shea Wageman",
+    "cast": "Owen Wilson, Dawson Littman, Tabitha St. Germain, Sebastian Billingsley-Rodriguez, Rhona Rees, Anthony Bolognese",
+    "cached_at": "2026-05-02T09:55:29.905408"
+  },
+  "backrooms": {
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "vote_average": null,
+    "director": "Kane Parsons",
+    "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Finn Bennett, Lukita Maxwell, Avan Jogia",
+    "cached_at": "2026-05-02T09:55:30.574283"
+  },
+  "the-end-of-oak-street": {
+    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, a family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "David Robert Mitchell",
+    "cast": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne",
+    "cached_at": "2026-05-02T09:55:31.200080"
+  },
+  "pressure": {
+    "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+    "genres": [
+      "Thriller",
+      "History",
+      "War"
+    ],
+    "vote_average": null,
+    "director": "Anthony Maras",
+    "cast": "Andrew Scott, Brendan Fraser, Kerry Condon, Chris Messina, Damian Lewis, Con O'Neill",
+    "cached_at": "2026-05-02T09:55:31.867090"
   }
 }
