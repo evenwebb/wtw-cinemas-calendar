@@ -7,43 +7,8 @@ X-WR-CALNAME:WTW Newquay Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Newquay
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:40f033eb1f97e107a90a4de41111b835a3edefff@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:The Sheep Detectives @ WTW Newquay
-DESCRIPTION:The Sheep Detectives (1h 49min)\nMystery, Crime, Comedy, Family
- \n\nGeorge is a shepherd who reads detective novels to his beloved sheep e
- very night, assuming they can't possibly understand. But when a mysterious
-  incident disrupts life on the farm, the sheep realize they must become th
- e detectives. As they follow the clues and investigate human suspects, the
- y prove that even sheep can be brilliant crime-solvers.\n\nStarring: Hugh 
- Jackman, Emma Thompson, Nicholas Braun, Nicholas Galitzine, Molly Gordon, 
- Hong Chau\n\nFilm release at WTW Cinemas Newquay\nBook tickets: https://wt
- wcinemas.co.uk/film/the-sheep-detectives/?screen=newquay
-LOCATION:WTW Cinemas Newquay
-URL:https://wtwcinemas.co.uk/film/the-sheep-detectives/?screen=newquay
-END:VEVENT
-BEGIN:VEVENT
-UID:b04080e83c655cf2f3d9380873774eecf34689d1@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Mortal Kombat II @ WTW Newquay
-DESCRIPTION:Mortal Kombat II (1h 56min)\nAction, Fantasy, Adventure\n\nThe 
- fan favorite champions—now joined by Johnny Cage himself—are pitted agains
- t one another in the ultimate, no-holds barred, gory battle to defeat the 
- dark rule of Shao Kahn that threatens the very existence of the Earthrealm
-  and its defenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNa
- mee, Josh Lawson, Ludi Lin, Mehcad Brooks\n\nFilm release at WTW Cinemas N
- ewquay\nBook tickets: https://wtwcinemas.co.uk/film/mortal-kombat-ii/?scre
- en=newquay
-LOCATION:WTW Cinemas Newquay
-URL:https://wtwcinemas.co.uk/film/mortal-kombat-ii/?screen=newquay
-END:VEVENT
-BEGIN:VEVENT
 UID:54dc1b1d1dbf760335a9fa28ecc62871e88c16b5@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:The Christophers @ WTW Newquay
@@ -58,7 +23,7 @@ URL:https://wtwcinemas.co.uk/film/the-christophers/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bab6f4912c8458461f2670d97da84965c020ec93@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:The Mandalorian And Grogu @ WTW Newquay
@@ -76,24 +41,24 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:5ec9bfe5af98c6aecf68973e6dfe7c55655171bb@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Charlie The Wonderdog @ WTW Newquay
-DESCRIPTION:Charlie The Wonderdog\n★★★☆☆\nAnimation, Action, Adventure, Com
- edy, Family\n\nTimid 9-year-old Danny teams up with his beloved family dog
-  Charlie, who gets abducted by aliens and returns with superpowers, to thw
- art a plan by the neighbor's sinister cat Puddy to destroy humanity.\n\nSt
- arring: Owen Wilson, Dawson Littman, Tabitha St. Germain, Sebastian Billin
- gsley-Rodriguez, Rhona Rees, Anthony Bolognese\n\nFilm release at WTW Cine
- mas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/charlie-the-wonde
- rdog/?screen=newquay
+DESCRIPTION:Charlie The Wonderdog (1h 32min)\n★★★☆☆\nAnimation, Action, Adv
+ enture, Comedy, Family\n\nTimid 9-year-old Danny teams up with his beloved
+  family dog Charlie, who gets abducted by aliens and returns with superpow
+ ers, to thwart a plan by the neighbor's sinister cat Puddy to destroy huma
+ nity.\n\nStarring: Owen Wilson, Dawson Littman, Tabitha St. Germain, Sebas
+ tian Billingsley-Rodriguez, Rhona Rees, Anthony Bolognese\n\nFilm release 
+ at WTW Cinemas Newquay\nBook tickets: https://wtwcinemas.co.uk/film/charli
+ e-the-wonderdog/?screen=newquay
 LOCATION:WTW Cinemas Newquay
 URL:https://wtwcinemas.co.uk/film/charlie-the-wonderdog/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:a90a2b88306afd16a649ccba5c50fe2a2cfc8e55@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:Backrooms @ WTW Newquay
@@ -107,7 +72,7 @@ URL:https://wtwcinemas.co.uk/film/backrooms/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:ef9afee7aea8a5d41998e42e48677e135d793d6f@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Newquay
@@ -125,7 +90,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:6f894d137745dda21cc49e445e8fd96cc3c3aaeb@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Scary Movie @ WTW Newquay
@@ -142,7 +107,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:fd09fa212745c97ffbec8890d775d0721180f7d5@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Newquay
@@ -157,7 +122,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:ec59f8d3bbb58af25846c79e3115abd451486813@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Newquay
@@ -173,7 +138,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5ba3970d371825b2fc957345fad7dbf3a0ec58@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Newquay
@@ -191,7 +156,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=newqu
 END:VEVENT
 BEGIN:VEVENT
 UID:454a33058b752f441260f4cacc94d3746a108d8c@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Newquay
@@ -208,7 +173,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d804f311fbae9bad8b8b70d4a77c7c7b2655c888@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Newquay
@@ -224,7 +189,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8dc96e4376c4650e89d430ac18e1e04043faa3b0@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Newquay
@@ -241,7 +206,7 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:95fe6baa3d0796b796ca8c94d57db998ef63ad9a@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Newquay
@@ -262,7 +227,7 @@ URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:8f72c8857815fabcc04660a7701831b9a2f2112f@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Newquay
@@ -284,7 +249,7 @@ URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d6ed9977c735544cf442d92d02e78a48d199300c@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:The End Of Oak Street @ WTW Newquay
@@ -301,7 +266,7 @@ URL:https://wtwcinemas.co.uk/film/the-end-of-oak-street/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:bdfd852ad6e483496e8d49134c1c825c29f5e42d@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Pressure @ WTW Newquay
@@ -318,7 +283,7 @@ URL:https://wtwcinemas.co.uk/film/pressure/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:36549e319926e6ba4ebe8ec3f9b8a4196c34a11f@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Newquay
@@ -333,7 +298,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fc07fad828759110dfa5108426fe9832e14676@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Newquay
@@ -348,7 +313,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1aecbd2f0b929d44a6369ec69d665a3b73c492@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Newquay
@@ -366,7 +331,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:1c3943d45dfe7a7181dc9a3b4fd1f8bd1c6e63dd@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Newquay
@@ -385,7 +350,7 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:25ae3c85631fa5c939300db7b1ea3559e140d624@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Newquay
@@ -402,7 +367,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:ee366a58c03c2669e7097b80171770e38e345799@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Newquay
@@ -416,7 +381,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:58a791f9322d50cdf1a6d8cf14cbfa8da1d14ced@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Newquay
@@ -431,7 +396,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=newquay
 END:VEVENT
 BEGIN:VEVENT
 UID:6a35b522e1d19b9886fe7869440815d7a9f212df@wtw-cinemas-calendar
-DTSTAMP:20260508T101947Z
+DTSTAMP:20260509T100209Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Newquay
