@@ -302,5 +302,74 @@
     "director": "Jon Favreau",
     "cast": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Coyne, Dave Filoni, Steve Blum",
     "cached_at": "2026-05-14T11:09:45.854859"
+  },
+  "finding-emily": {
+    "overview": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "vote_average": null,
+    "director": "Alicia MacDonald",
+    "cast": "Spike Fearn, Angourie Rice, Yali Topol Margalith, Ella Maisy Purvis, Nadia Parkes, Anthony J. Abraham",
+    "cached_at": "2026-05-15T11:14:38.576777"
+  },
+  "passenger": {
+    "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "genres": [
+      "Horror"
+    ],
+    "vote_average": null,
+    "director": "André Øvredal",
+    "cast": "Lou Llobell, Jacob Scipio, Melissa Leo, Joseph Lopez, Tony Doupe, Bonni Dichone",
+    "cached_at": "2026-05-15T11:14:39.211261"
+  },
+  "power-ballad": {
+    "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Drama"
+    ],
+    "vote_average": null,
+    "director": "John Carney",
+    "cast": "Paul Rudd, Nick Jonas, Peter McDonald, Marcella Plunkett, Rory Keenan, Keith McErlean",
+    "cached_at": "2026-05-15T11:14:39.847969"
+  },
+  "tuner": {
+    "overview": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Comedy"
+    ],
+    "vote_average": null,
+    "director": "Daniel Roher",
+    "cast": "Leo Woodall, Dustin Hoffman, Havana Rose Liu, Tovah Feldshuh, Jean Reno, Lior Raz",
+    "cached_at": "2026-05-15T11:14:40.526723"
+  },
+  "jackass-best-and-last": {
+    "overview": "The 5th and final installment to Jackass franchise where the crew go on one last insane crusade.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Documentary"
+    ],
+    "vote_average": null,
+    "director": "Jeff Tremaine",
+    "cast": "Johnny Knoxville, Steve-O, Chris Pontius, Jason 'Wee Man' Acuña, Dave England, Preston Lacy",
+    "cached_at": "2026-05-15T11:14:41.165577"
+  },
+  "wild-horse-nine": {
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "Martin McDonagh",
+    "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Parker Posey, Tom Waits, Mariana Di Girolamo",
+    "cached_at": "2026-05-15T11:14:41.806875"
   }
 }

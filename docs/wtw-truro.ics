@@ -7,23 +7,8 @@ X-WR-CALNAME:WTW Truro Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Truro
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:dd764860cab542e636a50bb95d9e581d02e4e84e@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:The Christophers @ WTW Truro
-DESCRIPTION:The Christophers (1h 40min)\n★★★☆☆\nCrime, Comedy\n\nThe estran
- ged children of a once-famous artist hire a forger to complete his unfinis
- hed works so they can be "discovered" and sold after his death.\n\nStarrin
- g: Michaela Coel, Ian McKellen, Jessica Gunning, James Corden, Ferdy Rober
- ts, Tilly Botsford\n\nFilm release at WTW Cinemas Truro\nBook tickets: htt
- ps://wtwcinemas.co.uk/film/the-christophers/?screen=truro
-LOCATION:WTW Cinemas Truro
-URL:https://wtwcinemas.co.uk/film/the-christophers/?screen=truro
-END:VEVENT
-BEGIN:VEVENT
 UID:1e1cadd92959e47f4815da934fa767d58dd7e7d6@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Star Wars: The Mandalorian And Grogu @ WTW Truro
@@ -41,7 +26,7 @@ URL:https://wtwcinemas.co.uk/film/the-mandalorian-and-grogu/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:bd874672614cd5549e1fdeca98478a82ecb462b8@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Charlie The Wonderdog @ WTW Truro
@@ -57,8 +42,73 @@ LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/charlie-the-wonderdog/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
+UID:8c58b22898eb05f522880d9844e5d425895a1539@wtw-cinemas-calendar
+DTSTAMP:20260515T111441Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Finding Emily @ WTW Truro
+DESCRIPTION:Finding Emily (1h 51min)\nRomance, Comedy\n\nWhen a lovesick mu
+ sician is given the wrong number for his dream girl, he teams up with a dr
+ iven psychology student to find her. Together, they spark a hilarious camp
+ us-wide frenzy that tests their own hearts and ambitions along the way.\n\
+ nStarring: Spike Fearn, Angourie Rice, Yali Topol Margalith, Ella Maisy Pu
+ rvis, Nadia Parkes, Anthony J. Abraham\n\nFilm release at WTW Cinemas Trur
+ o\nBook tickets: https://wtwcinemas.co.uk/film/finding-emily/?screen=truro
+LOCATION:WTW Cinemas Truro
+URL:https://wtwcinemas.co.uk/film/finding-emily/?screen=truro
+END:VEVENT
+BEGIN:VEVENT
+UID:77ababe116b4176431068df9bcb97344a25a4053@wtw-cinemas-calendar
+DTSTAMP:20260515T111441Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Passenger @ WTW Truro
+DESCRIPTION:Passenger (1h 34min)\nHorror\n\nAfter a young couple witnesses 
+ a gruesome highway accident, they soon realize they did not leave the cras
+ h scene alone, as a demonic presence called the Passenger that won't stop 
+ until it claims them both turns their van life adventure into a nightmare.
+ \n\nStarring: Lou Llobell, Jacob Scipio, Melissa Leo, Joseph Lopez, Tony D
+ oupe, Bonni Dichone\n\nFilm release at WTW Cinemas Truro\nBook tickets: ht
+ tps://wtwcinemas.co.uk/film/passenger/?screen=truro
+LOCATION:WTW Cinemas Truro
+URL:https://wtwcinemas.co.uk/film/passenger/?screen=truro
+END:VEVENT
+BEGIN:VEVENT
+UID:c5b2a8ad90f0bb5f1b32de76385d2bd99d870870@wtw-cinemas-calendar
+DTSTAMP:20260515T111441Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Power Ballad @ WTW Truro
+DESCRIPTION:Power Ballad (1h 38min)\nComedy, Music, Drama\n\nWhen Rick, a p
+ ast-his-prime wedding singer, meets fading boy-band star Danny during a gi
+ g, the two bond over music and a late-night jam session. But when Danny tu
+ rns one of Rick’s songs into the hit that reignites his career, Rick sets 
+ out to reclaim the recognition he believes he deserves - even if it means 
+ risking everything he cares about.\n\nStarring: Paul Rudd, Nick Jonas, Pet
+ er McDonald, Marcella Plunkett, Rory Keenan, Keith McErlean\n\nFilm releas
+ e at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/film/power-
+ ballad/?screen=truro
+LOCATION:WTW Cinemas Truro
+URL:https://wtwcinemas.co.uk/film/power-ballad/?screen=truro
+END:VEVENT
+BEGIN:VEVENT
+UID:787f659b8d381c0b6c4c7844fdad28e7d635e23b@wtw-cinemas-calendar
+DTSTAMP:20260515T111441Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Tuner @ WTW Truro
+DESCRIPTION:Tuner\nCrime, Thriller, Comedy\n\nA talented piano tuner's life
+  is turned upside down when he discovers that his meticulous skills for tu
+ ning pianos can equally be applied to cracking safes.\n\nStarring: Leo Woo
+ dall, Dustin Hoffman, Havana Rose Liu, Tovah Feldshuh, Jean Reno, Lior Raz
+ \n\nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co
+ .uk/film/tuner/?screen=truro
+LOCATION:WTW Cinemas Truro
+URL:https://wtwcinemas.co.uk/film/tuner/?screen=truro
+END:VEVENT
+BEGIN:VEVENT
 UID:99f407da9888e0bec1e66d4c6a4bb81b0f7aad0c@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:Backrooms @ WTW Truro
@@ -72,7 +122,7 @@ URL:https://wtwcinemas.co.uk/film/backrooms/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:ed8718130d5edd35434e9d5cf4e231282cd7b06a@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Masters Of The Universe @ WTW Truro
@@ -91,7 +141,7 @@ URL:https://wtwcinemas.co.uk/film/masters-of-the-universe/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:6b73a064e8a00fcac59a4336b19e24b2a920f667@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Scary Movie @ WTW Truro
@@ -108,7 +158,7 @@ URL:https://wtwcinemas.co.uk/film/scary-movie/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:60974473d3b759c5db2259ad4ccf5185d1878115@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Truro
@@ -123,7 +173,7 @@ URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:46855f5fa8f17ad22214f9a57742f5509c8b88c6@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Truro
@@ -139,7 +189,7 @@ URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:7bffeb3b2806dcd8b719c88053c63f7c5bd136b4@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Truro
@@ -155,8 +205,23 @@ LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
+UID:040499782205a2d305408aaacea77dfeacbbd61e@wtw-cinemas-calendar
+DTSTAMP:20260515T111441Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Jackass: Best And Last @ WTW Truro
+DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th 
+ and final installment to Jackass franchise where the crew go on one last i
+ nsane crusade.\n\nStarring: Johnny Knoxville, Steve-O, Chris Pontius, Jaso
+ n 'Wee Man' Acuña, Dave England, Preston Lacy\n\nFilm release at WTW Cinem
+ as Truro\nBook tickets: https://wtwcinemas.co.uk/film/jackass-best-and-las
+ t/?screen=truro
+LOCATION:WTW Cinemas Truro
+URL:https://wtwcinemas.co.uk/film/jackass-best-and-last/?screen=truro
+END:VEVENT
+BEGIN:VEVENT
 UID:aa27bbaf7b5e00f1c644ee00182dfa2f7b0a4ee9@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Truro
@@ -173,7 +238,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:aaa0f1e98ff76d3f8b3bf6efbd8fd1e9262ff02b@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Truro
@@ -189,7 +254,7 @@ URL:https://wtwcinemas.co.uk/film/moana/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a118a96ee9660b21e3a5bd3b16331d28e41b0511@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Truro
@@ -206,7 +271,7 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:4d926acc4aa7af58f002068ae0bdba3f789d982b@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Truro
@@ -227,7 +292,7 @@ URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a68534c888b7077d1ca4153400ae65f0e5aadbde@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Truro
@@ -249,7 +314,7 @@ URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:b567cf0d424736666bd6de8bf99fcb7334df096c@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:The End Of Oak Street @ WTW Truro
@@ -266,7 +331,7 @@ URL:https://wtwcinemas.co.uk/film/the-end-of-oak-street/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:24bdb1ca8c7fdd4b9f5b6c612fc2189ec00c59e6@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Pressure @ WTW Truro
@@ -282,8 +347,27 @@ LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/pressure/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
+UID:0aeb8b91a816951d08c423cd34a0c42108c0c94a@wtw-cinemas-calendar
+DTSTAMP:20260515T111441Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Truro
+DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
+ enture, Animation\n\nThe residents of Mossy Bottom Farm looking forward to
+  Halloween – until the clumsy Farmer trashes the flock’s beloved pumpkin p
+ atch! When Shaun turns mad scientist to fix the problem, things rapidly sp
+ iral out of control. With the Farmer missing and a wild beast roaming the 
+ woods of Mossingham, all the ingredients are in place for a monstrously fu
+ n family adventure.\n\nStarring: Justin Fletcher, John Sparkes, Kate Harbo
+ ur\n\nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.
+ co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom/?screen=truro
+LOCATION:WTW Cinemas Truro
+URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
+ /?screen=truro
+END:VEVENT
+BEGIN:VEVENT
 UID:3abca195069164dce2c88e2fd5c3ec8e0600b706@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Truro
@@ -301,7 +385,7 @@ URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:34cc34944b01a6c8e79a713a8ea3a5c7c5c0dabf@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Truro
@@ -316,7 +400,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:e8bbed7807188541aa0521206271055f577dd846@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Truro
@@ -333,27 +417,26 @@ LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
-UID:a59ae5397dfe889dda22fc6a552b9a712e540256@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Truro
-DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
- enture, Animation\n\nThe residents of Mossy Bottom Farm looking forward to
-  Halloween – until the clumsy Farmer trashes the flock’s beloved pumpkin p
- atch! When Shaun turns mad scientist to fix the problem, things rapidly sp
- iral out of control. With the Farmer missing and a wild beast roaming the 
- woods of Mossingham, all the ingredients are in place for a monstrously fu
- n family adventure.\n\nStarring: Justin Fletcher, John Sparkes, Kate Harbo
- ur\n\nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.
- co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom/?screen=truro
+UID:9b7249a133483947503439b61e4ecb61812d3b93@wtw-cinemas-calendar
+DTSTAMP:20260515T111441Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wild Horse Nine @ WTW Truro
+DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the 
+ 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago t
+ o Easter Island by their bureau chief, MJ. Amongst the Island's iconic sta
+ tues, and as the longtime partners wrestle with their dark pasts and prese
+ nt conspiracies, Chris's newfound bond with a pair of rebellious students 
+ threatens to send everyone’s trip to this remote paradise sideways.\n\nSta
+ rring: John Malkovich, Sam Rockwell, Steve Buscemi, Parker Posey, Tom Wait
+ s, Mariana Di Girolamo\n\nFilm release at WTW Cinemas Truro\nBook tickets:
+  https://wtwcinemas.co.uk/film/wild-horse-nine/?screen=truro
 LOCATION:WTW Cinemas Truro
-URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
- /?screen=truro
+URL:https://wtwcinemas.co.uk/film/wild-horse-nine/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:72600670da5e939de2a0407385ee803193ae8d0d@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Truro
@@ -370,7 +453,7 @@ URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1c35c5b543f28562b2ab69b03d4c11e6e821a7@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Truro
@@ -385,7 +468,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a3de4a75acc1eb6dbddf8f8d182fc3f2194063b7@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Truro
@@ -400,7 +483,7 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:0420148135e5fa232791432af65f8d06556bab4b@wtw-cinemas-calendar
-DTSTAMP:20260514T110945Z
+DTSTAMP:20260515T111441Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Truro
