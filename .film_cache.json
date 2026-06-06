@@ -1,18 +1,4 @@
 {
-  "https://wtwcinemas.co.uk/film/jackass-best-and-last/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The 5th and final installment to Jackass franchise where the crew go on one last insane crusade.",
-    "director": "",
-    "cached_at": "2026-05-29T12:10:04.073714"
-  },
-  "https://wtwcinemas.co.uk/film/wild-horse-nine/": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as long time partners wrestle with their dark pasts and conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
-    "director": "",
-    "cached_at": "2026-05-29T12:10:09.012539"
-  },
   "https://wtwcinemas.co.uk/film/masters-of-the-universe/": {
     "runtime": "141 min",
     "cast": "",
@@ -152,5 +138,19 @@
     "synopsis": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "director": "",
     "cached_at": "2026-06-03T13:10:20.693449"
+  },
+  "https://wtwcinemas.co.uk/film/jackass-best-and-last/": {
+    "runtime": "92 min",
+    "cast": "",
+    "synopsis": "The 5th and final installment to Jackass franchise where the crew go on one last insane crusade.",
+    "director": "",
+    "cached_at": "2026-06-06T10:50:37.759316"
+  },
+  "https://wtwcinemas.co.uk/film/wild-horse-nine/": {
+    "runtime": "1 min",
+    "cast": "",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
+    "director": "",
+    "cached_at": "2026-06-06T10:50:38.669710"
   }
 }
