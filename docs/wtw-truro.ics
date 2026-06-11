@@ -8,38 +8,38 @@ X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Truro
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:60974473d3b759c5db2259ad4ccf5185d1878115@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Truro
-DESCRIPTION:Disclosure Day (2h 25min)\nMystery, Science Fiction, Thriller\n
- \nIf you found out we weren’t alone, if someone showed you, proved it to y
- ou, would that frighten you?\n\nStarring: Emily Blunt, Josh O'Connor, Coli
- n Firth, Eve Hewson, Colman Domingo, Wyatt Russell\n\nFilm release at WTW 
- Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/film/disclosure-day/
- ?screen=truro
+DESCRIPTION:Disclosure Day (2h 25min)\n★★★★☆\nMystery, Science Fiction, Thr
+ iller\n\nIf you found out we weren’t alone, if someone showed you, proved 
+ it to you, would that frighten you?\n\nStarring: Emily Blunt, Josh O'Conno
+ r, Colin Firth, Eve Hewson, Colman Domingo, Wyatt Russell\n\nFilm release 
+ at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/film/disclosu
+ re-day/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:46855f5fa8f17ad22214f9a57742f5509c8b88c6@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Truro
-DESCRIPTION:Toy Story 5 (1h 42min)\nAnimation, Family, Comedy, Adventure\n\
- nWhen Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buz
- z, Woody, Jessie and the rest of the gang's jobs become exponentially hard
- er when they have to go head to head with the all-new threat to playtime.\
- n\nStarring: Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, 
- Craig Robinson\n\nFilm release at WTW Cinemas Truro\nBook tickets: https:/
- /wtwcinemas.co.uk/film/toy-story-5/?screen=truro
+DESCRIPTION:Toy Story 5 (1h 42min)\n★★★★☆\nAnimation, Family, Comedy, Adven
+ ture\n\nWhen Bonnie receives a Lilypad tablet as a gift and becomes obsess
+ ed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponential
+ ly harder when they have to go head to head with the all-new threat to pla
+ ytime.\n\nStarring: Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'
+ Brien, Craig Robinson\n\nFilm release at WTW Cinemas Truro\nBook tickets: 
+ https://wtwcinemas.co.uk/film/toy-story-5/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:7bffeb3b2806dcd8b719c88053c63f7c5bd136b4@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Truro
@@ -47,7 +47,7 @@ DESCRIPTION:Supergirl: Woman Of Tomorrow (1 min)\nAction, Adventure, Scienc
  e Fiction\n\nWhen an unexpected and ruthless adversary strikes too close t
  o home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlik
  ely companion on an epic, interstellar journey of vengeance and justice.\n
- \nStarring: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholt
+ \nStarring: Milly Alcock, Eve Ridley, Matthias Schoenaerts, David Krumholt
  z, Emily Beecham, Jason Momoa\n\nFilm release at WTW Cinemas Truro\nBook t
  ickets: https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=
  truro
@@ -56,7 +56,7 @@ URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:040499782205a2d305408aaacea77dfeacbbd61e@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Jackass: Best And Last @ WTW Truro
@@ -71,7 +71,7 @@ URL:https://wtwcinemas.co.uk/film/jackass-best-and-last/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:aa27bbaf7b5e00f1c644ee00182dfa2f7b0a4ee9@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Truro
@@ -88,7 +88,7 @@ URL:https://wtwcinemas.co.uk/film/minions-3/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:aaa0f1e98ff76d3f8b3bf6efbd8fd1e9262ff02b@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Truro
@@ -96,15 +96,15 @@ DESCRIPTION:Moana (1 min)\nFamily, Fantasy, Comedy, Adventure\n\nMoana answ
  ers the Ocean's call and, for the first time, voyages beyond the reef of h
  er island of Motunui with the infamous demigod Maui on an unforgettable jo
  urney to restore prosperity to her people.\n\nStarring: Catherine Laga‘aia
- , Dwayne Johnson, Rena Owen, John Tui, Frankie Adams\n\nFilm release at WT
- W Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/film/moana/?screen
- =truro
+ , Dwayne Johnson, Rena Owen, John Tui, Frankie Adams, Jemaine Clement\n\nF
+ ilm release at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/f
+ ilm/moana/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/moana/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a118a96ee9660b21e3a5bd3b16331d28e41b0511@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Truro
@@ -121,7 +121,7 @@ URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:4d926acc4aa7af58f002068ae0bdba3f789d982b@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Truro
@@ -142,29 +142,29 @@ URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a68534c888b7077d1ca4153400ae65f0e5aadbde@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Truro
-DESCRIPTION:Paw Patrol: The Dino Movie (1 min)\nAction, Adventure, Animatio
- n, Comedy, Family\n\nThe PAW Patrol pups crash land on an uncharted tropic
- al island filled with dinosaurs after their ship gets caught in a mysterio
- us storm. They meet Rex, a pup who has been stranded on the island for yea
- rs and has become an expert in all things dino-related. When the Patrol’s 
- archrival, Mayor Humdinger, begins recklessly mining in hopes of exploitin
- g the island for its natural resources, he inadvertently causes a huge, do
- rmant volcano to erupt. The pups are thrown into a series of high-stakes, 
- dino-sized rescues bigger than anything they’ve done before, as they must 
- stop Humdinger before everything on the island goes extinct.\n\nStarring: 
- Carter Young, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, 
- Lucien Duncan-Reid\n\nFilm release at WTW Cinemas Truro\nBook tickets: htt
- ps://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=truro
+DESCRIPTION:Paw Patrol: The Dino Movie (1 min)\nAdventure, Animation, Comed
+ y, Family\n\nThe PAW Patrol crash land on an uncharted tropical island fil
+ led with dinosaurs after their ship gets caught in a mysterious storm. The
+ y meet Rex, a pup who has been stranded for years and has become an expert
+  in all things dino-related. When the Patrol’s archrival, Mayor Humdinger,
+  begins recklessly mining to exploit the island's natural resources, he in
+ advertently causes a huge, dormant volcano to erupt. The pups are thrown i
+ nto a series of high-stakes, dino-sized rescues bigger than anything they’
+ ve done before, as they must stop Humdinger before everything on the islan
+ d goes extinct.\n\nStarring: Carter Young, Hayden Chamberlen, Mckenna Grac
+ e, Rain Janjua, Henry Bolan, Lucien Duncan-Reid\n\nFilm release at WTW Cin
+ emas Truro\nBook tickets: https://wtwcinemas.co.uk/film/paw-patrol-the-din
+ o-movie/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:b567cf0d424736666bd6de8bf99fcb7334df096c@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:The End Of Oak Street @ WTW Truro
@@ -181,7 +181,7 @@ URL:https://wtwcinemas.co.uk/film/the-end-of-oak-street/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:24bdb1ca8c7fdd4b9f5b6c612fc2189ec00c59e6@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Pressure @ WTW Truro
@@ -198,7 +198,7 @@ URL:https://wtwcinemas.co.uk/film/pressure/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:0aeb8b91a816951d08c423cd34a0c42108c0c94a@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Truro
@@ -217,25 +217,22 @@ URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:3abca195069164dce2c88e2fd5c3ec8e0600b706@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Truro
-DESCRIPTION:Street Fighter (1 min)\nAction, Comedy, Fantasy\n\nIn 1993, est
- ranged Street Fighters Ryu and Ken Masters are thrown back into combat whe
- n the mysterious Chun-Li recruits them for the next World Warrior Tourname
- nt: a brutal clash of fists, fate, and fury. But behind this battle royale
-  lies a deadly conspiracy that forces them to face off against each other 
- and the demons of their past. And if they don't, it's GAME OVER!\n\nStarri
- ng: Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Joe Ano
- a'i, Cody Rhodes\n\nFilm release at WTW Cinemas Truro\nBook tickets: https
- ://wtwcinemas.co.uk/film/street-fighter/?screen=truro
+DESCRIPTION:Street Fighter (1 min)\n★★☆☆☆\nAction, Comedy, Fantasy\n\nColon
+ el Guile and various other martial arts heroes fight against the tyranny o
+ f dictator M. Bison and his cohorts.\n\nStarring: Jean-Claude Van Damme, R
+ aúl Juliá, Kylie Minogue, Byron Mann, Damian Chapa, Ming-Na Wen\n\nFilm re
+ lease at WTW Cinemas Truro\nBook tickets: https://wtwcinemas.co.uk/film/st
+ reet-fighter/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:34cc34944b01a6c8e79a713a8ea3a5c7c5c0dabf@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Truro
@@ -250,7 +247,7 @@ URL:https://wtwcinemas.co.uk/film/digger/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:e8bbed7807188541aa0521206271055f577dd846@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Truro
@@ -268,7 +265,7 @@ URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:9b7249a133483947503439b61e4ecb61812d3b93@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine @ WTW Truro
@@ -286,7 +283,7 @@ URL:https://wtwcinemas.co.uk/film/wild-horse-nine/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:72600670da5e939de2a0407385ee803193ae8d0d@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Truro
@@ -294,16 +291,16 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping (1 min)\nScience Ficti
  on, Action, Adventure\n\nReturn to the world of Panem 24 years before the 
  events of The Hunger Games, starting on the morning of the reaping of the 
  50th Hunger Games, also known as the Second Quarter Quell.\n\nStarring: Jo
- seph Zada, Mckenna Grace, Jesse Plemons, Ralph Fiennes, Glenn Close, Whitn
- ey Peak\n\nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcin
- emas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?screen=truro
+ seph Zada, Mckenna Grace, Jesse Plemons, Elle Fanning, Ralph Fiennes, Maya
+  Hawke\n\nFilm release at WTW Cinemas Truro\nBook tickets: https://wtwcine
+ mas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?screen=truro
 LOCATION:WTW Cinemas Truro
 URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
  screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1c35c5b543f28562b2ab69b03d4c11e6e821a7@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Truro
@@ -318,7 +315,7 @@ URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:a3de4a75acc1eb6dbddf8f8d182fc3f2194063b7@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Truro
@@ -334,11 +331,11 @@ URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=truro
 END:VEVENT
 BEGIN:VEVENT
 UID:0420148135e5fa232791432af65f8d06556bab4b@wtw-cinemas-calendar
-DTSTAMP:20260610T121536Z
+DTSTAMP:20260611T123749Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Truro
-DESCRIPTION:Dune: Part Three (1 min)\nScience Fiction, Adventure, Action\n\
+DESCRIPTION:Dune: Part Three (1 min)\nAction, Adventure, Science Fiction\n\
  nAs Emperor, Paul Atreides grapples with the consequences of his rise to p
  ower as political conspiracies and a galaxy-spanning holy war threaten the
   future he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jas
