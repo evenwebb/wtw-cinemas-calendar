@@ -429,7 +429,7 @@ def enrich_film_tmdb(
         }
         cache[cache_key] = {**out, "cached_at": datetime.datetime.now().isoformat()}
         return out
-    except Exception as e:
+    except (requests.RequestException, KeyError, ValueError, TypeError) as e:
         logger.warning("TMDb enrich failed for %s: %s", search_title, e)
         cache[cache_key] = {"overview": "", "genres": [], "vote_average": None, "director": "", "cast": "", "cached_at": datetime.datetime.now().isoformat()}
         return {}
@@ -909,7 +909,7 @@ def make_ics_event(
     if NOTIFICATIONS.get('enabled', False):
         for alarm in NOTIFICATIONS.get('alarms', []):
             event_lines.append(generate_alarm(alarm, release_date).rstrip(ICAL_NEWLINE))
-    event_lines.extend(["END:VEVENT", ""])
+    event_lines.extend(["SEQUENCE:0", "END:VEVENT", ""])
     return ICAL_NEWLINE.join(event_lines)
 
 
@@ -1594,6 +1594,10 @@ def main() -> None:
         ]
         if CALENDAR_TIMEZONE.strip():
             calendar_lines.append(f"X-WR-TIMEZONE:{CALENDAR_TIMEZONE.strip()}")
+        calendar_lines.extend([
+            "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
+            "X-PUBLISHED-TTL:PT12H",
+        ])
         ical = (
             ICAL_NEWLINE.join(calendar_lines)
             + ICAL_NEWLINE
