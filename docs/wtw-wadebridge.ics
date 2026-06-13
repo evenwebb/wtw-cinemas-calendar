@@ -6,9 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:WTW Wadebridge Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at WTW Cinemas Wadebridge
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:4c6a022f8559c5cca2612a5a8a490255036bd11e@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Disclosure Day @ WTW Wadebridge
@@ -20,10 +22,11 @@ DESCRIPTION:Disclosure Day (2h 25min)\n★★★★☆\nMystery, Science Fiction
  closure-day/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/disclosure-day/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:5e96a2bb1ae486845034b5bc2fadb9ab499eebe5@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Toy Story 5 @ WTW Wadebridge
@@ -36,10 +39,11 @@ DESCRIPTION:Toy Story 5 (1h 42min)\n★★★★☆\nAnimation, Family, Comedy, 
  ets: https://wtwcinemas.co.uk/film/toy-story-5/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/toy-story-5/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5f97e0a71c32f92aeeb3927f89c3e0c21926f8@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Supergirl: Woman Of Tomorrow @ WTW Wadebridge
@@ -54,10 +58,11 @@ DESCRIPTION:Supergirl: Woman Of Tomorrow (1 min)\nAction, Adventure, Scienc
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/supergirl-woman-of-tomorrow/?screen=wadeb
  ridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d4d96280189295a5d891306995fbbd13762b203b@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Jackass: Best And Last @ WTW Wadebridge
@@ -69,10 +74,11 @@ DESCRIPTION:Jackass: Best And Last (1h 32min)\nAction, Comedy, Documentary\
  ass-best-and-last/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/jackass-best-and-last/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b45c594b1bf0b2a1eb5cbb4b40d56fc41978da77@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Minions & Monsters @ WTW Wadebridge
@@ -86,10 +92,11 @@ DESCRIPTION:Minions & Monsters (1h 24min)\nAdventure, Animation, Comedy, Fa
  s://wtwcinemas.co.uk/film/minions-3/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/minions-3/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:177427dea2762ca041890e9f77983a83e3717048@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Moana @ WTW Wadebridge
@@ -102,10 +109,11 @@ DESCRIPTION:Moana (1 min)\nFamily, Fantasy, Comedy, Adventure\n\nMoana answ
  .uk/film/moana/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/moana/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7c9b5606fe1facf5895d237303051772b659ba0b@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:The Odyssey @ WTW Wadebridge
@@ -119,10 +127,11 @@ DESCRIPTION:The Odyssey (2h 52min)\nAdventure, Action, Fantasy\n\nOdysseus,
  inemas.co.uk/film/the-odyssey/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/the-odyssey/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ea162047c304d1ff01a3d1ee7e901ac9d202122f@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Spider-Man: Brand New Day @ WTW Wadebridge
@@ -141,10 +150,11 @@ DESCRIPTION:Spider-Man: Brand New Day (1 min)\nScience Fiction, Action, Adv
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/spider-man-brand-new-day/?screen=wadebrid
  ge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0015ea814a27455192f638d3288e2f8463d711d0@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Paw Patrol: The Dino Movie @ WTW Wadebridge
@@ -164,10 +174,11 @@ DESCRIPTION:Paw Patrol: The Dino Movie (1 min)\nAdventure, Animation, Comed
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/paw-patrol-the-dino-movie/?screen=wadebri
  dge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4a879ab4cd0fe7e2b9bd591fb83f7a089ebacbe0@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:The End Of Oak Street @ WTW Wadebridge
@@ -181,10 +192,11 @@ DESCRIPTION:The End Of Oak Street (1 min)\nScience Fiction, Mystery, Thrill
  s.co.uk/film/the-end-of-oak-street/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/the-end-of-oak-street/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d35833989d78a94c0860d6f80c3a03a84801e1fd@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Pressure @ WTW Wadebridge
@@ -198,10 +210,11 @@ DESCRIPTION:Pressure (1h 40min)\n★★★★☆\nThriller, History, War\n\nIn t
  ilm/pressure/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/pressure/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ee4122785bbe2e2aac479dccfad0c368c02d63a1@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ WTW Wadebridge
@@ -218,10 +231,11 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom (1 min)\nFamily, Com
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/shaun-the-sheep-the-beast-of-mossy-bottom
  /?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:bcc3171a3128249956d8d70e11559562b1243e51@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Street Fighter @ WTW Wadebridge
@@ -233,10 +247,11 @@ DESCRIPTION:Street Fighter (1 min)\n★★☆☆☆\nAction, Comedy, Fantasy\n\n
  lm/street-fighter/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/street-fighter/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:65ba930e085630d40a912d5dfc0beabe88575a6f@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Digger @ WTW Wadebridge
@@ -248,10 +263,11 @@ DESCRIPTION:Digger (1h 46min)\nComedy, Drama\n\nThe most powerful man in th
  co.uk/film/digger/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/digger/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3d3a4e9032ea450d3c33f851f096e1eef488c83d@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dr Seuss’ The Cat in the Hat @ WTW Wadebridge
@@ -266,10 +282,11 @@ DESCRIPTION:Dr Seuss’ The Cat in the Hat (1 min)\n★★★☆☆\nTV Movie, A
  s: https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/the-cat-in-the-hat/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b061b5dfa78e11fc8a7ca0aae4883b625bfdbd11@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine @ WTW Wadebridge
@@ -285,10 +302,11 @@ DESCRIPTION:Wild Horse Nine (1 min)\nComedy, Crime, Thriller\n\nShortly bef
  idge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/wild-horse-nine/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e06c243d47516860efce5055c16466b23955fefc@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Hunger Games: Sunrise On The Reaping @ WTW Wadebridge
@@ -303,10 +321,11 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping (1 min)\nScience Ficti
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/the-hunger-games-sunrise-on-the-reaping/?
  screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1fdf864d81eca4d05a1a4d2515244207f709fd03@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Focker-In-Law @ WTW Wadebridge
@@ -318,10 +337,11 @@ DESCRIPTION:Focker-In-Law (1 min)\nComedy, Romance\n\nHenry, son of Greg an
  k/film/focker-in-law/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/focker-in-law/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3874ae6668498988584769df93a395c13af8f367@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Avengers: Doomsday @ WTW Wadebridge
@@ -334,10 +354,11 @@ DESCRIPTION:Avengers: Doomsday (1 min)\nScience Fiction, Action, Adventure\
  en=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/avengers-doomsday/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d55df8a4d820be237ab9688a4149d623fec333ee@wtw-cinemas-calendar
-DTSTAMP:20260611T123749Z
+DTSTAMP:20260613T110943Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ WTW Wadebridge
@@ -350,5 +371,6 @@ DESCRIPTION:Dune: Part Three (1 min)\nAction, Adventure, Science Fiction\n\
  dune-part-three/?screen=wadebridge
 LOCATION:WTW Cinemas Wadebridge
 URL:https://wtwcinemas.co.uk/film/dune-part-three/?screen=wadebridge
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR
